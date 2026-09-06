@@ -1,0 +1,16 @@
+id,query,expected_intent
+1,My card payment was declined at a store,card payment issue
+2,I was charged twice for the same card purchase,card payment issue
+3,My card shows a payment I do not recognize,card payment issue
+4,The ATM charged me but did not give me cash,cash withdrawal issue
+5,I withdrew cash but the amount is wrong,cash withdrawal issue
+6,My bank transfer is still pending,money transfer issue
+7,I sent money but the recipient has not received it,money transfer issue
+8,I forgot my password and cannot log in,account access issue
+9,My account is locked after too many login attempts,account access issue
+10,The merchant refunded me but I cannot see it,refund issue
+11,Why was I charged an extra service fee,fees and charges question
+12,My identity verification keeps failing,identity verification issue
+13,I deposited money but my balance has not updated,cash deposit issue
+14,How can I manage my account settings,general account question
+15,Where can I see my recent account activity,general account question

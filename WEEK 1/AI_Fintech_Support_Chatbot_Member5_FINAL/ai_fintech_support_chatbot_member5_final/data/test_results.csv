@@ -1,0 +1,16 @@
+id,query,expected_intent,predicted_intent,confidence,result,notes
+1,My card payment was declined at a store,card payment issue,card payment issue,0.9853,PASS,
+2,I was charged twice for the same card purchase,card payment issue,card payment issue,0.5358,PASS,
+3,My card shows a payment I do not recognize,card payment issue,card payment issue,0.933,PASS,
+4,The ATM charged me but did not give me cash,cash withdrawal issue,cash withdrawal issue,0.8168,PASS,
+5,I withdrew cash but the amount is wrong,cash withdrawal issue,cash withdrawal issue,0.8682,PASS,
+6,My bank transfer is still pending,money transfer issue,money transfer issue,0.9701,PASS,
+7,I sent money but the recipient has not received it,money transfer issue,money transfer issue,0.9572,PASS,
+8,I forgot my password and cannot log in,account access issue,account access issue,0.9404,PASS,
+9,My account is locked after too many login attempts,account access issue,account access issue,0.9412,PASS,
+10,The merchant refunded me but I cannot see it,refund issue,refund issue,0.9493,PASS,
+11,Why was I charged an extra service fee,fees and charges question,fees and charges question,0.9751,PASS,
+12,My identity verification keeps failing,identity verification issue,identity verification issue,0.9929,PASS,
+13,I deposited money but my balance has not updated,cash deposit issue,cash deposit issue,0.7805,PASS,
+14,How can I manage my account settings,general account question,general account question,0.5876,PASS,
+15,Where can I see my recent account activity,general account question,account access issue,0.6172,FAIL,"Review label wording, model choice, or threshold."

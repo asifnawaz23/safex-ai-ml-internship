@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FinAssist AI</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <main class="shell">
+    <section class="hero">
+      <div>
+        <span class="badge">Hugging Face Transformers</span>
+        <h1>FinAssist AI</h1>
+        <p>Fintech customer-support intent classification and safe response routing.</p>
+      </div>
+      <div class="status"><span></span> Prototype</div>
+    </section>
+
+    <section class="chat-card">
+      <div class="chat-header">
+        <div class="avatar">AI</div>
+        <div>
+          <strong>FinAssist Support</strong>
+          <small>Never share passwords, PINs, CVVs or OTPs.</small>
+        </div>
+      </div>
+
+      <div id="messages" class="messages">
+        <div class="bubble bot">
+          Hi! Describe your fintech support issue. I can classify card, ATM, transfer,
+          account access, refund, deposit, fee and verification questions.
+        </div>
+      </div>
+
+      <div class="chips">
+        <button data-text="My bank transfer is still pending">Pending transfer</button>
+        <button data-text="The ATM charged me but did not give me cash">ATM issue</button>
+        <button data-text="I forgot my password and cannot log in">Login problem</button>
+        <button data-text="Why was I charged an extra service fee?">Fee question</button>
+      </div>
+
+      <form id="chatForm" class="composer">
+        <input id="messageInput" maxlength="500" autocomplete="off"
+               placeholder="Type a support question..." />
+        <button id="sendBtn" type="submit">Send</button>
+      </form>
+      <p id="error" class="error"></p>
+    </section>
+
+    <section class="info-grid">
+      <article><b>AI task</b><span>Zero-shot intent classification</span></article>
+      <article><b>Model</b><span>DeBERTa v3 xsmall</span></article>
+      <article><b>Safety</b><span>Controlled response templates</span></article>
+    </section>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
