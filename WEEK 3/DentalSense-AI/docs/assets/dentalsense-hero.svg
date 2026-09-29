@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
+  <title id="title">DentalSense AI portfolio banner</title>
+  <desc id="desc">A dark teal three-dimensional analytics dashboard with sentiment charts and a dental icon.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#061b2c"/>
+      <stop offset="0.5" stop-color="#0b3344"/>
+      <stop offset="1" stop-color="#0b5b5d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="70%" cy="43%" r="54%">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity=".26"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#14b8a6"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ecfeff"/>
+      <stop offset="1" stop-color="#ccfbf1"/>
+    </linearGradient>
+    <linearGradient id="side" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f766e"/>
+      <stop offset="1" stop-color="#064e4a"/>
+    </linearGradient>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="200%">
+      <feDropShadow dx="0" dy="22" stdDeviation="18" flood-color="#020617" flood-opacity=".46"/>
+    </filter>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <clipPath id="screenClip"><path d="M743 102 L1138 198 L1007 405 L611 307 Z"/></clipPath>
+  </defs>
+
+  <rect width="1280" height="520" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="520" rx="28" fill="url(#glow)"/>
+  <circle cx="1100" cy="92" r="118" fill="#2dd4bf" opacity=".07"/>
+  <circle cx="123" cy="470" r="170" fill="#38bdf8" opacity=".06"/>
+  <path d="M0 416 C250 350 425 504 676 426 S1060 328 1280 396 V520 H0Z" fill="#061826" opacity=".62"/>
+
+  <!-- Brand copy -->
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <g transform="translate(78 82)">
+      <rect width="74" height="74" rx="22" fill="url(#accent)" filter="url(#shadow)"/>
+      <path d="M21 22 C27 13 35 18 37 18 C39 18 47 13 53 22 C60 34 51 42 49 52 C47 62 43 64 40 54 L38 47 C37 44 35 44 34 47 L31 54 C28 64 24 62 22 52 C20 42 14 34 21 22Z" fill="#ffffff"/>
+      <circle cx="52" cy="17" r="5" fill="#cffafe"/>
+      <path d="M52 7 V27 M42 17 H62" stroke="#cffafe" stroke-width="3" stroke-linecap="round" opacity=".72"/>
+    </g>
+    <text x="78" y="203" fill="#ffffff" font-size="54" font-weight="800" letter-spacing="-1.5">DentalSense AI</text>
+    <text x="80" y="244" fill="#99f6e4" font-size="19" font-weight="700" letter-spacing="3">PATIENT EXPERIENCE INTELLIGENCE</text>
+    <text x="80" y="301" fill="#d7f7f2" font-size="23" font-weight="500">Transform feedback into clear,</text>
+    <text x="80" y="334" fill="#d7f7f2" font-size="23" font-weight="500">data-driven operational insight.</text>
+    <g transform="translate(80 377)">
+      <rect width="142" height="42" rx="21" fill="#14b8a6"/>
+      <text x="71" y="27" fill="#ffffff" text-anchor="middle" font-size="14" font-weight="700">REAL NLP</text>
+      <rect x="154" width="160" height="42" rx="21" fill="#ffffff" opacity=".1" stroke="#5eead4"/>
+      <text x="234" y="27" fill="#ccfbf1" text-anchor="middle" font-size="14" font-weight="700">CPU OPTIMIZED</text>
+      <rect x="326" width="150" height="42" rx="21" fill="#ffffff" opacity=".1" stroke="#5eead4"/>
+      <text x="401" y="27" fill="#ccfbf1" text-anchor="middle" font-size="14" font-weight="700">PRIVACY FIRST</text>
+    </g>
+  </g>
+
+  <!-- 3D platform -->
+  <g filter="url(#shadow)">
+    <path d="M642 333 L1013 425 L1174 355 L804 264 Z" fill="#042f2e" opacity=".8"/>
+    <path d="M642 333 L1013 425 L1013 447 L642 354 Z" fill="#022c2c"/>
+    <path d="M1013 425 L1174 355 L1174 376 L1013 447 Z" fill="#0f766e"/>
+  </g>
+
+  <!-- 3D dashboard body -->
+  <g filter="url(#shadow)">
+    <path d="M743 102 L1138 198 L1007 405 L611 307 Z" fill="url(#panel)"/>
+    <path d="M611 307 L1007 405 L1007 426 L611 328 Z" fill="#0b6b68"/>
+    <path d="M1007 405 L1138 198 L1138 219 L1007 426 Z" fill="url(#side)"/>
+  </g>
+
+  <!-- Dashboard content clipped to perspective -->
+  <g clip-path="url(#screenClip)" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <path d="M743 102 L1138 198 L1118 230 L723 133 Z" fill="#0f766e"/>
+    <circle cx="753" cy="128" r="6" fill="#5eead4"/>
+    <text x="769" y="138" fill="#ffffff" font-size="15" font-weight="800" transform="rotate(14 769 138)">ANALYTICS OVERVIEW</text>
+
+    <!-- KPI cards -->
+    <g transform="rotate(14 790 178)">
+      <rect x="704" y="144" width="106" height="58" rx="10" fill="#ffffff"/>
+      <text x="718" y="164" fill="#64748b" font-size="9" font-weight="700">REVIEWS</text>
+      <text x="718" y="190" fill="#0f172a" font-size="24" font-weight="800">117</text>
+      <rect x="820" y="144" width="106" height="58" rx="10" fill="#ffffff"/>
+      <text x="834" y="164" fill="#64748b" font-size="9" font-weight="700">POSITIVE</text>
+      <text x="834" y="190" fill="#059669" font-size="24" font-weight="800">53%</text>
+      <rect x="936" y="144" width="106" height="58" rx="10" fill="#ffffff"/>
+      <text x="950" y="164" fill="#64748b" font-size="9" font-weight="700">CONFIDENCE</text>
+      <text x="950" y="190" fill="#0f766e" font-size="24" font-weight="800">99.2</text>
+    </g>
+
+    <!-- Charts -->
+    <g transform="rotate(14 800 267)">
+      <rect x="678" y="215" width="178" height="126" rx="12" fill="#ffffff"/>
+      <text x="692" y="235" fill="#334155" font-size="10" font-weight="800">SENTIMENT</text>
+      <circle cx="750" cy="284" r="36" fill="none" stroke="#e2e8f0" stroke-width="16"/>
+      <path d="M750 248 A36 36 0 1 1 717 298" fill="none" stroke="#10b981" stroke-width="16" stroke-linecap="round"/>
+      <path d="M717 298 A36 36 0 0 1 750 248" fill="none" stroke="#ef4444" stroke-width="16"/>
+      <text x="750" y="288" text-anchor="middle" fill="#0f172a" font-size="13" font-weight="800">117</text>
+
+      <rect x="869" y="215" width="202" height="126" rx="12" fill="#ffffff"/>
+      <text x="883" y="235" fill="#334155" font-size="10" font-weight="800">FEEDBACK THEMES</text>
+      <g fill="#14b8a6">
+        <rect x="889" y="268" width="18" height="54" rx="4"/>
+        <rect x="918" y="251" width="18" height="71" rx="4" opacity=".9"/>
+        <rect x="947" y="281" width="18" height="41" rx="4" opacity=".76"/>
+        <rect x="976" y="260" width="18" height="62" rx="4" opacity=".86"/>
+        <rect x="1005" y="291" width="18" height="31" rx="4" opacity=".62"/>
+        <rect x="1034" y="274" width="18" height="48" rx="4" opacity=".72"/>
+      </g>
+      <path d="M884 322 H1058" stroke="#cbd5e1"/>
+    </g>
+  </g>
+
+  <!-- Floating analysis card -->
+  <g filter="url(#shadow)" transform="rotate(-5 1090 105)">
+    <rect x="1034" y="63" width="153" height="72" rx="16" fill="#ffffff"/>
+    <circle cx="1059" cy="88" r="11" fill="#d1fae5"/>
+    <path d="M1054 88 L1058 92 L1065 84" fill="none" stroke="#059669" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="1080" y="89" fill="#0f172a" font-family="Inter, Segoe UI, Arial" font-size="12" font-weight="800">POSITIVE</text>
+    <text x="1051" y="117" fill="#64748b" font-family="Inter, Segoe UI, Arial" font-size="10" font-weight="700">CONFIDENCE 99.2%</text>
+  </g>
+
+  <!-- Decorative points -->
+  <g fill="#5eead4">
+    <circle cx="577" cy="104" r="4"/><circle cx="602" cy="82" r="2" opacity=".65"/><circle cx="1177" cy="273" r="3"/>
+  </g>
+</svg>

@@ -1,0 +1,118 @@
+id,date,feedback
+1,2026-06-02,The dentist explained the procedure very clearly and answered all my questions.
+2,2026-06-05,Dr. Smith was gentle and I felt no pain during the filling.
+3,2026-06-11,The dentist was extremely professional and put me at ease.
+4,2026-07-01,My dentist took the time to walk me through the treatment plan.
+5,2026-07-14,"Excellent dentist, very knowledgeable and reassuring."
+6,2026-08-03,The doctor was patient and thorough with my examination.
+7,2026-08-19,"Dr. Lee did a wonderful job on my crown, highly recommend."
+8,2026-09-04,The dentist made a nervous patient feel completely comfortable.
+9,2026-06-20,The dentist was rough and did not explain what he was doing.
+10,2026-07-22,I felt rushed by the dentist and my questions were ignored.
+11,2026-08-27,The dentist seemed distracted and made me anxious.
+12,2026-09-15,"Very disappointed, the dentist barely spoke to me during the visit."
+13,2026-06-03,The receptionist was extremely friendly and welcoming.
+14,2026-06-18,Front desk staff were helpful and sorted my paperwork quickly.
+15,2026-07-06,The hygienist was kind and gave great aftercare advice.
+16,2026-07-28,Reception team was warm and made check-in effortless.
+17,2026-08-09,The nurse was reassuring and very attentive.
+18,2026-09-01,Friendly staff who genuinely seemed to care about patients.
+19,2026-06-25,Staff was rude when I asked about the bill.
+20,2026-07-19,The receptionist was dismissive and unhelpful on the phone.
+21,2026-08-14,Front desk staff seemed annoyed by my questions.
+22,2026-09-10,The assistant was impatient and unfriendly.
+23,2026-06-07,"I was seen right on time, no waiting at all."
+24,2026-07-11,"Prompt service, the appointment started exactly on schedule."
+25,2026-08-05,"Minimal wait, I was called within five minutes."
+26,2026-09-06,"Very efficient, no delays and a quick appointment."
+27,2026-06-09,The waiting time was much longer than expected.
+28,2026-06-29,I had to wait 45 minutes past my appointment time.
+29,2026-07-16,"Waited almost an hour before being seen, very frustrating."
+30,2026-08-21,The clinic was running late and no one updated us.
+31,2026-09-12,"Long delays every time I visit, the scheduling is poor."
+32,2026-09-22,I waited 50 minutes even though I arrived early.
+33,2026-06-13,Very expensive treatment but good quality work.
+34,2026-07-03,The cleaning was thorough and my teeth feel great.
+35,2026-07-25,Painless extraction and excellent follow-up care.
+36,2026-08-11,The filling was done well and feels completely natural.
+37,2026-09-08,My root canal treatment was smooth and pain free.
+38,2026-06-22,The procedure was painful and the numbing wore off too soon.
+39,2026-07-30,My filling fell out a week after the treatment.
+40,2026-08-24,The cleaning felt rushed and my gums were sore afterwards.
+41,2026-09-18,"Painful experience during the extraction, would not return."
+42,2026-06-04,The clinic was clean and the receptionist was friendly.
+43,2026-07-08,"Spotless clinic, everything looked sterile and modern."
+44,2026-08-02,"Very hygienic environment, I felt safe throughout."
+45,2026-09-03,The treatment rooms were immaculate and well maintained.
+46,2026-06-27,The bathroom was dirty and clearly not cleaned regularly.
+47,2026-07-21,The waiting area looked messy and dusty.
+48,2026-08-29,Instruments were left out and the room felt unhygienic.
+49,2026-06-15,Affordable pricing and they explained the costs upfront.
+50,2026-07-12,Reasonable prices and my insurance was handled smoothly.
+51,2026-08-16,Great value for the quality of care I received.
+52,2026-06-30,The treatment was far too expensive for what it was.
+53,2026-07-24,Hidden charges appeared on my bill that were never mentioned.
+54,2026-08-26,Overpriced and the insurance claim was a hassle.
+55,2026-09-20,The cost was much higher than the original quote.
+56,2026-06-06,Booking an appointment was easy and fast.
+57,2026-07-09,Scheduling online was simple and I got a convenient slot.
+58,2026-08-07,Rescheduling my appointment was quick and hassle free.
+59,2026-09-05,Easy to book and I received a helpful reminder.
+60,2026-06-28,It took three calls to finally book an appointment.
+61,2026-07-27,They cancelled my appointment last minute without notice.
+62,2026-08-23,The booking system is confusing and kept failing.
+63,2026-06-08,The facility is modern and well equipped.
+64,2026-07-15,Comfortable chairs and up to date equipment.
+65,2026-08-13,"Great parking and a pleasant, modern waiting room."
+66,2026-09-07,The equipment looked new and the facilities were excellent.
+67,2026-06-24,Parking was impossible and the waiting room was cramped.
+68,2026-07-31,The dental chair was uncomfortable and old.
+69,2026-08-28,The facilities felt outdated and the equipment was noisy.
+70,2026-06-16,"The visit was okay, nothing particularly stood out."
+71,2026-07-04,It was an average appointment overall.
+72,2026-07-18,Good dentist but the wait was a little long.
+73,2026-08-06,The staff were fine and the treatment was acceptable.
+74,2026-08-30,"Not great, not terrible, just a standard checkup."
+75,2026-09-11,The care was decent though the pricing felt a bit high.
+76,2026-09-17,"Mixed feelings, friendly staff but a long wait time."
+77,2026-09-25,The appointment happened as scheduled.
+78,2026-06-10,Great service.
+79,2026-06-19,Very professional.
+80,2026-07-02,Terrible experience.
+81,2026-07-13,Highly recommend.
+82,2026-07-26,Would not return.
+83,2026-08-01,Excellent clinic.
+84,2026-08-18,Disappointing visit.
+85,2026-09-02,Friendly and quick.
+86,2026-06-14,"From the moment I walked in, the receptionist greeted me warmly, the waiting room was spotless, and the dentist explained every step of my treatment in detail before starting. I left feeling well cared for and will definitely be back."
+87,2026-07-20,"Although the dentist himself was skilled and the filling was done properly, the overall experience was let down by a 40 minute wait and a bill that was noticeably higher than the quote I was originally given."
+88,2026-08-15,"The hygienist was thorough and gentle, taking time to explain how to improve my brushing routine, and the modern equipment made the cleaning quick and comfortable. Excellent value for the price."
+89,2026-09-09,"I was extremely nervous about my extraction, but the staff reassured me throughout, the dentist was patient and gentle, and the aftercare instructions were clear and easy to follow. A genuinely positive experience."
+90,2026-09-19,"Unfortunately my appointment was cancelled twice, the waiting room was crowded when I finally attended, and the treatment felt rushed. The dentist was polite but the clinic clearly needs better scheduling."
+91,2026-06-12,The dentist was caring and the treatment was painless.
+92,2026-06-17,Reception staff were welcoming and efficient.
+93,2026-06-21,Waited far too long for a simple checkup.
+94,2026-06-23,The clinic was sparkling clean and well organised.
+95,2026-06-26,Pricing was transparent and fair.
+96,2026-07-05,Booking online could not have been easier.
+97,2026-07-07,The parking situation was a nightmare.
+98,2026-07-10,Dr. Patel was fantastic and very gentle.
+99,2026-07-17,The assistant was cold and unhelpful.
+100,2026-07-23,My cleaning appointment was quick and effective.
+101,2026-07-29,The bill was confusing and full of extra fees.
+102,2026-08-04,The new equipment made the visit comfortable.
+103,2026-08-08,Long wait and an unfriendly receptionist.
+104,2026-08-10,The dentist reassured my child throughout the visit.
+105,2026-08-12,Everything was spotless and modern.
+106,2026-08-17,The treatment left me in pain for days.
+107,2026-08-20,Scheduling my follow-up was effortless.
+108,2026-08-22,The facilities were dated but the care was good.
+109,2026-08-25,Rude staff ruined an otherwise fine appointment.
+110,2026-08-31,Affordable and professional dental care.
+111,2026-09-13,The waiting room was calm and comfortable.
+112,2026-09-14,The dentist rushed through my checkup.
+113,2026-09-16,"Clean, modern, and friendly clinic overall."
+114,2026-09-21,The extraction was handled with great care.
+115,2026-09-23,Too expensive and the wait was unbearable.
+116,2026-09-24,"The hygienist gave excellent, gentle care."
+117,2026-09-26,"A smooth, professional, and pleasant visit."
