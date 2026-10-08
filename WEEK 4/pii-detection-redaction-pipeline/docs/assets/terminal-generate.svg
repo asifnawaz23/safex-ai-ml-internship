@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="502" viewBox="0 0 960 502" role="img" aria-labelledby="title desc">
+<title id="title">Captured terminal output: &amp; $py -m pii_pipeline.cli generate</title>
+<desc id="desc">Synthetic dataset generation with entity counts, trap count and file hashes. Rendered from docs/assets/captures/generate.txt by scripts/render_readme_assets.py; not a screen capture.</desc>
+<defs><clipPath id="win"><rect x="24" y="24" width="912" height="454" rx="14"/></clipPath><filter id="sh" x="-5%" y="-5%" width="110%" height="115%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#010409" flood-opacity=".45"/></filter></defs>
+<style>.m{font-family:'Cascadia Mono', Consolas, Menlo, 'DejaVu Sans Mono', monospace;font-size:15px;white-space:pre}.s{font-family:Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif}</style>
+<rect x="24" y="24" width="912" height="454" rx="14" fill="#0D1117" filter="url(#sh)"/>
+<g clip-path="url(#win)"><rect x="24" y="24" width="912" height="38" fill="#161B22"/></g>
+<line x1="24" y1="62" x2="936" y2="62" stroke="#30363D"/>
+<rect x="24.5" y="24.5" width="911" height="453" rx="14" fill="none" stroke="#30363D"/>
+<circle cx="46" cy="43.0" r="6" fill="#FF5F56"/>
+<circle cx="66" cy="43.0" r="6" fill="#FFBD2E"/>
+<circle cx="86" cy="43.0" r="6" fill="#27C93F"/>
+<text x="480.0" y="48" class="s" font-size="13" fill="#8B949E" text-anchor="middle">Windows PowerShell · pii-detection-redaction-pipeline</text>
+<text x="920" y="48" class="s" font-size="12" fill="#6E7681" text-anchor="end">captured 2026-10-07 · exit 0</text>
+<text x="46" y="88" class="m" fill="#3FB950" font-weight="700" textLength="36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PS&gt; </text>
+<text x="82" y="88" class="m" fill="#E6EDF3" textLength="306" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&amp; $py -m pii_pipeline.cli generate</text>
+<text x="46" y="110" class="m" fill="#8B949E" textLength="603" lengthAdjust="spacingAndGlyphs" xml:space="preserve">INFO pii_pipeline.ground_truth: Saved 3412 ground-truth annotations</text>
+<text x="46" y="132" class="m" fill="#8B949E" textLength="774" lengthAdjust="spacingAndGlyphs" xml:space="preserve">INFO pii_pipeline.pipeline: Dataset written: 870 records, 3412 annotations, 1038 traps</text>
+<text x="46" y="154" class="m" fill="#C9D1D9" textLength="531" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Generated 870 records (850 planted + 20 challenge), seed=42</text>
+<text x="46" y="176" class="m" fill="#C9D1D9" textLength="720" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Annotations: 3412 across 7 entity types; FP traps: 1038; records without PII: 23</text>
+<text x="46" y="198" class="m" fill="#C9D1D9" textLength="207" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  ADDRESS           416</text>
+<text x="46" y="220" class="m" fill="#C9D1D9" textLength="207" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  CNIC              203</text>
+<text x="46" y="242" class="m" fill="#C9D1D9" textLength="207" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  CUSTOMER_ID       445</text>
+<text x="46" y="264" class="m" fill="#C9D1D9" textLength="207" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  EMAIL_ADDRESS     431</text>
+<text x="46" y="286" class="m" fill="#C9D1D9" textLength="207" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  PERSON           1100</text>
+<text x="46" y="308" class="m" fill="#C9D1D9" textLength="207" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  PHONE_NUMBER      640</text>
+<text x="46" y="330" class="m" fill="#C9D1D9" textLength="207" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  POSTAL_CODE       177</text>
+<text x="46" y="352" class="m" fill="#C9D1D9" textLength="207" lengthAdjust="spacingAndGlyphs" xml:space="preserve">All offsets valid: True</text>
+<text x="46" y="374" class="m" fill="#C9D1D9" textLength="747" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  documents          data/generated/synthetic_documents.csv  sha256=c9fa2c291344...</text>
+<text x="46" y="396" class="m" fill="#C9D1D9" textLength="693" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  ground_truth_json  data/generated/ground_truth.json  sha256=40a2b4a9d9ae...</text>
+<text x="46" y="418" class="m" fill="#C9D1D9" textLength="684" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  ground_truth_csv   data/generated/ground_truth.csv  sha256=394e19247a0e...</text>
+<text x="46" y="440" class="m" fill="#C9D1D9" textLength="657" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  fp_traps           data/generated/fp_traps.json  sha256=6ca1e85dee1c...</text>
+</svg>

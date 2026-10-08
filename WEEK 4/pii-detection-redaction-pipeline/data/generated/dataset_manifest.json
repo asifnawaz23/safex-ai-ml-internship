@@ -1,0 +1,61 @@
+{
+  "generator_version": "2.0.0",
+  "seed": 42,
+  "requested_count": 850,
+  "total_records": 870,
+  "planted_records": 850,
+  "challenge_records": 20,
+  "records_without_pii": 23,
+  "annotations": 3412,
+  "traps": 1038,
+  "entity_type_counts": {
+    "ADDRESS": 416,
+    "CNIC": 203,
+    "CUSTOMER_ID": 445,
+    "EMAIL_ADDRESS": 431,
+    "PERSON": 1100,
+    "PHONE_NUMBER": 640,
+    "POSTAL_CODE": 177
+  },
+  "doc_type_counts": {
+    "contact_form": 146,
+    "customer_service_message": 146,
+    "delivery_note": 145,
+    "delivery_order": 145,
+    "internal_operational_note": 145,
+    "subscription_record": 143
+  },
+  "trap_kind_counts": {
+    "barcode": 22,
+    "batch_code": 89,
+    "bottle_count": 305,
+    "date": 159,
+    "invoice_number": 67,
+    "invoice_total": 72,
+    "order_digits": 120,
+    "order_number": 58,
+    "tracking_number": 22,
+    "vehicle_plate": 124
+  },
+  "all_offsets_valid": true,
+  "offset_convention": "0-based, end-exclusive",
+  "synthetic_only": true,
+  "files": {
+    "documents": {
+      "path": "data/generated/synthetic_documents.csv",
+      "sha256": "c9fa2c291344af6e6156220debee97b597800975e62fcb707d5cd5f73e584ac6"
+    },
+    "ground_truth_json": {
+      "path": "data/generated/ground_truth.json",
+      "sha256": "40a2b4a9d9aed52cce4d955a1bef1e660545a812e732dc3ca7f39130a0ddd6a5"
+    },
+    "ground_truth_csv": {
+      "path": "data/generated/ground_truth.csv",
+      "sha256": "394e19247a0e556df849c5e3d9798148c859e856f4fc75ff5986c5d491f2ad9e"
+    },
+    "fp_traps": {
+      "path": "data/generated/fp_traps.json",
+      "sha256": "6ca1e85dee1cfc774f9aad4bc4a8d1d13a99297458a38cf58a6af7d9881206ba"
+    }
+  }
+}

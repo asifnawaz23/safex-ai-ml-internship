@@ -1,0 +1,1 @@
+Refused: Text contains an email address outside the reserved example.com/.org/.net domains; only synthetic data may be processed

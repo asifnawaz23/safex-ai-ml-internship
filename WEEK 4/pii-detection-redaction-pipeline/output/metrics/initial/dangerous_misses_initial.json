@@ -1,0 +1,199 @@
+{
+  "improved_false_negatives": 456,
+  "cases": [
+    {
+      "record_id": "REC-00546",
+      "annotation_id": "REC-00546-E03",
+      "entity_type": "CNIC",
+      "doc_type": "internal_operational_note",
+      "tags": [
+        "cnic_plain"
+      ],
+      "category_before": "missed",
+      "diagnosis": "cnic_plain_missed",
+      "excerpt": "...r Account - UB*****35 / Customer NIC:42*********43 / Action: Verified customer identity...",
+      "observed_before": "missed: no prediction overlaps the span"
+    },
+    {
+      "record_id": "CHAL-013",
+      "annotation_id": "CHAL-013-E01",
+      "entity_type": "CNIC",
+      "doc_type": "internal_operational_note",
+      "tags": [
+        "cnic_plain",
+        "no_context"
+      ],
+      "category_before": "missed",
+      "diagnosis": "cnic_plain_no_context",
+      "excerpt": "Customer read out 41*********93 twice on the call.",
+      "observed_before": "missed: no prediction overlaps the span"
+    },
+    {
+      "record_id": "CHAL-017",
+      "annotation_id": "CHAL-017-E01",
+      "entity_type": "CNIC",
+      "doc_type": "contact_form",
+      "tags": [
+        "cnic_spaced",
+        "heldout_format"
+      ],
+      "category_before": "missed",
+      "diagnosis": "cnic_space_separated",
+      "excerpt": "CNIC: 21*********** 7 (customer typed it with spaces).",
+      "observed_before": "missed: no prediction overlaps the span"
+    },
+    {
+      "record_id": "REC-00145",
+      "annotation_id": "REC-00145-E04",
+      "entity_type": "PHONE_NUMBER",
+      "doc_type": "delivery_order",
+      "tags": [
+        "phone_dot_separated",
+        "heldout_format"
+      ],
+      "category_before": "missed",
+      "diagnosis": "phone_dot_separated",
+      "excerpt": "...Ho********************************************la. Please call 03********68 on arrival.",
+      "observed_before": "missed: no prediction overlaps the span"
+    },
+    {
+      "record_id": "REC-00134",
+      "annotation_id": "REC-00134-E03",
+      "entity_type": "PHONE_NUMBER",
+      "doc_type": "contact_form",
+      "tags": [
+        "phone_local_4_3_4",
+        "heldout_format"
+      ],
+      "category_before": "missed",
+      "diagnosis": "phone_local_4_3_4",
+      "excerpt": "...il=na********************rg; phone=03*********07; topic=delivery",
+      "observed_before": "missed: no prediction overlaps the span"
+    },
+    {
+      "record_id": "CHAL-019",
+      "annotation_id": "CHAL-019-E02",
+      "entity_type": "PHONE_NUMBER",
+      "doc_type": "delivery_note",
+      "tags": [
+        "phone_local_hyphen",
+        "no_whitespace"
+      ],
+      "category_before": "partial",
+      "diagnosis": "phone_partial",
+      "excerpt": "Contact:Ra*******ed(03********61)",
+      "observed_before": "partial: predicted PHONE_NUMBER [19:32] '(0*********61' by PhoneRecognizer vs GT [20:32]"
+    },
+    {
+      "record_id": "REC-00002",
+      "annotation_id": "REC-00002-E02",
+      "entity_type": "EMAIL_ADDRESS",
+      "doc_type": "contact_form",
+      "tags": [],
+      "category_before": "partial",
+      "diagnosis": "email_partial",
+      "excerpt": "...ntact; name=Pa***********in; email=p.*****************om; phone=03*******77; topic=new conn...",
+      "observed_before": "partial: predicted EMAIL_ADDRESS [43:70] 'em***********************om' by EmailRecognizer vs GT [49:70]"
+    },
+    {
+      "record_id": "REC-00086",
+      "annotation_id": "REC-00086-E02",
+      "entity_type": "EMAIL_ADDRESS",
+      "doc_type": "contact_form",
+      "tags": [
+        "uppercase_email"
+      ],
+      "category_before": "partial",
+      "diagnosis": "email_uppercase_partial",
+      "excerpt": "...b-contact; name=Ta*******za; email=TA******************OM; cnic=35***********-1; topic=billi...",
+      "observed_before": "partial: predicted EMAIL_ADDRESS [39:67] 'em************************OM' by EmailRecognizer vs GT [45:67]"
+    },
+    {
+      "record_id": "CHAL-015",
+      "annotation_id": "CHAL-015-E01",
+      "entity_type": "PERSON",
+      "doc_type": "internal_operational_note",
+      "tags": [
+        "lowercase_name"
+      ],
+      "category_before": "missed",
+      "diagnosis": "person_lowercase_name_missed",
+      "excerpt": "spoke to sh*********si about the leaking dispenser, will ...",
+      "observed_before": "missed: no prediction overlaps the span"
+    },
+    {
+      "record_id": "REC-00006",
+      "annotation_id": "REC-00006-E01",
+      "entity_type": "PERSON",
+      "doc_type": "internal_operational_note",
+      "tags": [],
+      "category_before": "missed",
+      "diagnosis": "person_missed",
+      "excerpt": "Visited No********al today about account UB*****73. Cus...",
+      "observed_before": "missed: no prediction overlaps the span"
+    },
+    {
+      "record_id": "REC-00048",
+      "annotation_id": "REC-00048-E05",
+      "entity_type": "PERSON",
+      "doc_type": "internal_operational_note",
+      "tags": [
+        "three_token_name"
+      ],
+      "category_before": "missed",
+      "diagnosis": "person_three_token_name_missed",
+      "excerpt": "... Will call back on 03********61. - Al************ar",
+      "observed_before": "missed: no prediction overlaps the span"
+    },
+    {
+      "record_id": "REC-00028",
+      "annotation_id": "REC-00028-E01",
+      "entity_type": "PERSON",
+      "doc_type": "delivery_note",
+      "tags": [
+        "uppercase_name"
+      ],
+      "category_before": "missed",
+      "diagnosis": "person_uppercase_name_missed",
+      "excerpt": "DN-751194 | drv: OM*******SI | to: Us*******al | +9************01...",
+      "observed_before": "missed: no prediction overlaps the span"
+    },
+    {
+      "record_id": "REC-00127",
+      "annotation_id": "REC-00127-E01",
+      "entity_type": "PERSON",
+      "doc_type": "delivery_order",
+      "tags": [
+        "lowercase_name"
+      ],
+      "category_before": "partial",
+      "diagnosis": "person_lowercase_name_partial",
+      "excerpt": "order pls - name ha**********hi | ph +9***********11 | addr Sh**************************an...",
+      "observed_before": "partial: predicted PERSON [17:40] 'ha*******************92' by SpacyRecognizer vs GT [17:31]"
+    },
+    {
+      "record_id": "CHAL-019",
+      "annotation_id": "CHAL-019-E01",
+      "entity_type": "PERSON",
+      "doc_type": "delivery_note",
+      "tags": [
+        "no_whitespace"
+      ],
+      "category_before": "partial",
+      "diagnosis": "person_no_whitespace_partial",
+      "excerpt": "Contact:Ra*******ed(03********61)",
+      "observed_before": "partial: predicted PERSON [8:32] 'Ra********************61' by SpacyRecognizer vs GT [8:19]"
+    },
+    {
+      "record_id": "CHAL-008",
+      "annotation_id": "CHAL-008-E01",
+      "entity_type": "PERSON",
+      "doc_type": "subscription_record",
+      "tags": [],
+      "category_before": "partial",
+      "diagnosis": "person_partial",
+      "excerpt": "Subscriber Ma***********ri at Fl*************************************00...",
+      "observed_before": "partial: predicted PERSON [0:26] 'Su**********************ri' by SpacyRecognizer vs GT [11:26]"
+    }
+  ]
+}

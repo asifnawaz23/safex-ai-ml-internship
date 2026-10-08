@@ -1,0 +1,38 @@
+Evaluation summary - baseline (exact-span, entity-level)
+Entity             GT  Pred    TP    FN    FP   Recall    Prec.       F1
+PERSON           1100  1340   692   408   648   0.6291   0.5164   0.5672
+PHONE_NUMBER      640   661   591    49    70   0.9234   0.8941   0.9085
+CNIC              203     0     0   203     0   0.0000      N/A      N/A
+EMAIL_ADDRESS     431   431   431     0     0   1.0000   1.0000   1.0000
+ADDRESS           416   337     0   416   337   0.0000   0.0000   0.0000
+POSTAL_CODE       177     0     0   177     0   0.0000      N/A      N/A
+CUSTOMER_ID       445     0     0   445     0   0.0000      N/A      N/A
+OVERALL          3412  2769  1714  1698  1055   0.5023   0.6190   0.5546
+FP traps hit: 193/1038 (0.1859)
+
+Evaluation summary - improved (exact-span, entity-level)
+Entity             GT  Pred    TP    FN    FP   Recall    Prec.       F1
+PERSON           1100  1304   835   265   469   0.7591   0.6403   0.6947
+PHONE_NUMBER      640   648   640     0     8   1.0000   0.9877   0.9938
+CNIC              203   195   195     8     0   0.9606   1.0000   0.9799
+EMAIL_ADDRESS     431   431   431     0     0   1.0000   1.0000   1.0000
+ADDRESS           416   466   372    44    94   0.8942   0.7983   0.8435
+POSTAL_CODE       177   177   177     0     0   1.0000   1.0000   1.0000
+CUSTOMER_ID       445   445   445     0     0   1.0000   1.0000   1.0000
+OVERALL          3412  3666  3095   317   571   0.9071   0.8442   0.8745
+FP traps hit: 9/1038 (0.0087)
+
+Dangerous-miss cases: 15 (15 actual, 0 constructed)
+  baseline_metrics     output\metrics\baseline_metrics.csv
+  improved_metrics     output\metrics\improved_metrics.csv
+  comparison           output\metrics\comparison.csv
+  per_document         output\metrics\per_document_metrics.csv
+  doc_type             output\metrics\doc_type_metrics.csv
+  edge_case            output\metrics\edge_case_metrics.csv
+  fp_traps             output\metrics\fp_trap_report.csv
+  residual             output\metrics\residual_pii_report.csv
+  residual_details     output\metrics\residual_pii_details.csv
+  experiment_summary   output\metrics\experiment_summary.csv
+  summary              output\metrics\summary.json
+  dangerous_misses_csv output\metrics\dangerous_misses.csv
+  dangerous_misses_json output\metrics\dangerous_misses.json

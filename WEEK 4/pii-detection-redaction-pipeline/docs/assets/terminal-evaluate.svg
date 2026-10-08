@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="722" viewBox="0 0 960 722" role="img" aria-labelledby="title desc">
+<title id="title">Captured terminal output: &amp; $py -m pii_pipeline.cli evaluate</title>
+<desc id="desc">Evaluation summary for both modes: per-entity exact-span metrics, FP-trap hits and dangerous misses. Rendered from docs/assets/captures/evaluate.txt by scripts/render_readme_assets.py; not a screen capture.</desc>
+<defs><clipPath id="win"><rect x="24" y="24" width="912" height="674" rx="14"/></clipPath><filter id="sh" x="-5%" y="-5%" width="110%" height="115%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#010409" flood-opacity=".45"/></filter></defs>
+<style>.m{font-family:'Cascadia Mono', Consolas, Menlo, 'DejaVu Sans Mono', monospace;font-size:15px;white-space:pre}.s{font-family:Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif}</style>
+<rect x="24" y="24" width="912" height="674" rx="14" fill="#0D1117" filter="url(#sh)"/>
+<g clip-path="url(#win)"><rect x="24" y="24" width="912" height="38" fill="#161B22"/></g>
+<line x1="24" y1="62" x2="936" y2="62" stroke="#30363D"/>
+<rect x="24.5" y="24.5" width="911" height="673" rx="14" fill="none" stroke="#30363D"/>
+<circle cx="46" cy="43.0" r="6" fill="#FF5F56"/>
+<circle cx="66" cy="43.0" r="6" fill="#FFBD2E"/>
+<circle cx="86" cy="43.0" r="6" fill="#27C93F"/>
+<text x="480.0" y="48" class="s" font-size="13" fill="#8B949E" text-anchor="middle">Windows PowerShell · pii-detection-redaction-pipeline</text>
+<text x="920" y="48" class="s" font-size="12" fill="#6E7681" text-anchor="end">captured 2026-10-07 · exit 0</text>
+<text x="46" y="88" class="m" fill="#3FB950" font-weight="700" textLength="36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PS&gt; </text>
+<text x="82" y="88" class="m" fill="#E6EDF3" textLength="306" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&amp; $py -m pii_pipeline.cli evaluate</text>
+<text x="46" y="110" class="m" fill="#D2A8FF" font-weight="700" textLength="504" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Evaluation summary - baseline (exact-span, entity-level)</text>
+<text x="46" y="132" class="m" fill="#C9D1D9" textLength="648" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Entity             GT  Pred    TP    FN    FP   Recall    Prec.       F1</text>
+<text x="46" y="154" class="m" fill="#C9D1D9" textLength="648" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PERSON           1100  1340   692   408   648   0.6291   0.5164   0.5672</text>
+<text x="46" y="176" class="m" fill="#C9D1D9" textLength="648" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PHONE_NUMBER      640   661   591    49    70   0.9234   0.8941   0.9085</text>
+<text x="46" y="198" class="m" fill="#C9D1D9" textLength="648" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CNIC              203     0     0   203     0   0.0000      N/A      N/A</text>
+<text x="46" y="220" class="m" fill="#C9D1D9" textLength="648" lengthAdjust="spacingAndGlyphs" xml:space="preserve">EMAIL_ADDRESS     431   431   431     0     0   1.0000   1.0000   1.0000</text>
+<text x="46" y="242" class="m" fill="#C9D1D9" textLength="648" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ADDRESS           416   337     0   416   337   0.0000   0.0000   0.0000</text>
+<text x="46" y="264" class="m" fill="#C9D1D9" textLength="648" lengthAdjust="spacingAndGlyphs" xml:space="preserve">POSTAL_CODE       177     0     0   177     0   0.0000      N/A      N/A</text>
+<text x="46" y="286" class="m" fill="#C9D1D9" textLength="648" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CUSTOMER_ID       445     0     0   445     0   0.0000      N/A      N/A</text>
+<text x="46" y="308" class="m" fill="#E6EDF3" font-weight="700" textLength="648" lengthAdjust="spacingAndGlyphs" xml:space="preserve">OVERALL          3412  2769  1714  1698  1055   0.5023   0.6190   0.5546</text>
+<text x="46" y="330" class="m" fill="#C9D1D9" textLength="279" lengthAdjust="spacingAndGlyphs" xml:space="preserve">FP traps hit: 193/1038 (0.1859)</text>
+<text x="46" y="374" class="m" fill="#D2A8FF" font-weight="700" textLength="504" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Evaluation summary - improved (exact-span, entity-level)</text>
+<text x="46" y="396" class="m" fill="#C9D1D9" textLength="648" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Entity             GT  Pred    TP    FN    FP   Recall    Prec.       F1</text>
+<text x="46" y="418" class="m" fill="#C9D1D9" textLength="648" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PERSON           1100  1304   835   265   469   0.7591   0.6403   0.6947</text>
+<text x="46" y="440" class="m" fill="#C9D1D9" textLength="648" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PHONE_NUMBER      640   648   640     0     8   1.0000   0.9877   0.9938</text>
+<text x="46" y="462" class="m" fill="#C9D1D9" textLength="648" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CNIC              203   195   195     8     0   0.9606   1.0000   0.9799</text>
+<text x="46" y="484" class="m" fill="#C9D1D9" textLength="648" lengthAdjust="spacingAndGlyphs" xml:space="preserve">EMAIL_ADDRESS     431   431   431     0     0   1.0000   1.0000   1.0000</text>
+<text x="46" y="506" class="m" fill="#C9D1D9" textLength="648" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ADDRESS           416   466   372    44    94   0.8942   0.7983   0.8435</text>
+<text x="46" y="528" class="m" fill="#C9D1D9" textLength="648" lengthAdjust="spacingAndGlyphs" xml:space="preserve">POSTAL_CODE       177   177   177     0     0   1.0000   1.0000   1.0000</text>
+<text x="46" y="550" class="m" fill="#C9D1D9" textLength="648" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CUSTOMER_ID       445   445   445     0     0   1.0000   1.0000   1.0000</text>
+<text x="46" y="572" class="m" fill="#E6EDF3" font-weight="700" textLength="648" lengthAdjust="spacingAndGlyphs" xml:space="preserve">OVERALL          3412  3666  3095   317   571   0.9071   0.8442   0.8745</text>
+<text x="46" y="594" class="m" fill="#C9D1D9" textLength="261" lengthAdjust="spacingAndGlyphs" xml:space="preserve">FP traps hit: 9/1038 (0.0087)</text>
+<text x="46" y="638" class="m" fill="#C9D1D9" textLength="459" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Dangerous-miss cases: 15 (15 actual, 0 constructed)</text>
+<text x="46" y="660" class="m" fill="#6E7681" textLength="846" lengthAdjust="spacingAndGlyphs" xml:space="preserve">… 13 more lines: paths of the written files (full output in docs/assets/captures/evaluate.txt)</text>
+</svg>

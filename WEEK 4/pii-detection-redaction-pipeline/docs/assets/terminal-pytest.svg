@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="238" viewBox="0 0 960 238" role="img" aria-labelledby="title desc">
+<title id="title">Captured terminal output: &amp; $py -m pytest -q</title>
+<desc id="desc">Full pytest suite, quiet mode. Rendered from docs/assets/captures/pytest_q.txt by scripts/render_readme_assets.py; not a screen capture.</desc>
+<defs><clipPath id="win"><rect x="24" y="24" width="912" height="190" rx="14"/></clipPath><filter id="sh" x="-5%" y="-5%" width="110%" height="115%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#010409" flood-opacity=".45"/></filter></defs>
+<style>.m{font-family:'Cascadia Mono', Consolas, Menlo, 'DejaVu Sans Mono', monospace;font-size:15px;white-space:pre}.s{font-family:Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif}</style>
+<rect x="24" y="24" width="912" height="190" rx="14" fill="#0D1117" filter="url(#sh)"/>
+<g clip-path="url(#win)"><rect x="24" y="24" width="912" height="38" fill="#161B22"/></g>
+<line x1="24" y1="62" x2="936" y2="62" stroke="#30363D"/>
+<rect x="24.5" y="24.5" width="911" height="189" rx="14" fill="none" stroke="#30363D"/>
+<circle cx="46" cy="43.0" r="6" fill="#FF5F56"/>
+<circle cx="66" cy="43.0" r="6" fill="#FFBD2E"/>
+<circle cx="86" cy="43.0" r="6" fill="#27C93F"/>
+<text x="480.0" y="48" class="s" font-size="13" fill="#8B949E" text-anchor="middle">Windows PowerShell · pii-detection-redaction-pipeline</text>
+<text x="920" y="48" class="s" font-size="12" fill="#6E7681" text-anchor="end">captured 2026-10-07 · exit 0</text>
+<text x="46" y="88" class="m" fill="#3FB950" font-weight="700" textLength="36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PS&gt; </text>
+<text x="82" y="88" class="m" fill="#E6EDF3" textLength="162" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&amp; $py -m pytest -q</text>
+<text x="46" y="110" class="m" fill="#C9D1D9" textLength="711" lengthAdjust="spacingAndGlyphs" xml:space="preserve">........................................................................ [ 36%]</text>
+<text x="46" y="132" class="m" fill="#C9D1D9" textLength="711" lengthAdjust="spacingAndGlyphs" xml:space="preserve">........................................................................ [ 73%]</text>
+<text x="46" y="154" class="m" fill="#C9D1D9" textLength="711" lengthAdjust="spacingAndGlyphs" xml:space="preserve">..........................xxxx.......................                    [100%]</text>
+<text x="46" y="176" class="m" fill="#3FB950" font-weight="700" textLength="90" lengthAdjust="spacingAndGlyphs" xml:space="preserve">193 passed</text>
+<text x="136" y="176" class="m" fill="#C9D1D9" textLength="18" lengthAdjust="spacingAndGlyphs" xml:space="preserve">, </text>
+<text x="154" y="176" class="m" fill="#D29922" font-weight="700" textLength="81" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4 xfailed</text>
+<text x="235" y="176" class="m" fill="#C9D1D9" textLength="81" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> in 9.19s</text>
+</svg>

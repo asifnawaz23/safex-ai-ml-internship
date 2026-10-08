@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="900" viewBox="0 0 1280 900" role="img" aria-labelledby="title desc">
+<title id="title">Record REC-00008 before and after redaction</title>
+<desc id="desc">Original synthetic record REC-00008 with 4 planted values; the baseline output still contains: CNIC; the improved output replaces all values with placeholders.</desc>
+<defs></defs>
+<style>.b{font-family:'Cascadia Mono', Consolas, Menlo, 'DejaVu Sans Mono', monospace;font-size:20px;white-space:pre}.c{font-family:'Cascadia Mono', Consolas, Menlo, 'DejaVu Sans Mono', monospace;font-size:13px;white-space:pre}.l{font-family:'Cascadia Mono', Consolas, Menlo, 'DejaVu Sans Mono', monospace;font-size:11px;letter-spacing:.5px;white-space:pre}.g{font-family:'Cascadia Mono', Consolas, Menlo, 'DejaVu Sans Mono', monospace;font-size:12px;white-space:pre}.f{font-family:'Cascadia Mono', Consolas, Menlo, 'DejaVu Sans Mono', monospace;font-size:11px;white-space:pre}.sub{font-family:'Cascadia Mono', Consolas, Menlo, 'DejaVu Sans Mono', monospace;font-size:14px;white-space:pre}.s{font-family:Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif}.leak{animation:lk 2.4s ease-in-out infinite}@keyframes lk{50%{opacity:.5}}@media (prefers-reduced-motion: reduce){.leak{animation:none}}</style>
+<rect width="1280" height="900" rx="24" fill="#0B1220"/>
+<text x="40" y="64" class="s" font-size="26" font-weight="800" fill="#F8FAFC">One record, two pipelines</text>
+<text x="40" y="92" class="sub" fill="#94A3B8" textLength="504" lengthAdjust="spacingAndGlyphs" xml:space="preserve">REC-00008 · contact_form · 126 characters · 4 planted values</text>
+<rect x="884.4" y="46" width="355.6" height="30" rx="15" fill="#1C1408" stroke="#F59E0B" stroke-width="1.5"/><text x="898.4" y="65.5" class="c" fill="#FDE68A" font-weight="700" textLength="327.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">SYNTHETIC · SEED 42 · VALUES ARE FICTIONAL</text>
+<rect x="48" y="128" width="1200" height="186" rx="16" fill="#020617" opacity=".7"/>
+<rect x="40" y="120" width="1200" height="186" rx="16" fill="#111A2E" stroke="#22304A" stroke-width="1.5"/>
+<rect x="68" y="140" width="230.8" height="30" rx="15" fill="#0B1220" stroke="#64748B" stroke-width="1.5"/><text x="82" y="159.5" class="c" fill="#E2E8F0" font-weight="700" textLength="202.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ORIGINAL · synthetic input</text>
+<rect x="965.6" y="140" width="246.4" height="30" rx="15" fill="#0B1220" stroke="#475569" stroke-width="1.5"/><text x="979.6" y="159.5" class="c" fill="#CBD5E1" font-weight="700" textLength="218.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4 planted PII · ground truth</text>
+<text x="68" y="220" class="b" fill="#CBD5E1" textLength="312" lengthAdjust="spacingAndGlyphs" xml:space="preserve">form_id=web-contact; name=</text>
+<rect x="378.5" y="201" width="171" height="27" rx="6" fill="#F472B6" fill-opacity=".18" stroke="#F472B6" stroke-width="1.5"/>
+<text x="380" y="220" class="b" fill="#F472B6" font-weight="700" textLength="168" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Burhan Durrani</text>
+<text x="444.2" y="195" class="l" fill="#F472B6" font-weight="700" textLength="39.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PERSON</text>
+<text x="548" y="220" class="b" fill="#CBD5E1" textLength="96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">; email=</text>
+<rect x="642.5" y="201" width="255" height="27" rx="6" fill="#60A5FA" fill-opacity=".18" stroke="#60A5FA" stroke-width="1.5"/>
+<text x="644" y="220" class="b" fill="#60A5FA" font-weight="700" textLength="252" lengthAdjust="spacingAndGlyphs" xml:space="preserve">b.durrani@example.org</text>
+<text x="727.1" y="195" class="l" fill="#60A5FA" font-weight="700" textLength="85.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">EMAIL_ADDRESS</text>
+<text x="896" y="220" class="b" fill="#CBD5E1" textLength="12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">;</text>
+<text x="68" y="270" class="b" fill="#CBD5E1" textLength="72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">phone=</text>
+<rect x="138.5" y="251" width="135" height="27" rx="6" fill="#34D399" fill-opacity=".18" stroke="#34D399" stroke-width="1.5"/>
+<text x="140" y="270" class="b" fill="#34D399" font-weight="700" textLength="132" lengthAdjust="spacingAndGlyphs" xml:space="preserve">03069580513</text>
+<text x="166.4" y="245" class="l" fill="#34D399" font-weight="700" textLength="79.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PHONE_NUMBER</text>
+<text x="272" y="270" class="b" fill="#CBD5E1" textLength="84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">; cnic=</text>
+<rect x="354.5" y="251" width="183" height="27" rx="6" fill="#FBBF24" fill-opacity=".18" stroke="#FBBF24" stroke-width="1.5"/>
+<text x="356" y="270" class="b" fill="#FBBF24" font-weight="700" textLength="180" lengthAdjust="spacingAndGlyphs" xml:space="preserve">38401-7935169-7</text>
+<text x="432.8" y="245" class="l" fill="#FBBF24" font-weight="700" textLength="26.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CNIC</text>
+<text x="536" y="270" class="b" fill="#CBD5E1" textLength="192" lengthAdjust="spacingAndGlyphs" xml:space="preserve">; topic=delivery</text>
+<path d="M631.0,327 L640.0,336 L649.0,327" fill="none" stroke="#67E8F9" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="664" y="336" class="c" fill="#94A3B8" textLength="413.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Presidio AnalyzerEngine → AnonymizerEngine · baseline</text>
+<rect x="48" y="366" width="1200" height="186" rx="16" fill="#020617" opacity=".7"/>
+<rect x="40" y="358" width="1200" height="186" rx="16" fill="#111A2E" stroke="#22304A" stroke-width="1.5"/>
+<rect x="68" y="378" width="371.2" height="30" rx="15" fill="#0B1220" stroke="#90A4AE" stroke-width="1.5"/><text x="82" y="397.5" class="c" fill="#E2E8F0" font-weight="700" textLength="343.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">BASELINE · default Presidio · 17 recognisers</text>
+<rect x="879.8" y="378" width="332.2" height="30" rx="15" fill="#450A0A" stroke="#EF4444" stroke-width="1.5"/><text x="893.8" y="397.5" class="c" fill="#FECACA" font-weight="700" textLength="304.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">3/4 exact TP · 1 FN · 0 FP · residual 1</text>
+<text x="68" y="458" class="b" fill="#CBD5E1" textLength="312" lengthAdjust="spacingAndGlyphs" xml:space="preserve">form_id=web-contact; name=</text>
+<rect x="378.5" y="439" width="99" height="27" rx="6" fill="#1E3A8A" stroke="#3B82F6" stroke-width="1.5"/>
+<text x="380" y="458" class="b" fill="#DBEAFE" font-weight="700" textLength="96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[PERSON]</text>
+<text x="476" y="458" class="b" fill="#CBD5E1" textLength="96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">; email=</text>
+<rect x="570.5" y="439" width="87" height="27" rx="6" fill="#1E3A8A" stroke="#3B82F6" stroke-width="1.5"/>
+<text x="572" y="458" class="b" fill="#DBEAFE" font-weight="700" textLength="84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[EMAIL]</text>
+<text x="656" y="458" class="b" fill="#CBD5E1" textLength="96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">; phone=</text>
+<rect x="750.5" y="439" width="87" height="27" rx="6" fill="#1E3A8A" stroke="#3B82F6" stroke-width="1.5"/>
+<text x="752" y="458" class="b" fill="#DBEAFE" font-weight="700" textLength="84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[PHONE]</text>
+<text x="836" y="458" class="b" fill="#CBD5E1" textLength="12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">;</text>
+<text x="68" y="508" class="b" fill="#CBD5E1" textLength="60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">cnic=</text>
+<g class="leak"><rect x="126.5" y="489" width="183" height="27" rx="6" fill="#7F1D1D" stroke="#EF4444" stroke-width="2"/></g>
+<text x="128" y="508" class="b" fill="#FECACA" font-weight="700" textLength="180" lengthAdjust="spacingAndGlyphs" xml:space="preserve">38401-7935169-7</text>
+<text x="175.1" y="483" class="l" fill="#F87171" font-weight="700" textLength="85.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">LEAKED · CNIC</text>
+<text x="308" y="508" class="b" fill="#CBD5E1" textLength="192" lengthAdjust="spacingAndGlyphs" xml:space="preserve">; topic=delivery</text>
+<path d="M631.0,565 L640.0,574 L649.0,565" fill="none" stroke="#67E8F9" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="664" y="574" class="c" fill="#94A3B8" textLength="444.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">same input · improved: 17 built-in + 6 custom recognisers</text>
+<rect x="48" y="604" width="1200" height="186" rx="16" fill="#020617" opacity=".7"/>
+<rect x="40" y="596" width="1200" height="186" rx="16" fill="#111A2E" stroke="#22304A" stroke-width="1.5"/>
+<rect x="68" y="616" width="371.2" height="30" rx="15" fill="#0B1220" stroke="#42A5F5" stroke-width="1.5"/><text x="82" y="635.5" class="c" fill="#E2E8F0" font-weight="700" textLength="343.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">IMPROVED · + 6 custom recognisers · 23 total</text>
+<rect x="879.8" y="616" width="332.2" height="30" rx="15" fill="#052E16" stroke="#22C55E" stroke-width="1.5"/><text x="893.8" y="635.5" class="c" fill="#DCFCE7" font-weight="700" textLength="304.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">4/4 exact TP · 0 FN · 0 FP · residual 0</text>
+<text x="68" y="696" class="b" fill="#CBD5E1" textLength="312" lengthAdjust="spacingAndGlyphs" xml:space="preserve">form_id=web-contact; name=</text>
+<rect x="378.5" y="677" width="99" height="27" rx="6" fill="#1E3A8A" stroke="#3B82F6" stroke-width="1.5"/>
+<text x="380" y="696" class="b" fill="#DBEAFE" font-weight="700" textLength="96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[PERSON]</text>
+<text x="476" y="696" class="b" fill="#CBD5E1" textLength="96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">; email=</text>
+<rect x="570.5" y="677" width="87" height="27" rx="6" fill="#1E3A8A" stroke="#3B82F6" stroke-width="1.5"/>
+<text x="572" y="696" class="b" fill="#DBEAFE" font-weight="700" textLength="84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[EMAIL]</text>
+<text x="656" y="696" class="b" fill="#CBD5E1" textLength="96" lengthAdjust="spacingAndGlyphs" xml:space="preserve">; phone=</text>
+<rect x="750.5" y="677" width="87" height="27" rx="6" fill="#1E3A8A" stroke="#3B82F6" stroke-width="1.5"/>
+<text x="752" y="696" class="b" fill="#DBEAFE" font-weight="700" textLength="84" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[PHONE]</text>
+<text x="836" y="696" class="b" fill="#CBD5E1" textLength="12" lengthAdjust="spacingAndGlyphs" xml:space="preserve">;</text>
+<text x="68" y="746" class="b" fill="#CBD5E1" textLength="60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">cnic=</text>
+<rect x="126.5" y="727" width="75" height="27" rx="6" fill="#1E3A8A" stroke="#3B82F6" stroke-width="1.5"/>
+<text x="128" y="746" class="b" fill="#DBEAFE" font-weight="700" textLength="72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[CNIC]</text>
+<text x="200" y="746" class="b" fill="#CBD5E1" textLength="192" lengthAdjust="spacingAndGlyphs" xml:space="preserve">; topic=delivery</text>
+<rect x="40" y="810" width="16" height="16" rx="4" fill="#F472B6" fill-opacity=".18" stroke="#F472B6" stroke-width="1.5"/>
+<text x="64" y="823" class="g" fill="#CBD5E1" textLength="43.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PERSON</text>
+<rect x="133.2" y="810" width="16" height="16" rx="4" fill="#60A5FA" fill-opacity=".18" stroke="#60A5FA" stroke-width="1.5"/>
+<text x="157.2" y="823" class="g" fill="#CBD5E1" textLength="93.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">EMAIL_ADDRESS</text>
+<rect x="276.8" y="810" width="16" height="16" rx="4" fill="#34D399" fill-opacity=".18" stroke="#34D399" stroke-width="1.5"/>
+<text x="300.8" y="823" class="g" fill="#CBD5E1" textLength="86.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PHONE_NUMBER</text>
+<rect x="413.2" y="810" width="16" height="16" rx="4" fill="#FBBF24" fill-opacity=".18" stroke="#FBBF24" stroke-width="1.5"/>
+<text x="437.2" y="823" class="g" fill="#CBD5E1" textLength="28.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">CNIC</text>
+<rect x="492" y="810" width="16" height="16" rx="4" fill="#1E3A8A" fill-opacity="1" stroke="#3B82F6" stroke-width="1.5"/>
+<text x="516" y="823" class="g" fill="#CBD5E1" textLength="158.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">placeholder (redacted)</text>
+<rect x="700.4" y="810" width="16" height="16" rx="4" fill="#7F1D1D" fill-opacity="1" stroke="#EF4444" stroke-width="1.5"/>
+<text x="724.4" y="823" class="g" fill="#CBD5E1" textLength="266.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">leaked: planted value still in output</text>
+<text x="40" y="856" class="f" fill="#64748B" textLength="1135.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Sources: data/generated/{synthetic_documents,ground_truth}.csv · docs/assets/captures/redact_rec00008_*.txt · output/metrics/{per_document_metrics,residual_pii_details}.csv</text>
+<text x="40" y="874" class="f" fill="#64748B" textLength="574.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Rendered by scripts/render_readme_assets.py from real CLI output; not a screen capture.</text>
+</svg>

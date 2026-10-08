@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1046" height="700" viewBox="0 0 1046 700" role="img" aria-labelledby="title desc">
+<title id="title">Captured terminal output: &amp; $py -m pii_pipeline.cli redact --record-id REC-00008 --mode baseline; &amp; $py -m pii_pipeline.cli redact --record-id REC-00008; &amp; $py -m pii_pipeline.cli redact --text &quot;mail someone@gmail.com&quot;</title>
+<desc id="desc">Record REC-00008 redacted in baseline mode (the CNIC stays in the text) and in improved mode (all four values replaced), then a refused input with a non-example email domain (exit 2). Rendered from docs/assets/captures/redact_rec00008_baseline.txt, redact_rec00008_improved.txt, redact_refused_domain.txt by scripts/render_readme_assets.py; not a screen capture.</desc>
+<defs><clipPath id="win"><rect x="24" y="24" width="998" height="652" rx="14"/></clipPath><filter id="sh" x="-5%" y="-5%" width="110%" height="115%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#010409" flood-opacity=".45"/></filter></defs>
+<style>.m{font-family:'Cascadia Mono', Consolas, Menlo, 'DejaVu Sans Mono', monospace;font-size:15px;white-space:pre}.s{font-family:Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif}</style>
+<rect x="24" y="24" width="998" height="652" rx="14" fill="#0D1117" filter="url(#sh)"/>
+<g clip-path="url(#win)"><rect x="24" y="24" width="998" height="38" fill="#161B22"/></g>
+<line x1="24" y1="62" x2="1022" y2="62" stroke="#30363D"/>
+<rect x="24.5" y="24.5" width="997" height="651" rx="14" fill="none" stroke="#30363D"/>
+<circle cx="46" cy="43.0" r="6" fill="#FF5F56"/>
+<circle cx="66" cy="43.0" r="6" fill="#FFBD2E"/>
+<circle cx="86" cy="43.0" r="6" fill="#27C93F"/>
+<text x="523.0" y="48" class="s" font-size="13" fill="#8B949E" text-anchor="middle">Windows PowerShell · pii-detection-redaction-pipeline</text>
+<text x="1006" y="48" class="s" font-size="12" fill="#6E7681" text-anchor="end">captured 2026-10-07 · exit 0 / 0 / 2</text>
+<text x="46" y="88" class="m" fill="#3FB950" font-weight="700" textLength="36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PS&gt; </text>
+<text x="82" y="88" class="m" fill="#E6EDF3" textLength="630" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&amp; $py -m pii_pipeline.cli redact --record-id REC-00008 --mode baseline</text>
+<text x="46" y="110" class="m" fill="#8B949E" textLength="603" lengthAdjust="spacingAndGlyphs" xml:space="preserve">INFO pii_pipeline.analyzer: NLP engine ready (spacy/en_core_web_sm)</text>
+<text x="46" y="132" class="m" fill="#8B949E" textLength="675" lengthAdjust="spacingAndGlyphs" xml:space="preserve">INFO pii_pipeline.analyzer: AnalyzerEngine built (baseline, 17 recognisers)</text>
+<text x="46" y="154" class="m" fill="#C9D1D9" textLength="522" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Source: record REC-00008 | mode: baseline | 126 characters</text>
+<text x="46" y="176" class="m" fill="#C9D1D9" textLength="117" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Detections: 3</text>
+<text x="46" y="198" class="m" fill="#C9D1D9" textLength="369" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  [1] PERSON        pos=26:40 score=0.85 </text>
+<text x="415" y="198" class="m" fill="#E3B341" textLength="198" lengthAdjust="spacingAndGlyphs" xml:space="preserve">value='Bu**********ni'</text>
+<text x="46" y="220" class="m" fill="#C9D1D9" textLength="369" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  [2] EMAIL_ADDRESS pos=48:69 score=1.00 </text>
+<text x="415" y="220" class="m" fill="#E3B341" textLength="261" lengthAdjust="spacingAndGlyphs" xml:space="preserve">value='b.*****************rg'</text>
+<text x="46" y="242" class="m" fill="#C9D1D9" textLength="369" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  [3] PHONE_NUMBER  pos=77:88 score=0.75 </text>
+<text x="415" y="242" class="m" fill="#E3B341" textLength="171" lengthAdjust="spacingAndGlyphs" xml:space="preserve">value='03*******13'</text>
+<text x="46" y="264" class="m" fill="#D2A8FF" font-weight="700" textLength="144" lengthAdjust="spacingAndGlyphs" xml:space="preserve">--- redacted ---</text>
+<text x="46" y="286" class="m" fill="#C9D1D9" textLength="234" lengthAdjust="spacingAndGlyphs" xml:space="preserve">form_id=web-contact; name=</text>
+<text x="280" y="286" class="m" fill="#79C0FF" font-weight="700" textLength="72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[PERSON]</text>
+<text x="352" y="286" class="m" fill="#C9D1D9" textLength="72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">; email=</text>
+<text x="424" y="286" class="m" fill="#79C0FF" font-weight="700" textLength="63" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[EMAIL]</text>
+<text x="487" y="286" class="m" fill="#C9D1D9" textLength="72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">; phone=</text>
+<text x="559" y="286" class="m" fill="#79C0FF" font-weight="700" textLength="63" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[PHONE]</text>
+<text x="622" y="286" class="m" fill="#C9D1D9" textLength="63" lengthAdjust="spacingAndGlyphs" xml:space="preserve">; cnic=</text>
+<rect x="682" y="272" width="141" height="19" rx="4" fill="#7F1D1D" stroke="#EF4444"/>
+<text x="685" y="286" class="m" fill="#FFA198" font-weight="700" textLength="135" lengthAdjust="spacingAndGlyphs" xml:space="preserve">38401-7935169-7</text>
+<text x="820" y="286" class="m" fill="#C9D1D9" textLength="144" lengthAdjust="spacingAndGlyphs" xml:space="preserve">; topic=delivery</text>
+<text x="46" y="330" class="m" fill="#3FB950" font-weight="700" textLength="36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PS&gt; </text>
+<text x="82" y="330" class="m" fill="#E6EDF3" textLength="486" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&amp; $py -m pii_pipeline.cli redact --record-id REC-00008</text>
+<text x="46" y="352" class="m" fill="#8B949E" textLength="603" lengthAdjust="spacingAndGlyphs" xml:space="preserve">INFO pii_pipeline.analyzer: NLP engine ready (spacy/en_core_web_sm)</text>
+<text x="46" y="374" class="m" fill="#8B949E" textLength="675" lengthAdjust="spacingAndGlyphs" xml:space="preserve">INFO pii_pipeline.analyzer: AnalyzerEngine built (improved, 23 recognisers)</text>
+<text x="46" y="396" class="m" fill="#C9D1D9" textLength="522" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Source: record REC-00008 | mode: improved | 126 characters</text>
+<text x="46" y="418" class="m" fill="#C9D1D9" textLength="117" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Detections: 4</text>
+<text x="46" y="440" class="m" fill="#C9D1D9" textLength="369" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  [1] PERSON        pos=26:40 score=0.85 </text>
+<text x="415" y="440" class="m" fill="#E3B341" textLength="198" lengthAdjust="spacingAndGlyphs" xml:space="preserve">value='Bu**********ni'</text>
+<text x="46" y="462" class="m" fill="#C9D1D9" textLength="369" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  [2] EMAIL_ADDRESS pos=48:69 score=1.00 </text>
+<text x="415" y="462" class="m" fill="#E3B341" textLength="261" lengthAdjust="spacingAndGlyphs" xml:space="preserve">value='b.*****************rg'</text>
+<text x="46" y="484" class="m" fill="#C9D1D9" textLength="369" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  [3] PHONE_NUMBER  pos=77:88 score=1.00 </text>
+<text x="415" y="484" class="m" fill="#E3B341" textLength="171" lengthAdjust="spacingAndGlyphs" xml:space="preserve">value='03*******13'</text>
+<text x="46" y="506" class="m" fill="#C9D1D9" textLength="378" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  [4] CNIC          pos=95:110 score=1.00 </text>
+<text x="424" y="506" class="m" fill="#E3B341" textLength="207" lengthAdjust="spacingAndGlyphs" xml:space="preserve">value='38***********-7'</text>
+<text x="46" y="528" class="m" fill="#D2A8FF" font-weight="700" textLength="144" lengthAdjust="spacingAndGlyphs" xml:space="preserve">--- redacted ---</text>
+<text x="46" y="550" class="m" fill="#C9D1D9" textLength="234" lengthAdjust="spacingAndGlyphs" xml:space="preserve">form_id=web-contact; name=</text>
+<text x="280" y="550" class="m" fill="#79C0FF" font-weight="700" textLength="72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[PERSON]</text>
+<text x="352" y="550" class="m" fill="#C9D1D9" textLength="72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">; email=</text>
+<text x="424" y="550" class="m" fill="#79C0FF" font-weight="700" textLength="63" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[EMAIL]</text>
+<text x="487" y="550" class="m" fill="#C9D1D9" textLength="72" lengthAdjust="spacingAndGlyphs" xml:space="preserve">; phone=</text>
+<text x="559" y="550" class="m" fill="#79C0FF" font-weight="700" textLength="63" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[PHONE]</text>
+<text x="622" y="550" class="m" fill="#C9D1D9" textLength="63" lengthAdjust="spacingAndGlyphs" xml:space="preserve">; cnic=</text>
+<text x="685" y="550" class="m" fill="#79C0FF" font-weight="700" textLength="54" lengthAdjust="spacingAndGlyphs" xml:space="preserve">[CNIC]</text>
+<text x="739" y="550" class="m" fill="#C9D1D9" textLength="144" lengthAdjust="spacingAndGlyphs" xml:space="preserve">; topic=delivery</text>
+<text x="46" y="594" class="m" fill="#3FB950" font-weight="700" textLength="36" lengthAdjust="spacingAndGlyphs" xml:space="preserve">PS&gt; </text>
+<text x="82" y="594" class="m" fill="#E6EDF3" textLength="576" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&amp; $py -m pii_pipeline.cli redact --text &quot;mail someone@gmail.com&quot;</text>
+<text x="46" y="616" class="m" fill="#FF7B72" textLength="954" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Refused: Text contains an email address outside the reserved example.com/.org/.net domains; only synthetic</text>
+<text x="46" y="638" class="m" fill="#6E7681" textLength="18" lengthAdjust="spacingAndGlyphs" xml:space="preserve">↪ </text>
+<text x="64" y="638" class="m" fill="#FF7B72" textLength="189" lengthAdjust="spacingAndGlyphs" xml:space="preserve">data may be processed</text>
+</svg>

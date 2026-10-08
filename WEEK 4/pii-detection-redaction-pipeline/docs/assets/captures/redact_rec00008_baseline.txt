@@ -1,0 +1,9 @@
+INFO pii_pipeline.analyzer: NLP engine ready (spacy/en_core_web_sm)
+INFO pii_pipeline.analyzer: AnalyzerEngine built (baseline, 17 recognisers)
+Source: record REC-00008 | mode: baseline | 126 characters
+Detections: 3
+  [1] PERSON        pos=26:40 score=0.85 value='Bu**********ni'
+  [2] EMAIL_ADDRESS pos=48:69 score=1.00 value='b.*****************rg'
+  [3] PHONE_NUMBER  pos=77:88 score=0.75 value='03*******13'
+--- redacted ---
+form_id=web-contact; name=[PERSON]; email=[EMAIL]; phone=[PHONE]; cnic=38401-7935169-7; topic=delivery

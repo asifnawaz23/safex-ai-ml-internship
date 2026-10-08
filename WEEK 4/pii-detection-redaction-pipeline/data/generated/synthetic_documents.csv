@@ -1,0 +1,3093 @@
+record_id,doc_type,source,synthetic,text
+REC-00001,delivery_order,planted,true,"Order ORD-2026-750800 placed by Burhan Hassan Iqbal (UBW-76237) for 36 x 19L bottles. Deliver to House #33, Street 2, Block B, DHA Phase 5, Peshawar. Call 0305-9149732 on arrival."
+REC-00002,contact_form,planted,true,form_id=web-contact; name=Parveen Hussain; email=p.hussain@example.com; phone=03130728977; topic=new connection
+REC-00003,subscription_record,planted,true,"Rabia Ahmed Farooqi renewed the Basic (2 x 19L per week) on 21 Mar 2026 for account UBW-37460. Send receipts to rabia.farooqi876@example.com. Bottles are delivered to H. No. 167, Jail Road, Multan, postal code 56566."
+REC-00004,delivery_note,planted,true,"DN-581141 | drv: Zara Tarar | to: Hassan Qureshi | 0303 3539704 | near the main roundabout, behind Saddar Bazaar, Sialkot | 15 x 19L"
+REC-00005,customer_service_message,planted,true,"From: Omar Sheikh <o.sheikh@example.net>
+Subject: Billing question
+Account : UBW-74686
+Phone:03068548432
+
+Hello support team,
+
+I am writing to report that the last delivery was short by two bottles. Please look into this.
+
+Sincerely,
+Omar Sheikh"
+REC-00006,internal_operational_note,planted,true,Visited Noreen Iqbal today about account UBW-44973. Customer read out 42101-4418934-9 for verification. Will call back on 03157294150. - wasim tarar
+REC-00007,delivery_order,planted,true,"NEW ORDER - Urban Bottled Water Co.
+Order Ref: 351083
+Customer Name : Burhan Waheed
+Address:Flat 1C, Crescent Apartments, DHA Phase 6, Hyderabad, 24662
+Customer No.:UBW-57576
+WhatsApp: 0322-2710343
+Quantity: 5 x 19L  
+Total: PKR 38,225
+Note: collect empty bottles."
+REC-00008,contact_form,planted,true,form_id=web-contact; name=Burhan Durrani; email=b.durrani@example.org; phone=03069580513; cnic=38401-7935169-7; topic=delivery
+REC-00009,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Customer No.:UBW-34050
+Plan:Standard (4 x 19L per week)
+Billing Email: noreen.durrani63@example.org
+Service Address:House #195, Street 35, Block H, Model Town, Rawalpindi, 65296
+Subscriber - Noreen Durrani
+
+Start date: 22/12/2026
+Status: Paused"
+REC-00010,delivery_note,planted,true,"DELIVERY NOTE  
+Deliver to: House #83, Street 12, Block B, Cantt, Hyderabad
+Recipient Phone:0092 334 2641282
+Recipient: Adeel Noor Yaqoob
+Vehicle: LEB-7615
+Driver : Saad Durrani
+units: 6 x 19L
+
+Signature required: No"
+REC-00011,customer_service_message,planted,true,Ticket #208618 opened by Nadia Ansari. Contact: n.ansari@example.net. Issue: the rider came after the scheduled window.
+REC-00012,internal_operational_note,planted,true,Spoke with Uzma Khan today about account UBW-54942. Verified CNIC 42101-1548511-7. Will call back on +92 313 847 9356. - Nadia Sheikh
+REC-00013,delivery_order,planted,true,"Order 233636 placed by Burhan Sheikh (UBW-86350) for 4 x 19L bottles. Deliver to House #926, Street 10, Block J, Gulberg III, Bahawalpur. Call +923350162230 on arrival."
+REC-00014,contact_form,planted,true,form_id=web-contact; name=Saad Raza; email=saad_raza998@example.com; cnic=4210130091726; topic=new connection
+REC-00015,subscription_record,planted,true,"SUB | UBW-62227 | Kiran Cheema | Basic (2 x 19L per week) | kirancheema@example.org | Shop 4, Moon Market, Rawalpindi-35313 | last invoice 99065"
+REC-00016,delivery_note,planted,true,"Driver Tariq Zuberi delivered 9 x 19L to Wasim Mirza at House No. 447, MM Alam Road, Satellite Town, Multan. Recipient phone 0340-7290770. Batch BATCH-8144-A, van ISB-4114."
+REC-00017,customer_service_message,planted,true,"Chat transcript - customer: salam, I want to move my delivery day from Wednesday to Friday. reach me at +92 345 209 0865 and email saimasiddiqui@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Saima Siddiqui, UBW-49363"
+REC-00018,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+customer callback: 03117212326
+Customer National ID: 5210154064448
+CUSTOMER ACCOUNT: UBW-81819
+Handled by: Rabia Gillani
+Action: Processed a refund for damaged bottles  
+Reference: ORD-2026-753240
+Confidential - not for external distribution."
+REC-00019,delivery_order,planted,true,"Order via WhatsApp: name Palwasha Dogar | mob 0305-7132769 | addr House #531, Street 30, Block A, Satellite Town, Bahawalpur | 35 x 19L | paid online"
+REC-00020,contact_form,planted,true,form_id=web-contact; name=Alia Osmani; email=alia_osmani919@example.org; phone=+923414652512; cnic=4130281301884; topic=delivery
+REC-00021,subscription_record,planted,true,"SUB | UBW-85456 | Tariq Ghani | Basic (2 x 19L per week) | tariqghani@example.org | Flat 7D, Crescent Apartments, Gulistan-e-Jauhar Block 15, Peshawar-12560 | last invoice 64921"
+REC-00022,delivery_note,planted,true,"DN-691807 | drv: Tariq Siddiqui | to: Palwasha Qureshi | 0345 6783308 | Plot 942, Sector F-7/3, Islamabad | 36 x 19L"
+REC-00023,customer_service_message,planted,true,"From: Sana Baig <sana_baig187@example.org>
+Subject: Delivery issue
+Account: UBW-46471
+Call-back - +92 321 6360682
+
+Hello support team,
+
+I am writing to report that the dispenser deposit was charged twice. Please look into this.
+
+Regards,
+Sana Baig"
+REC-00024,internal_operational_note,planted,true,"Shift report 2026-10-04: 21 x 19L dispatched, batch BATCH-7149-D passed QC, van LEB-2245 serviced. Pallet barcode 8961043030161, courier tracking 97612747444. Petty cash PKR 44,614."
+REC-00025,delivery_order,planted,true,"new order!! name Layla Abbasi | mob 0322 1156902 | addr H. No. 13, Mall Road, Multan, 74251 | 31 x 19L | card on delivery"
+REC-00026,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Submitted: 26/05/2026
+cell #: +92 331 9560490
+Name: Tariq Leghari  
+Email : t.leghari@example.com
+
+Account - UBW-74789
+
+Identity No. - 17101-5643798-1
+Message: I want to pause deliveries for two weeks."
+REC-00027,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Billing Email: wasim.qureshi761@example.net
+account id: UBW-23176  
+Postal Code:47093
+Service Address: House #284, Street 38, Block J, Cantt, Quetta
+Subscriber:Wasim Qureshi
+Plan:Premium (6 x 19L per week)
+Start date - 3 Oct 2026
+Status: Active"
+REC-00028,delivery_note,planted,true,"DN-751194 | drv: OMAR ABBASI | to: Usman Iqbal | +92 340 378 6401 | Shop 57, Saddar Bazaar, Peshawar | 39 x 19L"
+REC-00029,customer_service_message,planted,true,"From: Hassan Hashmi <hassanhashmi@example.com>
+Subject: Complaint
+Account:UBW-63545
+Call-back - +92 310 0044891
+
+Hello support team,
+
+I am writing to report that the rider came after the scheduled window. Please look into this.
+
+Sincerely,
+Hassan Hashmi"
+REC-00030,internal_operational_note,planted,true,Visited Faizan Khan today about account UBW-19359. Checked national ID 5520220863088. Will call back on +92-340-9549709. - Sana Niazi
+REC-00031,delivery_order,planted,true,"order pls - name RIZWAN SIDDIQUI | mob 0330-5407658 | addr Flat 8A, Askari Tower 2, Askari 11, Karachi-85529 | 35 x 19L | card on delivery"
+REC-00032,contact_form,planted,true,"Hi, this is Palwasha Ghani. You can write to p.ghani@example.com or call +923156718473. I would like to upgrade my plan."
+REC-00033,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Plan: Family plan
+Email: s.siddiqui@example.net
+
+Service Address:House #563, Street 9, Block E, Gulshan-e-Iqbal, Faisalabad
+Postal Code: 73532
+Account ID:ubw-25915
+Subscriber : SANA SIDDIQUI
+Start date:28/02/2026
+Status: Pending renewal"
+REC-00034,delivery_note,planted,true,"DELIVERY NOTE
+Recipient Phone: +92 321 9259637
+Driver : Zara Ahmed
+Recipient:Yusra Malik
+Units:17 x 19L
+Address:Shop 42, Jinnah Super Market, Peshawar
+vehicle: RIM-7274
+Signature required: No"
+REC-00035,customer_service_message,planted,true,"Customer: salam, I want to move my delivery day from Wednesday to Friday. reach me at +92 335 0602286 and email faizan_ghani978@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Faizan Ghani, UBW-90931"
+REC-00036,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Customer Account : ubw-13794
+Handled by - Kinza Hashmi
+Customer CNIC - 61101-4096953-9
+Customer callback:+92-315-6014016
+Action: Scheduled a replacement dispenser
+
+Reference: ORD-2026-077449
+Confidential - not for external distribution."
+REC-00037,delivery_order,planted,true,"Order 123005 placed by Farhat Waheed (UBW-57049) for 27 x 19L bottles. Deliver to near the old water tank, behind Anarkali Bazaar, Quetta. Rider should phone 03153342306 on arrival."
+REC-00038,contact_form,planted,true,form_id=web-contact; name=Zahida Malik; email=zahidamalik@example.com; phone=+92 345 229 4774; topic=delivery
+REC-00039,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Plan:Basic (2 x 19L per week)
+Acct - UBW-25095
+Service Address - House No. 991, University Road, Saddar, Quetta, 54396
+Email:a.gillani@example.org
+Subscriber : Adeel Gillani
+Start date: 20 Apr 2026
+Status: Pending renewal"
+REC-00040,delivery_note,planted,true,"DN-203831 | drv: bina gillani | to: Fatima Waheed | 03352276065 | House No. 687, Shahrah-e-Faisal, North Nazimabad, Multan | 39 x 19L"
+REC-00041,customer_service_message,planted,true,"Chat transcript - customer: salam, I want to move my delivery day from Wednesday to Friday. my number is 0345-6162857 and email p.gillani@example.com
+Agent: Thanks, may I have your name and account?
+Customer: Palwasha Gillani, UBW-81364"
+REC-00042,internal_operational_note,planted,true,Visited Zahida Hassan Baig today about account UBW-26505. Verified CNIC 38401-5512314-3. Will call back on 03353475523. - Mahnoor Ghani
+REC-00043,delivery_order,planted,true,"new order!! name Nadia Siddiqui | mob +923002211291 | addr House #603, Street 21, Block A, Model Town, Rawalpindi | 9 x 19L | paid online"
+REC-00044,contact_form,planted,true,"Hi, this is Rizwan Hashmi. My email is rizwan.hashmi745@example.net, phone +92 300 1020480. National ID: 17101 7151684 2. Please call back."
+REC-00045,subscription_record,planted,true,"SUB | UBW-66370 | Burhan Tarar | Standard (4 x 19L per week) | b.tarar@example.org | Plot 667, Sector F-10/2, Islamabad-38183 | last invoice 62262"
+REC-00046,delivery_note,planted,true,"DN-228168 | drv: Jawad Hashmi | to: Wasim Bukhari | +92 303 1432176 | House #763, Street 24, Block C, Satellite Town, Lahore | 5 x 19L"
+REC-00047,customer_service_message,planted,true,"From: Jawad Ansari <jawad_ansari889@example.com>
+Subject: Complaint
+Account: UBW-85748
+Mobile:+92 322 173 8129
+
+Hello support team,
+
+I am writing to report that two bottles in my last order were leaking. Please look into this.
+
+Sincerely,
+Jawad Ansari"
+REC-00048,internal_operational_note,planted,true,Spoke with Zara Baig today about account UBW-50499. NIC on file 17101-1167449-3. Will call back on 0310 2403361. - Alia Javed Tarar
+REC-00049,delivery_order,planted,true,"Order 736565 placed by Saad Cheema (UBW-68079) for 30 x 19L bottles. Deliver to Flat 6A, Askari Tower 2, DHA Phase 6, Karachi. Call 0321 9522639 on arrival. Amount due PKR 8,290."
+REC-00050,contact_form,planted,true,"Hi, this is Hamza Malik. My email is HAMZAMALIK@EXAMPLE.COM, phone 03112302417. National ID: 3310155049792. I would like to upgrade my plan."
+REC-00051,subscription_record,planted,true,"Imran Chaudhry renewed the Standard (4 x 19L per week) on 15/12/2026 for account UBW-12733. Invoices go to imran.chaudhry883@example.org. Bottles are delivered to Plot 297, Sector G-9/2, Islamabad, postal code 63088."
+REC-00052,delivery_note,planted,true,"Driver Kinza Dogar delivered 17 x 19L to Bina Zuberi at Flat 12C, Askari Tower 2, Bahria Town Phase 4, Rawalpindi. Recipient phone 0341-1913049. Batch BATCH-3842-E, van LEA-3399."
+REC-00053,customer_service_message,planted,true,"Chat transcript - customer: salam, I have not received this month's invoice. پانی کی بوتلیں reach me at 0092 336 5422534 and email omar_farooqi476@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Omar Farooqi, UBW-92210"
+REC-00054,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Customer Account: UBW-21835
+Handled by:Farhat Bano Osmani
+Customer callback : +92 331 9736311
+Customer CNIC: 42101-7545279-4
+Action: Processed a refund for damaged bottles
+Reference: 88366
+Confidential - not for external distribution."
+REC-00055,delivery_order,planted,true,"new order!! name Burhan Ali Zuberi | mob 0313 2522845 | addr House No. 680, Ferozepur Road, Shadman, Sialkot | 40 x 19L | card on delivery"
+REC-00056,contact_form,planted,true,"Hi, this is Ehsan Javed. Email me at ehsan.javed662@example.net or call 0310 3593556. Please call back."
+REC-00057,subscription_record,planted,true,"SUB | UBW-57749 | Fatima Zuberi | Standard (4 x 19L per week) | fatima_zuberi158@example.net | Shop 57, Liberty Market, Islamabad | last invoice 68841"
+REC-00058,delivery_note,planted,true,"Driver Tahira Siddiqui delivered 14 x 19L to Naveed Niazi at Shop 54, Jinnah Super Market, Hyderabad. Recipient phone 0331 472 7345. Batch BATCH-8873-C, van RIM-3267."
+REC-00059,customer_service_message,planted,true,"Customer: salam, two bottles in my last order were leaking. call me on 0092-306-7339571 and email uzma.hashmi292@example.com
+Agent: Thanks, may I have your name and account?
+Customer: Uzma Hashmi, UBW-22021"
+REC-00060,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Customer Account - UBW-22987  
+Customer callback: +92 306 230 8538
+Handled by: Imran Osmani
+Action: Escalated the billing dispute to accounts
+Reference: 91633
+Confidential - not for external distribution."
+REC-00061,delivery_order,planted,true,"order pls - name Iqra Iqbal | ph +92 341 8646569 | addr Flat 10D, Al-Noor Heights, Gulistan-e-Jauhar Block 15, Bahawalpur | 7 x 19L | card on delivery"
+REC-00062,contact_form,planted,true,form_id=web-contact; name=Rizwan Osmani; email=rizwan_osmani45@example.org; phone=0303-5784825; topic=new connection
+REC-00063,subscription_record,planted,true,"SUB | UBW-77552 | Mahnoor Leghari | Family plan | MAHNOOR.LEGHARI734@EXAMPLE.ORG | House #908, Street 3, Block F, Shadman, Rawalpindi - 50642 | last invoice 47501"
+REC-00064,delivery_note,planted,true,"DN-545120 | drv: Farhat Durrani | to: Layla Bukhari | 0323 5688090 | near the PSO petrol pump, behind Saddar Bazaar, Quetta | 35 x 19L"
+REC-00065,customer_service_message,planted,true,Ticket #469685 opened by Junaid Hussain. Contact: j.hussain@example.org / 03407149041. Issue: my subscription plan was changed without notice.
+REC-00066,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Handled by: Kinza Toor
+Customer callback : +923002395441
+Customer National ID:5520205838293
+Customer Account: UBW-77251
+Action: Verified customer identity before changing the plan
+Reference: BATCH-9482-D
+
+Confidential - not for external distribution."
+REC-00067,delivery_order,planted,true,"order pls - name Layla Sheikh | no. 03404791184 | addr Plot 205, Sector G-9/2, Islamabad, 27790 | 22 x 19L | paid online"
+REC-00068,contact_form,planted,true,form_id=web-contact; name=Parveen Mirza; email=parveen.mirza206@example.com; phone=0335-9601221; topic=delivery
+REC-00069,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+
+Subscriber: Waqar Farooqi
+Service Address : h no 656, st 38, model town, hyderabad
+Billing Email: waqar.farooqi461@example.net  
+Postal Code : 26912
+Account : UBW-66704
+Plan : Basic (2 x 19L per week)  
+Start date: 2026-10-11
+Status: Active"
+REC-00070,delivery_note,planted,true,"Driver Faizan Abbasi delivered 6 x 19L to waqar gillani at Flat 8D, Gulshan Residency, Clifton Block 5, Faisalabad. Customer mobile: 0092-335-4859883. Batch BATCH-8933-D, van LEA-3589."
+REC-00071,customer_service_message,planted,true,"Chat transcript - customer: salam, two bottles in my last order were leaking. my number is 0322-8639932 and email s.zuberi@example.org
+Agent: Thanks, may I have your name and account?
+Customer: Saad Zuberi, UBW-83616"
+REC-00072,internal_operational_note,planted,true,Call from Alia Gillani today about account UBW-30932. Verified CNIC 5520286356498. Will call back on 0092 321 3184887. - Kiran Durrani
+REC-00073,delivery_order,planted,true,"Order ORD-2026-451860 placed by Imran Osmani (UBW-47453) for 10 x 19L bottles. Deliver to House No. 904, Allama Iqbal Road, Wapda Town, Sialkot. Please call +92 301 084 7927 on arrival. Amount due PKR 4,583."
+REC-00074,contact_form,planted,true,"Hi, this is Uzma Niazi. My email is uzma_niazi517@example.net or call 0345 199 3318. My CNIC is 35202-6608607-6. I would like to upgrade my plan."
+REC-00075,subscription_record,planted,true,"SUB | UBW-76809 | Nadia Zuberi | Family plan | nadiazuberi@example.com | Flat 20C, Pearl Residencia, Askari 11, Islamabad 76494 | last invoice 58281"
+REC-00076,delivery_note,planted,true,"DELIVERY NOTE
+Recipient Phone: +923369691097
+Deliver to:House No. 598, Murree Road, Model Town, Karachi
+
+Units:35 x 19L
+Recipient : Noreen Baig
+Driver - Ehsan Iqbal
+Vehicle: RIM-7229
+Signature required: No"
+REC-00077,customer_service_message,planted,true,"Chat transcript - customer: salam, I have not received this month's invoice. call me on 03154848684 and email t.zuberi@example.com
+Agent: Thanks, may I have your name and account?
+Customer: Tariq Zuberi, UBW-37168"
+REC-00078,internal_operational_note,planted,true,Spoke with Farhat Khan today about account UBW-20358. NIC on file 41302-4548852-9. Will call back on 0313 8037616. - Waqar Siddiqui
+REC-00079,delivery_order,planted,true,"Order ORD-2026-426673 placed by Yusra Raza (UBW-10679) for 32 x 19L bottles. Deliver to House #339, Street 31, Block B, Wapda Town, Peshawar. Please call +92 341 3906349 on arrival. Amount due PKR 42,060."
+REC-00080,contact_form,planted,true,form_id=web-contact; name=Junaid Abbasi; email=junaid.abbasi936@example.org; phone=0301-6660463; topic=delivery
+REC-00081,subscription_record,planted,true,Mahnoor Siddiqui renewed the Premium (6 x 19L per week) on 2026-04-22 for account UBW-11846. Send receipts to mahnoorsiddiqui@example.org. 
+REC-00082,delivery_note,planted,true,"Driver IMRAN HUSSAIN delivered 21 x 19L to Sana Hashmi at House No. 458, University Road, Clifton, Rawalpindi. Contact 03120114590. Batch BATCH-6890-F, van RIM-1187."
+REC-00083,customer_service_message,planted,true,"Customer: salam, two bottles in my last order were leaking. call me on +923414949909 or mail usmandurrani@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Usman Durrani, UBW-58174"
+REC-00084,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+
+Customer Account : UBW-42435
+handled by: Zahida Bukhari  
+Customer callback : +92 303 881 6538
+Action: Verified customer identity before changing the plan
+Reference: ORD-2026-538179
+Confidential - not for external distribution."
+REC-00085,delivery_order,planted,true,"Delivery Order - Urban Bottled Water Co.
+Order Ref: ORD-2026-567451
+name - Mahnoor Bano Abbasi
+
+Service Address: House No. 764, Tariq Road, Cantt, Karachi 19572
+Contact:03006642917
+
+Acct: UBW-15936
+Quantity: 5 x 19L
+Total:PKR 47,557
+
+Instructions: ring the bell twice, do not call before 9 am."
+REC-00086,contact_form,planted,true,form_id=web-contact; name=Tahira Raza; email=TAHIRARAZA@EXAMPLE.COM; cnic=35202-1692765-1; topic=billing
+REC-00087,subscription_record,planted,true,"Imran Janjua renewed the Standard (4 x 19L per week) on 17/04/2026 for account UBW-52030. Billing contact: imran.janjua144@example.org. Bottles are delivered to near City Hospital gate, behind Hyderi Market, Sialkot."
+REC-00088,delivery_note,planted,true,"Driver Yusra Mirza delivered 26 x 19L to Palwasha Durrani at Plot 153, Sector I-8/4, Islamabad. Recipient phone +923345347476. Batch BATCH-4692-C, van LEB-9813."
+REC-00089,customer_service_message,planted,true,"From: Shahid Khan <shahid_khan992@example.net>
+Subject: Billing question
+Account: UBW-94765
+Mobile: 03115540893
+
+Hello support team,
+
+I am writing to report that I have not received this month's invoice. Please look into this.
+
+Regards,
+Shahid Khan"
+REC-00090,internal_operational_note,planted,true,Call from ehsan waheed today about account UBW-34906. NIC on file 3840166543814. Will call back on 0333-4070038. - Yusra Tarar
+REC-00091,delivery_order,planted,true,"Delivery Order - Urban Bottled Water Co.
+
+Order Ref : ORD-2026-777259  
+Customer - Faizan Ansari
+Account - UBW-51015
+Contact no. - 0092-331-1654371
+
+Drop-off : Shop 41, Jinnah Super Market, Bahawalpur
+Postcode: 58589
+Quantity: 11 x 19L
+Total: PKR 41,236
+Instructions: leave bottles at the gate."
+REC-00092,contact_form,planted,true,form_id=web-contact; name=SAAD OSMANI; email=saad_osmani676@example.com; phone=0300 8882154; topic=billing
+REC-00093,subscription_record,planted,true,"Kiran Hashmi renewed the Basic (2 x 19L per week) on 2026-11-28 for account UBW-49318. Invoices go to k.hashmi@example.org. Bottles are delivered to near the old water tank, behind Moon Market, Quetta, postal code 39603."
+REC-00094,delivery_note,planted,true,"DELIVERY NOTE
+Contact : 03058861040
+Units - 32 x 19L
+Deliver to: near the main roundabout, behind Hyderi Market, Rawalpindi
+Recipient : Junaid Malik
+Driver : Naveed Durrani
+Vehicle - KHI-1762
+Signature required: Yes"
+REC-00095,customer_service_message,planted,true,"Chat transcript - customer: salam, I have not received this month's invoice. call me on 0321 0497036 and email rizwan.ansari349@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Rizwan Bano Ansari, UBW-93115"
+REC-00096,internal_operational_note,planted,true,Spoke with Usman Farooqi today about account UBW-93086. Verified CNIC 33101-7461429-6. Will call back on 0322 1787627. - Hamza Cheema
+REC-00097,delivery_order,planted,true,"NEW ORDER - Urban Bottled Water Co.
+Order Ref: ORD-2026-599743
+Customer ID: UBW-60829
+Full Name: Kinza Janjua
+contact no.: 0303-5937696
+Address: Flat 11D, Al-Noor Heights, Askari 11, Sialkot  
+Postal Code: 64238
+Quantity: 35 x 19L
+Note: collect empty bottles."
+REC-00098,contact_form,planted,true,"Hello, my name is Zahida Javed. My email is zahidajaved@example.org or call 03418237735. Please verify me with 38401 5467463 7. Please call back."
+REC-00099,subscription_record,planted,true,Uzma Baig renewed the Standard (4 x 19L per week) on 2026-07-14 for account UBW-49692. Billing contact: uzmabaig@example.net. 
+REC-00100,delivery_note,planted,true,"Driver Naveed Dogar delivered 4 x 19L to Mehwish Gillani at Flat 8C, Sky Towers, Gulistan-e-Jauhar Block 15, Lahore. Customer mobile: 0335 9962645. Batch BATCH-2735-A, van RIM-7547."
+REC-00101,customer_service_message,planted,true,"Customer: salam, I have not received this month's invoice. my number is +92 334 252 9080 or mail kiransheikh@example.org
+Agent: Thanks, may I have your name and account?
+Customer: Kiran Sheikh, UBW-55215"
+REC-00102,internal_operational_note,planted,true,Visited Saad Rajput today about account UBW-67431. NIC on file 35202-0378915-6. Will call back on +92 303 5037595. - Omar Ansari
+REC-00103,delivery_order,planted,true,"Order ORD-2026-471413 placed by Usman Rajput (UBW-66640) for 39 x 19L bottles. Deliver to Shop 24, Moon Market, Gujranwala. Call +92 331 3889890 on arrival. Amount due PKR 46,828."
+REC-00104,contact_form,planted,true,"Hello, my name is Iqra Abbasi. Email me at iqraabbasi@example.org and my number is +923338853588. Please call back."
+REC-00105,subscription_record,planted,true,"Bina Ghani renewed the Office bulk plan on 18 Dec 2026 for account UBW-60293. Invoices go to binaghani@example.org. Bottles are delivered to H. No. 611, Ferozepur Road, Peshawar, postal code 85340."
+REC-00106,delivery_note,planted,true,"Driver Nadia Mirza delivered 33 x 19L to Hassan Ansari at H. No. 419, Allama Iqbal Road, Quetta. Recipient phone 0323-9421783. Batch BATCH-2354-E, van ISB-8272."
+REC-00107,customer_service_message,planted,true,"Customer: salam, my subscription plan was changed without notice. reach me at +923358569902, email: b.qureshi@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Bilal Qureshi, UBW-24838"
+REC-00108,internal_operational_note,planted,true,Visited Faizan Raza today about account UBW-68947. NIC on file 3520239752954. Will call back on 0092-303-7366370. - Tariq Pervez
+REC-00109,delivery_order,planted,true,"Delivery Order - Urban Bottled Water Co.
+Order Ref - ORD-2026-142175
+Address:Flat 20B, Gulshan Residency, Askari 11, Hyderabad-47923
+Contact: 03110995859
+Name: Alia Hussain
+Acct:UBW-85069
+Quantity : 28 x 19L
+Note: collect empty bottles."
+REC-00110,contact_form,planted,true,"Hello, my name is Junaid Kayani. Email me at junaid.kayani815@example.com and my number is +92-333-4505300. my identity card number is 33101-5666591-9. I would like to upgrade my plan."
+REC-00111,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Account: UBW-20803  
+Plan - Standard (4 x 19L per week)
+EMAIL - layla_lodhi208@example.com
+Service Address:House No. 96, Allama Iqbal Road, Clifton, Faisalabad - 42819
+subscriber:layla lodhi
+Start date: 2026-02-24
+Status: Paused"
+REC-00112,delivery_note,planted,true,"DELIVERY NOTE
+Vehicle: RIM-8248
+Recipient Phone: +923315891952
+Recipient : nadia noor khan  
+Drop-off - Plot 767, Sector F-7/3, Islamabad
+Units - 28 x 19L
+Driver : Nadia Cheema
+
+Signature required: Yes"
+REC-00113,customer_service_message,planted,true,Ticket #541307 opened by ADEEL DOGAR. Contact: adeeldogar@example.com / +92 334 020 2450. Issue: two bottles in my last order were leaking.
+REC-00114,internal_operational_note,planted,true,Spoke with iqra baig today about account ubw-38277. NIC on file 41302-6969792-7. Will call back on 0323-8499515. - Hamza Mirza
+REC-00115,delivery_order,planted,true,"Order via WhatsApp: name Alia Khan | ph +92 311 2606795 | addr Flat 3C, Askari Tower 2, Clifton Block 5, Peshawar - 41278 | 31 x 19L | cash on delivery"
+REC-00116,contact_form,planted,true,"Assalam o Alaikum, I am Ayesha Javed. Email me at a.javed@example.net or call 0313 1980663. National ID: 4210156205527. I would like to upgrade my plan."
+REC-00117,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Email: palwasha.abbasi916@example.net
+Service Address : Plot 46, Sector G-9/2, Islamabad, 42053
+Subscriber: Palwasha Abbasi
+Plan : Office bulk plan
+Account ID: UBW-16026
+Start date: 28/05/2026
+Status: Pending renewal"
+REC-00118,delivery_note,planted,true,"Driver Mahnoor Ahmed delivered 3 x 19L to Bina Raza at Shop 1, Anarkali Bazaar, Rawalpindi. Contact +92 311 9169742. Batch BATCH-1157-C, van LEB-9872."
+REC-00119,customer_service_message,planted,true,Ticket #533121 opened by Ayesha Cheema. Contact: ayesha.cheema211@example.com. Issue: two bottles in my last order were leaking.
+REC-00120,internal_operational_note,planted,true,Visited Kiran Osmani today about account UBW-19808. Checked national ID 33101-5284972-7. Will call back on 0345-2192921. - GHULAM KAYANI
+REC-00121,delivery_order,planted,true,"Order ORD-2026-473869 placed by Zara Ahmed Qureshi (UBW-56961) for 21 x 19L bottles. Deliver to House #478, Street 21, Block G, Johar Town, Quetta - 80244. Rider should phone +92-305-2607356 on arrival. Amount due PKR 46,713."
+REC-00122,contact_form,planted,true,form_id=web-contact; name=Zahida Chaudhry; email=zahidachaudhry@example.org; phone=0315-4364874; cnic=6110105214707; topic=billing
+REC-00123,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Subscriber:Layla Ahmed Ahmed
+Account ID: UBW-22055
+Plan:Premium (6 x 19L per week)
+BILLING EMAIL : layla_ahmed382@example.net  
+Service Address: Flat 3B, Askari Tower 2, Clifton Block 5, Lahore-26880
+Start date: 2026-08-18
+Status: Paused"
+REC-00124,delivery_note,planted,true,"Driver Nadia Gillani delivered 34 x 19L to Saima Raza at H. No. 353, MM Alam Road, Quetta. Recipient phone +92-323-6024901. Batch BATCH-1427-C, van KHI-7363."
+REC-00125,customer_service_message,planted,true,Ticket #158624 opened by ZAHIDA HASSAN QURESHI. Contact: zahida_qureshi543@example.net. Issue: the rider came after the scheduled window.
+REC-00126,internal_operational_note,planted,true,Spoke with Farhat Mirza today about account UBW-57026. Verified CNIC 52101-3158036-8. Will call back on 0322-9523609. - Tahira Abbasi
+REC-00127,delivery_order,planted,true,"order pls - name hassan qureshi | ph +92 321 3380011 | addr Shop 23, Saddar Bazaar, Multan-17806 | 9 x 19L | card on delivery"
+REC-00128,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received - 2026-05-23
+Full Name : Kiran Zuberi
+Mail: kiranzuberi@example.net
+Account - UBW-97232
+Message: I want to pause deliveries for two weeks."
+REC-00129,subscription_record,planted,true,"SUB | UBW-67438 | Dania Lodhi | Standard (4 x 19L per week) | d.lodhi+water@example.com | House #806, Street 7, Block A, Gulberg III, Faisalabad-60585 | last invoice 56036"
+REC-00130,delivery_note,planted,true,"DN-197627 | drv: Tariq Cheema | to: WAQAR QURESHI | +92-315-0336852 | House No. 76, Jail Road, Model Town, Lahore | 26 x 19L"
+REC-00131,customer_service_message,planted,true,Ticket #395198 opened by Ehsan Leghari. Contact: ehsanleghari@example.com / 03116866576. Issue: I want to move my delivery day from Wednesday to Friday.
+REC-00132,internal_operational_note,planted,true,"Shift report 16/02/2026: 27 x 19L dispatched, batch BATCH-8715-D passed QC, van KHI-2493 serviced. Pallet barcode 8961664416298, courier tracking 88098129449. Petty cash PKR 24,191."
+REC-00133,delivery_order,planted,true,"Order ORD-2026-580493 placed by Luqman Chaudhry for 5 x 19L bottles. Deliver to House #684, Street 7, Block B, Wapda Town, Bahawalpur-55061. Rider should phone 03139466486 on arrival."
+REC-00134,contact_form,planted,true,form_id=web-contact; name=naveed javed waheed; email=naveedwaheed@example.org; phone=0311 323 3407; topic=delivery
+REC-00135,subscription_record,planted,true,"Noreen Farooqi renewed the Standard (4 x 19L per week) on 2026-10-19 for account UBW-24748. Invoices go to n.farooqi@example.org. Bottles are delivered to House #639, Street 38, Block J, Garden Town, Bahawalpur, postal code 64997."
+REC-00136,delivery_note,planted,true,"Driver Asif Siddiqui delivered 27 x 19L to Wasim Cheema at H. No. 624, Allama Iqbal Road, Sialkot. Contact +92 310 4620682. Batch BATCH-4892-A, van LEA-7484."
+REC-00137,customer_service_message,planted,true,"Chat transcript - customer: salam, I want to move my delivery day from Wednesday to Friday. reach me at +92-345-1647814, email: adeel.leghari346@example.org
+Agent: Thanks, may I have your name and account?
+Customer: Adeel Leghari, UBW-39878"
+REC-00138,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Customer callback - 0315-8502613
+Handled by:Zahida Ghani
+
+Customer Account: UBW-17367
+Action: Escalated the billing dispute to accounts
+Reference: BATCH-8308-B
+Confidential - not for external distribution."
+REC-00139,delivery_order,planted,true,"new order!! name Yusra Tarar | no. 0092-303-4782670 | addr House #167, Street 37, Block D, Faisal Town, Karachi - 39012 | 28 x 19L | card on delivery"
+REC-00140,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received : 21 Oct 2026
+Name - Qasim Ahmed
+Ph : 0092-322-7700708
+Email : q.ahmed@example.net
+Message - I want to pause deliveries for two weeks."
+REC-00141,subscription_record,planted,true,Hamza Javed renewed the Office bulk plan on 12/09/2026 for account UBW-99957. Invoices go to h.javed@example.org. 
+REC-00142,delivery_note,planted,true,"Driver Uzma Mirza delivered 25 x 19L to Adeel Sheikh at Flat 8C, Crescent Apartments, Askari 11, Rawalpindi. Recipient phone 0092 345 5630978. Batch BATCH-8709-A, van KHI-5817."
+REC-00143,customer_service_message,planted,true,"Customer: salam, the rider came after the scheduled window. call me on 0306-2304606 or mail burhan.farooqi889@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Burhan Farooqi, UBW-36253"
+REC-00144,internal_operational_note,planted,true,Call from qasim yaqoob today about account UBW-45851. Checked national ID 35202-2171071-7. Will call back on +92-336-2658100. - Qasim Ghani
+REC-00145,delivery_order,planted,true,"Order 627786 placed by Hira Ahmed Ahmed (UBW-50906) for 39 x 19L bottles. Deliver to House #5, Street 16, Block D, Saddar, Gujranwala. Please call 0321.8909268 on arrival."
+REC-00146,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Submitted:21 May 2026  
+CNIC # - 61101-3543184-1
+Acct - UBW-87292
+Email: mahnoorrajput@example.org  
+Phone: 0323-0320859
+Full Name: Mahnoor Rajput
+
+Message - Kindly send a new dispenser."
+REC-00147,subscription_record,planted,true,"Layla Usmani renewed the Standard (4 x 19L per week) on 2026-06-16 for account UBW-15164. Invoices go to laylausmani@example.org. Bottles are delivered to near the PSO petrol pump, behind Saddar Bazaar, Multan, postal code 31020."
+REC-00148,delivery_note,planted,true,"Driver Layla Abbasi delivered 8 x 19L to Junaid Javed Osmani at near the PSO petrol pump, behind Liberty Market, Faisalabad. Customer mobile: 03127663014. Batch BATCH-6123-D, van LEB-1646."
+REC-00149,customer_service_message,planted,true,"Chat transcript - customer: salam, my subscription plan was changed without notice. call me on 03314501484, email: adeel.iqbal10@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Adeel Iqbal, UBW-22183"
+REC-00150,internal_operational_note,planted,true,Visited Parveen Iqbal today about account UBW-30892. Customer read out 6110163711606 for verification. Will call back on 0092 333 9545286. - Hira Leghari
+REC-00151,delivery_order,planted,true,"Order via WhatsApp: name Noreen Javed | no. 0092-331-0771287 | addr House #322, Street 1, Block J, Garden Town, Gujranwala - 85582 | 35 x 19L | paid online"
+REC-00152,contact_form,planted,true,"CONTACT FORM SUBMISSION
+
+Submitted : 21/07/2026
+Tel : +92 333 2775016
+
+MAIL: farhat.cheema12@example.com  
+Account ID - UBW-53371
+Full Name : Farhat Cheema
+NADRA ID:55202-5379342-4
+Message: Please update my contact details."
+REC-00153,subscription_record,planted,true,"Tahira Kayani renewed the Premium (6 x 19L per week) on 2026-01-04 for account UBW-48270. Billing contact: tahira_kayani734@example.net. Bottles are delivered to House #228, Street 1, Block F, Clifton, Gujranwala."
+REC-00154,delivery_note,planted,true,"DELIVERY NOTE
+Units: 30 x 19L  
+Recipient: Rabia Iqbal
+Recipient Phone : +92 311 5669584  
+Deliver to : House #48, Street 38, Block B, Garden Town, Peshawar
+Driver : Noreen Gillani
+Vehicle: ISB-9260
+Signature required: No"
+REC-00155,customer_service_message,planted,true,"Customer: salam, I want to move my delivery day from Wednesday to Friday. reach me at 0092 341 3646403 or mail n.javed@example.org
+Agent: Thanks, may I have your name and account?
+Customer: Nadia Javed, UBW-36330"
+REC-00156,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Customer callback: +923308957402
+Customer Account: UBW-86389
+Handled by: Qasim Osmani
+Customer National ID: 17101-0214253-9  
+Action: Scheduled a replacement dispenser
+
+Reference: ORD-2026-778476
+
+Confidential - not for external distribution."
+REC-00157,delivery_order,planted,true,"NEW ORDER - Urban Bottled Water Co.
+Order Ref : 312952
+
+Address : near the main roundabout, behind Saddar Bazaar, Peshawar
+Postal Code : 82368
+CELL #:+923450788191
+NAME: Hira Raza  
+ACCOUNT - ubw-17051  
+Quantity - 30 x 19L
+Total: PKR 37,563
+Note: collect empty bottles."
+REC-00158,contact_form,planted,true,form_id=web-contact; name=Dania Rajput; email=dania.rajput806@example.org; phone=0322 3711087; topic=new connection
+REC-00159,subscription_record,planted,true,"Ayesha Iqbal renewed the Premium (6 x 19L per week) on 26/09/2026 for account UBW-13238. Billing contact: ayeshaiqbal+water@example.org. Bottles are delivered to Shop 33, Hyderi Market, Lahore."
+REC-00160,delivery_note,planted,true,"DN-819368 | drv: Rabia Yaqoob | to: Parveen Siddiqui | 03413576485 | h no 856, st 7, dha phase 5, peshawar | 36 x 19L"
+REC-00161,customer_service_message,planted,true,"Customer: salam, I want to move my delivery day from Wednesday to Friday. call me on +92 312 433 9392 or mail omar.baig76@example.org
+Agent: Thanks, may I have your name and account?
+Customer: Omar Baig, UBW-63429"
+REC-00162,internal_operational_note,planted,true,Spoke with ADEEL CHAUDHRY today about account UBW-75907. NIC on file 55202-6399057-7. Will call back on +92-315-1451316. - Layla Javed Siddiqui
+REC-00163,delivery_order,planted,true,"order pls - name Tahira Javed | no. +92-315-2417186 | addr House No. 664, Jail Road, Gulberg III, Bahawalpur | 38 x 19L | cash on delivery"
+REC-00164,contact_form,planted,true,form_id=web-contact; name=Bina Pervez; email=b.pervez@example.net; topic=new connection
+REC-00165,subscription_record,planted,true,"SUB | UBW-91201 | MAHNOOR JAVED TARAR | Standard (4 x 19L per week) | mahnoor.tarar203@example.org | House No. 672, Tariq Road, Johar Town, Gujranwala, 47373 | last invoice 90785"
+REC-00166,delivery_note,planted,true,"Driver Sana Waheed delivered 25 x 19L to Waqar Bukhari at Shop 56, Saddar Bazaar, Bahawalpur. Customer mobile: 0321-4130133. Batch BATCH-8296-C, van LEB-6432."
+REC-00167,customer_service_message,planted,true,"From: Bina Malik <bina.malik862@example.com>
+Subject: Billing question
+Account: UBW-19882
+
+Hello support team,
+
+I am writing to report that the dispenser deposit was charged twice. Please look into this.
+
+Sincerely,
+Bina Malik"
+REC-00168,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Customer Account: UBW-87280
+Handled by : Wasim Siddiqui  
+Action: Scheduled a replacement dispenser
+Reference: 73373
+Confidential - not for external distribution."
+REC-00169,delivery_order,planted,true,"NEW ORDER - Urban Bottled Water Co.
+
+Order Ref - ORD-2026-041843
+Customer ID: UBW-71561
+
+WhatsApp: 03120718206
+Service Address : Plot 930, Sector I-8/4, Islamabad 60868
+
+Full Name:Fatima Qureshi
+Quantity: 22 x 19L
+Total: PKR 18,216
+Instructions: leave bottles at the gate."
+REC-00170,contact_form,planted,true,"CONTACT FORM SUBMISSION  
+Submitted: 2026-05-06
+
+Email : g.iqbal@example.net
+Name: Ghulam Iqbal
+Message:Kindly send a new dispenser."
+REC-00171,subscription_record,planted,true,"Omar Mirza renewed the Family plan on 14 Mar 2026 for account UBW-78512. Invoices go to omarmirza@example.org. Bottles are delivered to House #395, Street 9, Block B, Gulberg III, Peshawar."
+REC-00172,delivery_note,planted,true,"Driver Zahida Chaudhry delivered 26 x 19L to Layla Ghani at Flat 2D, Sky Towers, Clifton Block 5, Multan. Recipient phone +92 300 723 9315. Batch BATCH-5170-D, van KHI-2600."
+REC-00173,customer_service_message,planted,true,"Chat transcript - customer: salam, I want to move my delivery day from Wednesday to Friday. call me on 0334-1976835 and email tahira_ghani264@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Tahira Ghani, ubw-78126"
+REC-00174,internal_operational_note,planted,true,Call from Tariq Hussain today about account UBW-99208. NIC on file 21304-9380037-9. Will call back on 03359354349. - Omar Hussain
+REC-00175,delivery_order,planted,true,"Delivery Order - Urban Bottled Water Co.  
+Order Ref:ORD-2026-843442
+Contact no.: +923312714471
+Customer Name: Imran Javed
+
+Postal Code: 99727  
+Delivery Address - House #411, Street 22, Block J, Cantt, Hyderabad
+Acct - UBW-16822
+Quantity: 7 x 19L
+Instructions: leave bottles at the gate."
+REC-00176,contact_form,planted,true,"Hi, this is Junaid Toor. Email me at JUNAID_TOOR416@EXAMPLE.NET and my number is +923039220634. My CNIC is 41302-9779983-6. Thanks."
+REC-00177,subscription_record,planted,true,"SUB | UBW-73390 | Qasim Gillani | Premium (6 x 19L per week) | q.gillani@example.net | h no 257, st 29, north nazimabad, sialkot | last invoice 86916"
+REC-00178,delivery_note,planted,true,"DN-287155 | drv: BILAL LEGHARI | to: Burhan Qureshi | 03228665502 | Flat 9B, Gulshan Residency, DHA Phase 6, Bahawalpur | 27 x 19L"
+REC-00179,customer_service_message,planted,true,"From: Naveed Yaqoob <n.yaqoob@example.net>
+Subject: Billing question
+Account: UBW-41726
+
+Hello support team,
+
+I am writing to report that two bottles in my last order were leaking. Please look into this.
+
+Sincerely,
+Naveed Yaqoob"
+REC-00180,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.  
+Customer Account:UBW-51342
+Handled by: Sana Malik
+
+Customer National ID - 41302-4702093-7
+CUSTOMER CALLBACK: 0336 460 9255
+Action: Renewed the subscription at customer request
+Reference: BATCH-6924-E
+Confidential - not for external distribution."
+REC-00181,delivery_order,planted,true,"NEW ORDER - Urban Bottled Water Co.
+Order Ref: ORD-2026-603867
+
+Address: House #216, Street 27, Block F, Clifton, Peshawar
+Mob : 0321.6139188
+Customer - Qasim Tarar
+account: UBW-46651
+Postal code: 62506
+Quantity - 16 x 19L
+Total : PKR 24,573
+Instructions: ring the bell twice, do not call before 9 am."
+REC-00182,contact_form,planted,true,"Hello, my name is Bilal Gillani. Email me at bilalgillani@example.net and my number is 0315.5957741. Please call back."
+REC-00183,subscription_record,planted,true,"SUB | UBW-86928 | Ehsan Gillani | Office bulk plan | ehsan.gillani82@example.com | Flat 20D, Gulshan Residency, Clifton Block 5, Bahawalpur 57600 | last invoice 26389"
+REC-00184,delivery_note,planted,true,"Driver Noreen Raza delivered 11 x 19L to Mehwish Ghani at House #537, Street 6, Block B, Bahria Town, Peshawar. Recipient phone 0333-9201191. Batch BATCH-5053-F, van LEA-7387."
+REC-00185,customer_service_message,planted,true,Ticket #665484 opened by Asif Janjua. Contact: asifjanjua+water@example.org / 03337838205. Issue: the rider came after the scheduled window.
+REC-00186,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Customer Account:UBW-50587
+Handled by:Zahida Kayani
+Customer CNIC: 21304-6915632-5
+
+Customer callback:+92 312 1502467
+
+Action: Processed a refund for damaged bottles
+Reference: ORD-2026-171200
+Confidential - not for external distribution."
+REC-00187,delivery_order,planted,true,"order pls - name Hira Qureshi | mob 03404561139 | addr House No. 545, University Road, North Nazimabad, Bahawalpur | 31 x 19L | paid online"
+REC-00188,contact_form,planted,true,"Hello, my name is Rabia Ali Yaqoob. You can write to rabia.yaqoob191@example.org or call +923003905912. For verification, CNIC 42101-8280890-4. I would like to upgrade my plan."
+REC-00189,subscription_record,planted,true,"Zara Bano Dogar renewed the Basic (2 x 19L per week) on 22/04/2026 for account UBW-36106. Billing contact: z.dogar@example.com. Bottles are delivered to Shop 57, Jinnah Super Market, Rawalpindi, postal code 14392."
+REC-00190,delivery_note,planted,true,"DELIVERY NOTE
+Contact: 03220873883
+Units: 29 x 19L
+Vehicle - KHI-1246  
+Driver - dania lodhi
+RECIPIENT - Uzma Rajput
+Drop-off: h no 997, st 8, dha phase 5, rawalpindi
+Signature required: No"
+REC-00191,customer_service_message,planted,true,Ticket #409030 opened by Tahira Yaqoob. Contact: t.yaqoob@example.net / +923222260430. Issue: I have not received this month's invoice.
+REC-00192,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+
+Handled by: Palwasha Niazi
+Customer Account - UBW-82682
+
+Customer CNIC: 4130261591298
+
+Action: Scheduled a replacement dispenser
+Reference: 30202  
+Confidential - not for external distribution."
+REC-00193,delivery_order,planted,true,"Order via WhatsApp: name Asif Yaqoob | no. 0345-1118702 | addr House #183, Street 3, Block D, Johar Town, Islamabad | 33 x 19L | cash on delivery"
+REC-00194,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received: 2026-09-07
+Customer No. - UBW-90862
+Mail: ghulamqureshi@example.com
+WhatsApp : +92 322 936 2020
+Full Name : GHULAM QURESHI  
+CNIC No.: 1710161919441
+Message : I want to pause deliveries for two weeks."
+REC-00195,subscription_record,planted,true,"SUB | ubw-62047 | Ghulam Gillani | Basic (2 x 19L per week) | g.gillani@example.net | Shop 47, Anarkali Bazaar, Bahawalpur - 68654 | last invoice 49562"
+REC-00196,delivery_note,planted,true,"Driver Ayesha Waheed delivered 11 x 19L to Dania Baig at Flat 4A, Crescent Apartments, Askari 11, Sialkot. Contact +92-335-8577712. Batch BATCH-5093-B, van LEB-5341."
+REC-00197,customer_service_message,planted,true,Ticket #500080 opened by Wasim Waheed. Contact: wasimwaheed@example.org / 0336-1599943. Issue: the last delivery was short by two bottles.
+REC-00198,internal_operational_note,planted,true,Spoke with Jawad Iqbal today about account UBW-95561. NIC on file 41302-0690923-6. Will call back on 0092 341 6417066. - Hassan Zuberi
+REC-00199,delivery_order,planted,true,"new order!! name Tahira Javed Khan | no. 0340.9651174 | addr H. No. 443, University Road, Rawalpindi 61684 | 38 x 19L | paid online"
+REC-00200,contact_form,planted,true,form_id=web-contact; name=Rizwan Hussain; email=rizwanhussain@example.org; phone=+92 335 879 5418; topic=delivery
+REC-00201,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Billing Email: ghulam.ansari789@example.org
+Postal Code: 15882
+Subscriber : Ghulam Ansari
+Plan : Premium (6 x 19L per week)
+Account ID : UBW-40603
+Service Address - near the old water tank, behind Anarkali Bazaar, Quetta
+Start date : 13 Oct 2026
+Status: Paused"
+REC-00202,delivery_note,planted,true,"DELIVERY NOTE
+Recipient : Alia Javed Toor
+Vehicle - KHI-7332
+UNITS : 3 x 19L
+Deliver to:Plot 369, Sector G-9/2, Islamabad
+CONTACT - 0345-4551832
+Driver: Parveen Durrani
+Signature required: No"
+REC-00203,customer_service_message,planted,true,Ticket #755910 opened by Hassan Sheikh. Contact: hassan.sheikh967@example.org / 03232302852. Issue: the rider came after the scheduled window.
+REC-00204,internal_operational_note,planted,true,"Shift report 25 Mar 2026: 38 x 19L dispatched, batch BATCH-3589-C passed QC, van LEA-9732 serviced. Pallet barcode 8960508469555, courier tracking 89214950398. Petty cash PKR 2,783."
+REC-00205,delivery_order,planted,true,"NEW ORDER - Urban Bottled Water Co.
+Order Ref: ORD-2026-625329
+Customer: Dania Gillani
+Deliver to:House #110, Street 9, Block C, Gulberg III, Rawalpindi 90213
+Customer ID: UBW-90864
+Contact: +923414593537
+Quantity:16 x 19L  
+Total:PKR 21,887
+Instructions: ring the bell twice, do not call before 9 am."
+REC-00206,contact_form,planted,true,"Assalam o Alaikum, I am Imran Chaudhry. My email is i.chaudhry@example.net or call +92 341 0646123. My CNIC is 55202-7665517-1. I would like to upgrade my plan."
+REC-00207,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+SUBSCRIBER:Asif Janjua  
+Plan: Family plan
+customer no.: UBW-69204
+Service Address: House #926, Street 10, Block H, Faisal Town, Hyderabad 94685
+Billing Email - a.janjua@example.org
+Start date:3 Sep 2026
+
+Status: Pending renewal"
+REC-00208,delivery_note,planted,true,"DELIVERY NOTE
+Drop-off : Shop 40, Saddar Bazaar, Karachi
+Vehicle:KHI-3960
+Recipient - Parveen Zuberi
+Driver:parveen cheema
+Recipient Phone: 0306-3000886
+Units: 30 x 19L  
+Signature required: Yes"
+REC-00209,customer_service_message,planted,true,"Customer: salam, two bottles in my last order were leaking. call me on +92 321 147 1406 or mail hassan.mirza149@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Hassan Mirza, UBW-16426"
+REC-00210,internal_operational_note,planted,true,Visited Bina Yaqoob today about account UBW-18869. Verified CNIC 35202-4603979-6. Will call back on +92-303-4912917. - Yusra Bukhari
+REC-00211,delivery_order,planted,true,"Order via WhatsApp: name Alia Durrani | mob +92 303 811 4518 | addr Plot 957, Sector E-11/3, Islamabad | 35 x 19L | card on delivery"
+REC-00212,contact_form,planted,true,"Hi, this is Waqar Malik. You can write to waqar_malik828@example.net, phone 03110026523. My CNIC is 55202-1978465-4. Please call back."
+REC-00213,subscription_record,planted,true,"RABIA USMANI renewed the Premium (6 x 19L per week) on 2026-08-16 for account UBW-33020. Send receipts to r.usmani@example.com. Bottles are delivered to House No. 742, MM Alam Road, Cantt, Peshawar, postal code 13816."
+REC-00214,delivery_note,planted,true,"Driver Mahnoor Siddiqui delivered 19 x 19L to Jawad Durrani at Flat 11C, Al-Noor Heights, Bahria Town Phase 4, Rawalpindi. Contact +923219314327. Batch BATCH-9753-B, van LEA-6556."
+REC-00215,customer_service_message,planted,true,"Customer: salam, my subscription plan was changed without notice. my number is 0333 3986975, email: W.CHEEMA@EXAMPLE.NET
+Agent: Thanks, may I have your name and account?
+Customer: Waqar Cheema, UBW-58704"
+REC-00216,internal_operational_note,planted,true,Spoke with Bilal Leghari today about account UBW-54579. Verified CNIC 6110116483879. Will call back on +923345206955. - Fatima Niazi
+REC-00217,delivery_order,planted,true,"new order!! name Mahnoor Cheema | mob 0301-9970491 | addr h no 479, st 3, johar town, multan, 78233 | 21 x 19L | paid online"
+REC-00218,contact_form,planted,true,form_id=web-contact; name=Tariq Yaqoob; email=T.YAQOOB@EXAMPLE.COM; topic=billing
+REC-00219,subscription_record,planted,true,Iqra Waheed renewed the Office bulk plan on 12/05/2026 for account UBW-88134. Invoices go to iqra_waheed52@example.org. 
+REC-00220,delivery_note,planted,true,"DN-797492 | drv: Sana Bano Siddiqui | to: Junaid Kayani | +92 331 789 4449 | House No. 148, MM Alam Road, Bahria Town, Rawalpindi | 25 x 19L"
+REC-00221,customer_service_message,planted,true,"From: ehsan yaqoob <ehsan_yaqoob116@example.org>
+Subject: Delivery issue
+account: UBW-26697
+Phone: 03229641501
+
+Hello support team,
+
+I am writing to report that I have not received this month's invoice. Please look into this.
+
+Sincerely,
+ehsan yaqoob"
+REC-00222,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.  
+Customer National ID: 6110113068518  
+customer account : UBW-66511
+Handled by - Usman Tarar
+customer callback: 0321 9135645  
+Action: Scheduled a replacement dispenser
+Reference: ORD-2026-692984
+Confidential - not for external distribution."
+REC-00223,delivery_order,planted,true,"Order 988811 placed by Luqman Siddiqui (UBW-21703) for 10 x 19L bottles. Deliver to House No. 312, Mall Road, Saddar, Gujranwala. Call 0311 5311628 on arrival. Amount due PKR 36,840."
+REC-00224,contact_form,planted,true,"Hello, my name is Farhat Iqbal. You can write to farhatiqbal@example.org and my number is +923236401599. Please verify me with 38401-2909338-8. I would like to upgrade my plan."
+REC-00225,subscription_record,planted,true,"SUB | UBW-76770 | Ayesha Farooqi | Office bulk plan | ayesha_farooqi674@example.com | Flat 15D, Pearl Residencia, Bahria Town Phase 4, Peshawar - 69558 | last invoice 65675"
+REC-00226,delivery_note,planted,true,"Driver Zahida Ahmed delivered 11 x 19L to Usman Osmani at Flat 4D, Askari Tower 2, DHA Phase 6, Bahawalpur. Contact +92 301 063 5269. Batch BATCH-2281-E, van RIM-5578."
+REC-00227,customer_service_message,planted,true,Ticket #869460 opened by Alia Ghani. Contact: alia.ghani701@example.net / 0321-8976368. Issue: the rider came after the scheduled window.
+REC-00228,internal_operational_note,planted,true,Spoke with Zahida Waheed today about account UBW-18050. Checked national ID 3310104579855. Will call back on +92 336 086 6037. - farhat usmani
+REC-00229,delivery_order,planted,true,"new order!! name Wasim Javed | mob 03052929534 | addr near the main roundabout, behind Anarkali Bazaar, Bahawalpur | 13 x 19L | cash on delivery"
+REC-00230,contact_form,planted,true,"Hello, my name is Zahida Khan. You can write to zahida_khan789@example.net, phone +92 311 969 3160. Please verify me with 2130409114355. Thanks."
+REC-00231,subscription_record,planted,true,"Hamza Cheema renewed the Office bulk plan on 21/05/2026 for account UBW-93548. Billing contact: hamza_cheema13@example.org. Bottles are delivered to House No. 700, Main Boulevard, Johar Town, Hyderabad, postal code 79637."
+REC-00232,delivery_note,planted,true,"DN-567604 | drv: Faizan Dogar | to: Usman Niazi | 0321 918 7414 | House #852, Street 5, Block A, North Nazimabad, Karachi | 8 x 19L"
+REC-00233,customer_service_message,planted,true,Ticket #900962 opened by Farhat Qureshi. Contact: farhat.qureshi25@example.com. Issue: the rider came after the scheduled window.
+REC-00234,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Customer callback:0330 542 5820
+Handled by: Waqar Mirza
+customer account : UBW-93726
+Action: Escalated the billing dispute to accounts  
+Reference: 23926
+Confidential - not for external distribution."
+REC-00235,delivery_order,planted,true,"NEW ORDER - Urban Bottled Water Co.
+Order Ref:510339
+Acct: UBW-44922
+MOBILE - +92 313 748 0659
+Delivery Address: House #153, Street 1, Block A, Wapda Town, Quetta 61181
+Customer: SHAHID SHEIKH
+Quantity: 38 x 19L
+
+Total: PKR 25,676
+Note: collect empty bottles."
+REC-00236,contact_form,planted,true,form_id=web-contact; name=Hira Hashmi; email=hira.hashmi907@example.net; topic=billing
+REC-00237,subscription_record,planted,true,"SUB | ubw-19441 | fatima javed zuberi | Standard (4 x 19L per week) | fatima.zuberi217@example.net | near the main roundabout, behind Hyderi Market, Hyderabad | last invoice 71763"
+REC-00238,delivery_note,planted,true,"Driver Alia Chaudhry delivered 16 x 19L to Ayesha Mirza at Flat 4A, Crescent Apartments, Gulistan-e-Jauhar Block 15, Sialkot. Customer mobile: +92-305-7653507. Batch BATCH-7586-C, van LEA-4320."
+REC-00239,customer_service_message,planted,true,"From: Layla Abbasi <laylaabbasi+water@example.com>
+Subject: Billing question
+account - UBW-32026
+CALL-BACK:0306-6965133
+
+Hello support team,
+
+I am writing to report that the rider came after the scheduled window. Please look into this.
+
+Regards,
+Layla Abbasi"
+REC-00240,internal_operational_note,planted,true,Spoke with Faizan Usmani today about account UBW-72391. NIC on file 17101-4014011-3. Will call back on 03414545782. - AYESHA AHMED
+REC-00241,delivery_order,planted,true,"Order 907750 placed by Palwasha Ghani (UBW-80742) for 15 x 19L bottles. Deliver to House No. 543, Canal Road, Cantt, Lahore - 57435. Rider should phone 03009356827 on arrival."
+REC-00242,contact_form,planted,true,"Assalam o Alaikum, I am Naveed Malik. My email is naveed.malik56@example.org and my number is 03407602555. Please call back."
+REC-00243,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Service Address - House No. 891, Tariq Road, North Nazimabad, Peshawar
+Postal Code: 38922
+Subscriber - Luqman Yaqoob  
+PLAN: Office bulk plan
+Email:l.yaqoob@example.org
+Customer No.: UBW-19637
+Start date - 2026-10-10  
+Status: Active"
+REC-00244,delivery_note,planted,true,"DN-256206 | drv: WAQAR TARAR | to: Saima Malik | +92 331 4683710 | House #754, Street 16, Block D, Clifton, Peshawar | 29 x 19L"
+REC-00245,customer_service_message,planted,true,Ticket #867333 opened by waqar ahmed. Contact: waqar_ahmed752@example.com / 0305 7590706. Issue: the rider came after the scheduled window.
+REC-00246,internal_operational_note,planted,true,Call from Junaid Baig today about account UBW-70199. NIC on file 61101-6800818-3. Will call back on +923007630962. - Saad Javed
+REC-00247,delivery_order,planted,true,"new order!! name BURHAN AHMED | no. 0092-321-8907365 | addr House #771, Street 18, Block K, Satellite Town, Peshawar | 23 x 19L | card on delivery"
+REC-00248,contact_form,planted,true,form_id=web-contact; name=Ghulam Durrani; email=ghulam.durrani375@example.net; topic=new connection
+REC-00249,subscription_record,planted,true,"SUB | UBW-79717 | Tahira Yaqoob | Family plan | tahira_yaqoob284@example.org | H. No. 850, Canal Road, Hyderabad, 71625 | last invoice 98251"
+REC-00250,delivery_note,planted,true,"Driver Mehwish Farooqi delivered 15 x 19L to Junaid Ghani at House #714, Street 10, Block H, Model Town, Lahore. Customer mobile: 0303.1834838. Batch BATCH-9870-B, van RIM-1371."
+REC-00251,customer_service_message,planted,true,"Chat transcript - customer: salam, I want to move my delivery day from Wednesday to Friday. reach me at 03345635087 or mail naveed.ansari299@example.com
+Agent: Thanks, may I have your name and account?
+Customer: Naveed Ansari, UBW-63961"
+REC-00252,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Customer Account - UBW-32509
+Customer callback: 03224834292
+Handled by : Mehwish Rajput
+Customer CNIC: 4210124887046
+Action: Escalated the billing dispute to accounts
+
+Reference: 14546
+Confidential - not for external distribution."
+REC-00253,delivery_order,planted,true,"Order 778684 placed by Farhat Khan for 20 x 19L bottles. Deliver to near the PSO petrol pump, behind Jinnah Super Market, Peshawar. Rider should phone 0315-2038264 on arrival."
+REC-00254,contact_form,planted,true,form_id=web-contact; name=Waqar Janjua; email=waqar_janjua922+water@example.net; phone=03233697107; topic=delivery
+REC-00255,subscription_record,planted,true,"SUB | UBW-60608 | Rabia Baig | Premium (6 x 19L per week) | rabia.baig525@example.org | Flat 12D, Sky Towers, Clifton Block 5, Karachi-58448 | last invoice 83535"
+REC-00256,delivery_note,planted,true,"Driver Junaid Pervez delivered 21 x 19L to Jawad Janjua at House #613, Street 6, Block C, DHA Phase 5, Sialkot. Recipient phone 0330.6949018. Batch BATCH-7156-A, van ISB-9606."
+REC-00257,customer_service_message,planted,true,"Chat transcript - customer: salam, the last delivery was short by two bottles. call me on 0310-6405029 or mail ayeshagillani@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Ayesha Gillani, UBW-47940"
+REC-00258,internal_operational_note,planted,true,Call from Omar Sheikh today about account UBW-93435. Customer read out 38401-0477187-2 for verification. Will call back on +923156998729. - Adeel Kayani
+REC-00259,delivery_order,planted,true,"Delivery Order - Urban Bottled Water Co.
+Order Ref - ORD-2026-609908
+Postal code - 85400
+Customer ID : UBW-12299
+Contact: 0092-341-7986637
+Drop-off - near City Hospital gate, behind Moon Market, Lahore
+full name : Iqra Bukhari
+Quantity: 5 x 19L
+Total:PKR 19,381
+Instructions: ring the bell twice, do not call before 9 am."
+REC-00260,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received: 10/12/2026
+Account: UBW-20013
+CNIC #: 3520270019088
+NAME:Parveen Hashmi
+CONTACT NO.: 0335.9246138
+Email address : parveenhashmi@example.net  
+Message: I want to pause deliveries for two weeks."
+REC-00261,subscription_record,planted,true,Layla Hassan Sheikh renewed the Premium (6 x 19L per week) on 2026-06-12 for account UBW-29078. Send receipts to layla.sheikh802@example.net. 
+REC-00262,delivery_note,planted,true,"Driver ALIA RAZA delivered 32 x 19L to Yusra Ahmed at House #102, Street 14, Block J, Faisal Town, Bahawalpur. Contact 0310.9011487. Batch BATCH-2758-B, van KHI-4033."
+REC-00263,customer_service_message,planted,true,"From: Farhat Cheema <farhat_cheema116@example.org>
+Subject: Delivery issue
+Account:UBW-57349
+Phone:0306-8318412
+
+Hello support team,
+
+I am writing to report that the rider came after the scheduled window. Please look into this.
+
+Regards,
+Farhat Cheema"
+REC-00264,internal_operational_note,planted,true,Spoke with Rabia Farooqi today about account UBW-99015. Checked national ID 1710173493999. Will call back on 0345-8248490. - Uzma Gillani
+REC-00265,delivery_order,planted,true,"order pls - name Imran Hashmi | no. 0322-3340115 | addr House No. 865, Mall Road, Johar Town, Sialkot | 39 x 19L | paid online"
+REC-00266,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received: 10 Oct 2026
+Mail: naveeddogar@example.com
+Full Name: Naveed Dogar
+NADRA ID:42101-1144687-8
+Cell #: +92 341 2258353
+Customer ID: ubw-98880
+Message:I want to pause deliveries for two weeks."
+REC-00267,subscription_record,planted,true,"Nadia Waheed renewed the Office bulk plan on 22/06/2026 for account UBW-44523. Billing contact: nadia.waheed583@example.net. Bottles are delivered to Flat 18B, Pearl Residencia, DHA Phase 6, Quetta."
+REC-00268,delivery_note,planted,true,"DELIVERY NOTE
+Drop-off:House #254, Street 16, Block E, Cantt, Rawalpindi
+VEHICLE:LEA-5995  
+RECIPIENT: Bilal Zuberi
+Driver: Nadia Bukhari  
+recipient phone:0330 589 3320
+Units: 7 x 19L
+Signature required: No"
+REC-00269,customer_service_message,planted,true,"From: Rizwan Zuberi <rizwan_zuberi207@example.com>
+Subject: Billing question
+account : UBW-16230
+Phone : +92 315 4448564
+
+Hello support team,
+
+I am writing to report that the rider came after the scheduled window. Please look into this.
+
+Sincerely,
+Rizwan Zuberi"
+REC-00270,internal_operational_note,planted,true,"Shift report 21 Dec 2026: 13 x 19L dispatched, batch BATCH-9178-B passed QC, van ISB-5389 serviced. Pallet barcode 8962691907159, courier tracking 95156744006. Petty cash PKR 30,151."
+REC-00271,delivery_order,planted,true,"Delivery Order - Urban Bottled Water Co.
+Order Ref: ORD-2026-268903
+Phone: +92-330-5346113
+Drop-off: h no 650, st 14, faisal town, lahore
+
+Acct: UBW-44987
+Name: Usman Khan
+Postal code: 64059
+Quantity:40 x 19L
+Instructions: leave bottles at the gate."
+REC-00272,contact_form,planted,true,form_id=web-contact; name=Imran Javed; email=imran.javed535@example.net; phone=0092 313 8329067; topic=billing
+REC-00273,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Customer ID - UBW-99487
+Email:k.pervez@example.net
+Plan - Premium (6 x 19L per week)
+Postal Code - 72240
+Service Address: Flat 4C, Pearl Residencia, Clifton Block 5, Bahawalpur
+Subscriber:Kinza Pervez
+Start date: 2026-02-10
+Status: Active"
+REC-00274,delivery_note,planted,true,"DN-169591 | drv: Luqman Yaqoob | to: JAWAD CHAUDHRY | +92-333-7903600 | Plot 735, Sector G-11/1, Islamabad | 8 x 19L"
+REC-00275,customer_service_message,planted,true,Ticket #186226 opened by Farhat Gillani. Contact: f.gillani@example.com / 0331-2283248. Issue: I want to move my delivery day from Wednesday to Friday.
+REC-00276,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+CUSTOMER ACCOUNT: UBW-51864
+
+Handled by - Usman Rajput
+Customer NIC:52101-5495887-5
+Action: Updated the delivery address in the CRM
+Reference: ORD-2026-420515  
+Confidential - not for external distribution."
+REC-00277,delivery_order,planted,true,"Order 401950 placed by Kinza Sheikh (UBW-36626) for 33 x 19L bottles. Deliver to House #446, Street 30, Block H, Johar Town, Hyderabad. Rider should phone 0336-1968815 on arrival. Amount due PKR 19,744."
+REC-00278,contact_form,planted,true,"Assalam o Alaikum, I am Hamza Niazi. You can write to hamzaniazi@example.org or call +92 312 6201492. my identity card number is 55202-1438456-1. Please call back."
+REC-00279,subscription_record,planted,true,"SUB | UBW-43247 | ZAHIDA NOOR SHEIKH | Office bulk plan | z.sheikh@example.org | near the main roundabout, behind Liberty Market, Sialkot | last invoice 97983"
+REC-00280,delivery_note,planted,true,"DELIVERY NOTE
+Driver:Ghulam Javed
+Units:9 x 19L
+Recipient - Yusra Mirza
+VEHICLE: KHI-1723
+Deliver to: House #544, Street 28, Block C, Bahria Town, Bahawalpur
+Phone - 0092 331 2213242
+Signature required: No"
+REC-00281,customer_service_message,planted,true,"Customer: salam, two bottles in my last order were leaking. reach me at 0303-3418084 and email layla_malik469@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Layla Hassan Malik, UBW-47239"
+REC-00282,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Handled by: Saima Abbasi
+Customer callback - 0305 661 3071  
+Customer Account: UBW-13402  
+Action: Escalated the billing dispute to accounts
+Reference: ORD-2026-840494
+Confidential - not for external distribution."
+REC-00283,delivery_order,planted,true,"Delivery Order - Urban Bottled Water Co.
+Order Ref:398776
+Name : Dania Durrani
+drop-off:House No. 989, Mall Road, Johar Town, Rawalpindi, 12688  
+Ph - +92 303 669 1735
+acct : UBW-37292
+Quantity:11 x 19L
+Note: collect empty bottles."
+REC-00284,contact_form,planted,true,"CONTACT FORM SUBMISSION
+
+Submitted: 17 Feb 2026
+Contact no.: +92 306 2143956
+EMAIL:omar.malik298@example.com
+CNIC # - 3310141717139
+Name:Omar Malik  
+Message: I want to pause deliveries for two weeks."
+REC-00285,subscription_record,planted,true,"Qasim Pervez renewed the Family plan on 16 May 2026 for account UBW-96208. Send receipts to q.pervez@example.org. Bottles are delivered to House #14, Street 11, Block H, Gulshan-e-Iqbal, Lahore."
+REC-00286,delivery_note,planted,true,"Driver MEHWISH DOGAR delivered 36 x 19L to Nadia Ahmed at House #149, Street 16, Block G, Faisal Town, Gujranwala. Customer mobile: +923110449886. Batch BATCH-3427-D, van LEB-2410."
+REC-00287,customer_service_message,planted,true,"From: Kinza Baig <kinza_baig987@example.com>
+Subject: Complaint
+Account:UBW-84636
+
+Hello support team,
+
+I am writing to report that I have not received this month's invoice. پانی کی بوتلیں. Please look into this.
+
+Regards,
+Kinza Baig"
+REC-00288,internal_operational_note,planted,true,Visited ALIA MALIK today about account UBW-12492. NIC on file 1710179412932. Will call back on 03034493758. - Palwasha Dogar
+REC-00289,delivery_order,planted,true,"Order via WhatsApp: name Kinza Baig | mob +92 331 3894044 | addr H. No. 931, Allama Iqbal Road, Sialkot | 20 x 19L | card on delivery"
+REC-00290,contact_form,planted,true,"Hello, my name is Faizan Bukhari. My email is faizanbukhari@example.net and my number is +923062907342. Use this for verification: 52101-8257506-2. Thanks."
+REC-00291,subscription_record,planted,true,"SUB | UBW-56562 | Farhat Lodhi | Family plan | farhat.lodhi827@example.org | House No. 230, Murree Road, Bahria Town, Hyderabad | last invoice 77552"
+REC-00292,delivery_note,planted,true,"DELIVERY NOTE
+Contact: 0340.1709062
+Recipient:Luqman Kayani
+Vehicle: LEB-6925
+Driver:Zahida Hashmi
+Address: Shop 14, Jinnah Super Market, Karachi
+Units - 9 x 19L
+Signature required: No"
+REC-00293,customer_service_message,planted,true,"From: Burhan Raza <burhan_raza807@example.org>
+Subject: Billing question
+
+Hello support team,
+
+I am writing to report that the last delivery was short by two bottles. Please look into this.
+
+Regards,
+Burhan Raza"
+REC-00294,internal_operational_note,planted,true,"Shift report 24/12/2026: 24 x 19L dispatched, batch BATCH-1129-C passed QC, van RIM-3406 serviced. Pallet barcode 8967302711705, courier tracking 82765440737. Petty cash PKR 35,639."
+REC-00295,delivery_order,planted,true,"Order via WhatsApp: name Alia Janjua | mob +92-323-3310073 | addr h no 38, st 35, clifton, lahore | 7 x 19L | card on delivery"
+REC-00296,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received : 24/01/2026
+Contact no.: +92 301 6257547
+CNIC No.: 41302-5947075-2
+Full Name: Parveen Noor Baig
+e-mail: parveenbaig@example.net
+Message: I want to pause deliveries for two weeks."
+REC-00297,subscription_record,planted,true,"SUB | UBW-31344 | Iqra Bukhari | Standard (4 x 19L per week) | iqra_bukhari893@example.org | near the PSO petrol pump, behind Moon Market, Bahawalpur | last invoice 26958"
+REC-00298,delivery_note,planted,true,"DELIVERY NOTE
+Recipient : Saad Kayani
+UNITS: 4 x 19L
+Driver - Shahid Osmani
+ADDRESS : Flat 4C, Pearl Residencia, Askari 11, Peshawar
+vehicle: RIM-3511
+Phone: 0092 322 1992563  
+Signature required: No"
+REC-00299,customer_service_message,planted,true,"Chat transcript - customer: salam, the rider came after the scheduled window. my number is 0331 2499513, email: ehsancheema@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Ehsan Cheema, UBW-52626"
+REC-00300,internal_operational_note,planted,true,"Shift report 2026-10-18: 38 x 19L dispatched, batch BATCH-9548-B passed QC, van ISB-9235 serviced. Pallet barcode 8963852002754, courier tracking 72284318901. Petty cash PKR 2,281."
+REC-00301,delivery_order,planted,true,"DELIVERY ORDER - Urban Bottled Water Co.
+Order Ref : 500567
+Postcode - 67280
+Acct: UBW-33659
+Delivery Address: Flat 2D, Al-Noor Heights, Askari 11, Peshawar
+Full Name: Saad Raza
+Contact : +92 303 895 1380  
+Quantity: 18 x 19L
+Total: PKR 33,394
+Instructions: leave bottles at the gate."
+REC-00302,contact_form,planted,true,"CONTACT FORM SUBMISSION
+
+Submitted: 2026-09-12
+MAIL:dania.kayani418@example.com
+Name - DANIA KAYANI
+Tel - 0345.1703045
+Message : Kindly send a new dispenser."
+REC-00303,subscription_record,planted,true,"Asif Chaudhry renewed the Premium (6 x 19L per week) on 09/12/2026 for account UBW-51720. Billing contact: asif.chaudhry308@example.net. Bottles are delivered to House #287, Street 28, Block D, Cantt, Hyderabad."
+REC-00304,delivery_note,planted,true,"DN-782902 | drv: Ehsan Pervez | to: bilal javed | +92 300 2911451 | H. No. 721, Murree Road, Bahawalpur | 27 x 19L"
+REC-00305,customer_service_message,planted,true,"From: Iqra Javed Siddiqui <iqra.siddiqui362@example.org>
+Subject: Billing question
+Account - UBW-26353
+Call-back - 0310 0141455
+
+Hello support team,
+
+I am writing to report that two bottles in my last order were leaking. Please look into this.
+
+Thanks,
+Iqra Javed Siddiqui"
+REC-00306,internal_operational_note,planted,true,Visited Ghulam Chaudhry today about account UBW-89433. NIC on file 33101-9547951-9. Will call back on 0341-6645223. - Shahid Qureshi
+REC-00307,delivery_order,planted,true,"order pls - name Waqar Abbasi | no. +923064355775 | addr near City Hospital gate, behind Moon Market, Rawalpindi | 36 x 19L | paid online"
+REC-00308,contact_form,planted,true,"Assalam o Alaikum, I am Ayesha Hussain. You can write to ayesha.hussain875@example.org, phone 0305 8695551. My CNIC is 21304-8678130-1. Please call back."
+REC-00309,subscription_record,planted,true,"SUB | UBW-87664 | Bilal Qureshi | Premium (6 x 19L per week) | bilal.qureshi940@example.com | House #100, Street 2, Block H, North Nazimabad, Gujranwala-13148 | last invoice 41242"
+REC-00310,delivery_note,planted,true,"Driver Ehsan Durrani delivered 6 x 19L to Usman Farooqi at Flat 2A, Crescent Apartments, Askari 11, Lahore. Recipient phone +923417490291. Batch BATCH-5939-E, van LEB-2015."
+REC-00311,customer_service_message,planted,true,Ticket #749310 opened by BURHAN JAVED HUSSAIN. Contact: burhan.hussain302@example.org / +923120177948. Issue: the dispenser deposit was charged twice.
+REC-00312,internal_operational_note,planted,true,Visited Rabia Hashmi today about account UBW-18853. Verified CNIC 3310159624757. Will call back on +92-336-2113620. - Faizan Baig
+REC-00313,delivery_order,planted,true,"Order via WhatsApp: name Nadia Hassan Chaudhry | no. +92 341 6001942 | addr House No. 795, Ferozepur Road, Model Town, Hyderabad | 2 x 19L | cash on delivery"
+REC-00314,contact_form,planted,true,"Assalam o Alaikum, I am Usman Osmani. You can write to usman.osmani433@example.com, phone 03035730290. My CNIC is 55202-7841710-6. Thanks."
+REC-00315,subscription_record,planted,true,"SUB | UBW-62469 | Tahira Ahmed | Basic (2 x 19L per week) | tahira_ahmed639@example.org | near the main roundabout, behind Anarkali Bazaar, Multan, 36911 | last invoice 13934"
+REC-00316,delivery_note,planted,true,"DELIVERY NOTE
+Units: 17 x 19L
+Vehicle: LEB-4211
+Phone : 03124395611  
+Drop-off - Plot 868, Sector F-10/2, Islamabad
+recipient: Burhan Ali Bukhari
+Driver:Uzma Iqbal
+Signature required: No"
+REC-00317,customer_service_message,planted,true,"From: Zahida Hussain <zahida.hussain782@example.com>
+Subject: Billing question
+
+Hello support team,
+
+I am writing to report that the dispenser deposit was charged twice. Please look into this.
+
+Regards,
+Zahida Hussain"
+REC-00318,internal_operational_note,planted,true,Call from Alia Farooqi today about account UBW-94550. NIC on file 21304-8816018-8. Will call back on 0334 7789112. - Noreen Ghani
+REC-00319,delivery_order,planted,true,"Order ORD-2026-788133 placed by Imran Chaudhry (UBW-43361) for 7 x 19L bottles. Deliver to House #911, Street 25, Block K, Model Town, Peshawar 59034. Please call +92 312 6642099 on arrival."
+REC-00320,contact_form,planted,true,form_id=web-contact; name=Ehsan Hussain; email=e.hussain@example.org; phone=0312-4456445; cnic=2130413827535; topic=billing
+REC-00321,subscription_record,planted,true,"SUB | UBW-28070 | Kiran Ali Iqbal | Family plan | k.iqbal@example.org | Shop 36, Jinnah Super Market, Gujranwala, 89171 | last invoice 46942"
+REC-00322,delivery_note,planted,true,"DN-953957 | drv: Farhat Dogar | to: Faizan Ahmed | +923066669032 | House No. 768, Tariq Road, Gulshan-e-Iqbal, Bahawalpur | 16 x 19L"
+REC-00323,customer_service_message,planted,true,Ticket #110151 opened by Mahnoor Zuberi. Contact: mahnoorzuberi@example.net / 0335 0505062. Issue: the dispenser deposit was charged twice.
+REC-00324,internal_operational_note,planted,true,"Shift report 2026-07-07: 36 x 19L dispatched, batch BATCH-7331-B passed QC, van ISB-2779 serviced. Pallet barcode 8968426460165, courier tracking 98137862629. Petty cash PKR 6,175."
+REC-00325,delivery_order,planted,true,"DELIVERY ORDER - Urban Bottled Water Co.
+Order Ref:ORD-2026-386559
+Service Address - House #291, Street 14, Block D, Bahria Town, Peshawar
+Postal code : 96451
+Name : Kiran Tarar
+Acct: UBW-78733
+Mobile:+92 300 313 2173  
+Quantity: 35 x 19L
+
+Total:PKR 37,900
+Instructions: ring the bell twice, do not call before 9 am."
+REC-00326,contact_form,planted,true,"CONTACT FORM SUBMISSION  
+Submitted:2026-01-23
+Email address: waqar_chaudhry356@example.net
+Name: Waqar Chaudhry
+Mobile: 0310 6963429
+NIC:52101-7249042-8
+Message: Kindly send a new dispenser."
+REC-00327,subscription_record,planted,true,"Mehwish Kayani renewed the Family plan on 08/12/2026 for account UBW-70470. Invoices go to mehwishkayani+water@example.org. Bottles are delivered to near the main roundabout, behind Anarkali Bazaar, Multan, postal code 73538."
+REC-00328,delivery_note,planted,true,"DN-658155 | drv: Parveen Lodhi | to: Qasim Usmani | 0345-0188082 | Plot 452, Sector I-8/4, Islamabad | 13 x 19L"
+REC-00329,customer_service_message,planted,true,"From: Saad Janjua <saad.janjua400@example.org>
+Subject: Delivery issue
+ACCOUNT: UBW-42728
+Call-back: 0323-3384602
+
+Hello support team,
+
+I am writing to report that two bottles in my last order were leaking. Please look into this.
+
+Sincerely,
+Saad Janjua"
+REC-00330,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Customer Account: UBW-37147  
+Customer CNIC: 35202-5982358-6
+Handled by : Parveen Noor Lodhi
+Customer callback: 0330 2026754
+
+Action: Renewed the subscription at customer request
+Reference: BATCH-2552-E
+Confidential - not for external distribution."
+REC-00331,delivery_order,planted,true,"new order!! name Burhan Cheema | ph +923212941566 | addr Flat 16A, Gulshan Residency, DHA Phase 6, Bahawalpur 89761 | 39 x 19L | paid online"
+REC-00332,contact_form,planted,true,form_id=web-contact; name=Usman Hussain; email=usman.hussain141@example.org; phone=0341 0635969; cnic=52101-7444490-6; topic=delivery
+REC-00333,subscription_record,planted,true,"SUB | UBW-89700 | Faizan Usmani | Family plan | f.usmani@example.net | near the main roundabout, behind Moon Market, Rawalpindi 39156 | last invoice 18469"
+REC-00334,delivery_note,planted,true,"DELIVERY NOTE
+Driver: PALWASHA FAROOQI
+Vehicle:LEB-4236
+Deliver to: H. No. 743, Murree Road, Peshawar
+Units:21 x 19L
+Recipient Phone : +92 311 3964626
+Recipient:Omar Pervez
+Signature required: No"
+REC-00335,customer_service_message,planted,true,Ticket #592053 opened by Kinza Ghani. Contact: kinzaghani@example.org / 03156293920. Issue: the last delivery was short by two bottles.
+REC-00336,internal_operational_note,planted,true,"Shift report 4 Jul 2026: 12 x 19L dispatched, batch BATCH-4182-D passed QC, van KHI-6711 serviced. Pallet barcode 8967252006746, courier tracking 98837774039. Petty cash PKR 25,948."
+REC-00337,delivery_order,planted,true,"Order via WhatsApp: name kinza raza | no. +92-341-0474058 | addr Plot 152, Sector I-8/4, Islamabad | 17 x 19L | cash on delivery"
+REC-00338,contact_form,planted,true,"Assalam o Alaikum, I am Layla Ghani. You can write to layla_ghani724@example.com or call 0330-2782058. Please verify me with 3310150704029. I would like to upgrade my plan."
+REC-00339,subscription_record,planted,true,"Burhan Abbasi renewed the Office bulk plan on 14/11/2026 for account UBW-19154. Send receipts to burhanabbasi@example.net. Bottles are delivered to House No. 836, Murree Road, Gulberg III, Islamabad, postal code 22697."
+REC-00340,delivery_note,planted,true,"Driver Qasim Javed delivered 8 x 19L to Layla Janjua at House No. 452, Allama Iqbal Road, Shadman, Peshawar. Recipient phone 03103219293. Batch BATCH-7188-A, van LEB-2307."
+REC-00341,customer_service_message,planted,true,"Chat transcript - customer: salam, the rider came after the scheduled window. call me on 03009771813, email: ZARA_FAROOQI497@EXAMPLE.COM
+Agent: Thanks, may I have your name and account?
+Customer: Zara Farooqi, UBW-15486"
+REC-00342,internal_operational_note,planted,true,Spoke with Ehsan Yaqoob today about account UBW-97173. Verified CNIC 4210176658337. Will call back on +92 322 554 0763. - Ehsan Hussain
+REC-00343,delivery_order,planted,true,"order pls - name Saima Toor | ph 03317972523 | addr H. No. 193, Main Boulevard, Gujranwala | 22 x 19L | paid online"
+REC-00344,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received: 15/02/2026
+
+Customer ID - UBW-26759
+E-mail : adeel_ghani675@example.com
+full name - Adeel Ghani
+Mobile : 03112401850  
+cnic: 5210184663971
+Message - Kindly send a new dispenser."
+REC-00345,subscription_record,planted,true,"SUB | UBW-85083 | Adeel Cheema | Premium (6 x 19L per week) | adeel_cheema828@example.org | House #349, Street 38, Block D, Saddar, Lahore 25218 | last invoice 50737"
+REC-00346,delivery_note,planted,true,"Driver Hassan Siddiqui delivered 27 x 19L to Kinza Yaqoob at Plot 228, Sector G-9/2, Islamabad. Customer mobile: 0092 306 8719981. Batch BATCH-3370-C, van LEA-9819."
+REC-00347,customer_service_message,planted,true,Ticket #968941 opened by Tahira Malik. Contact: T.MALIK@EXAMPLE.NET / 03342071382. Issue: I want to move my delivery day from Wednesday to Friday.
+REC-00348,internal_operational_note,planted,true,Call from Shahid Pervez today about account UBW-39500. Checked national ID 3310126708191. Will call back on 0310-8178970. - Asif Hassan Cheema
+REC-00349,delivery_order,planted,true,"Order ORD-2026-605193 placed by Farhat Dogar (UBW-49855) for 10 x 19L bottles. Deliver to House No. 332, MM Alam Road, Faisal Town, Islamabad - 17094. Call 03119194082 on arrival. Amount due PKR 48,200."
+REC-00350,contact_form,planted,true,"CONTACT FORM SUBMISSION
+
+Received : 14 Mar 2026
+Email - adeel.ahmed695@example.com
+Full Name - Adeel Ahmed
+Mob: 0345 282 2312
+cnic no.:3520259657078
+
+Message: Please update my contact details."
+REC-00351,subscription_record,planted,true,"SUB | UBW-80452 | Yusra Abbasi | Basic (2 x 19L per week) | yusra.abbasi814@example.org | Flat 19B, Al-Noor Heights, Askari 11, Peshawar-18322 | last invoice 18379"
+REC-00352,delivery_note,planted,true,"DN-269041 | drv: Saima Siddiqui | to: Layla Pervez | 0340-3018851 | House #820, Street 21, Block B, Gulberg III, Quetta | 10 x 19L"
+REC-00353,customer_service_message,planted,true,"Chat transcript - customer: salam, the rider came after the scheduled window. my number is 0345-0001435 or mail junaid.tarar128@example.org
+Agent: Thanks, may I have your name and account?
+Customer: Junaid Tarar, UBW-42550"
+REC-00354,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Customer callback - 03112376783
+Customer Account: UBW-96850
+Customer National ID - 38401-2251636-9
+Handled by: Palwasha Yaqoob
+Action: Scheduled a replacement dispenser
+Reference: 58777  
+Confidential - not for external distribution."
+REC-00355,delivery_order,planted,true,"new order!! name Sana Osmani | mob 0330-6357590 | addr House #254, Street 5, Block E, Johar Town, Sialkot | 23 x 19L | paid online"
+REC-00356,contact_form,planted,true,"Assalam o Alaikum, I am Omar Qureshi. You can write to omarqureshi@example.com or call +923159878878. National ID: 5520216029049. Thanks."
+REC-00357,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Subscriber : Qasim Ansari
+Plan:Premium (6 x 19L per week)
+
+Service Address: H. No. 674, Ferozepur Road, Islamabad, 28700
+Account:UBW-59650
+Email - QASIM_ANSARI489@EXAMPLE.ORG
+Start date: 2026-12-03
+Status: Pending renewal"
+REC-00358,delivery_note,planted,true,"DN-299422 | drv: Hassan Ghani | to: Palwasha Ahmed | +92 306 8047291 | H. No. 694, Shahrah-e-Faisal, Gujranwala | 9 x 19L"
+REC-00359,customer_service_message,planted,true,Ticket #336001 opened by Adeel Ahmed. Contact: a.ahmed@example.net / +92-334-0710615. Issue: two bottles in my last order were leaking.
+REC-00360,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.  
+Customer Account : UBW-24841
+HANDLED BY: Ghulam Javed  
+Customer NIC: 55202-4924868-5
+Action: Verified customer identity before changing the plan
+Reference: BATCH-4050-D
+Confidential - not for external distribution."
+REC-00361,delivery_order,planted,true,"order pls - name Ayesha Hashmi | ph +92 306 6890722 | addr House #8, Street 10, Block E, DHA Phase 5, Quetta | 13 x 19L | card on delivery"
+REC-00362,contact_form,planted,true,"Assalam o Alaikum, I am Luqman Lodhi. You can write to luqman.lodhi368@example.net and my number is 0301-2242783. For verification, CNIC 21304-0530269-3. Thanks."
+REC-00363,subscription_record,planted,true,"Imran Osmani renewed the Family plan on 01/07/2026 for account UBW-54845. Billing contact: imran_osmani135@example.com. Bottles are delivered to House #513, Street 1, Block D, Gulberg III, Multan, postal code 98907."
+REC-00364,delivery_note,planted,true,"DELIVERY NOTE
+UNITS: 13 x 19L
+Address:House #802, Street 7, Block J, Cantt, Bahawalpur
+Vehicle - LEB-3436
+Recipient:Qasim Raza
+recipient phone:03127200092
+Driver: Kinza Raza
+Signature required: No"
+REC-00365,customer_service_message,planted,true,"Chat transcript - customer: salam, two bottles in my last order were leaking. call me on 03334700293, email: farhatgillani+water@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Farhat Gillani, UBW-89498"
+REC-00366,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.  
+Customer Account:UBW-87189
+handled by : Layla Hashmi  
+Customer National ID - 17101-1463496-2
+Action: Escalated the billing dispute to accounts
+
+Reference: 30142
+Confidential - not for external distribution."
+REC-00367,delivery_order,planted,true,"Order ORD-2026-175044 placed by Nadia Niazi (UBW-18874) for 40 x 19L bottles. Deliver to h no 645, st 8, shadman, quetta 67163. Rider should phone 0092-335-5827390 on arrival. Amount due PKR 45,194."
+REC-00368,contact_form,planted,true,form_id=web-contact; name=Adeel Dogar; email=adeel.dogar170@example.net; phone=+92-323-4554916; topic=new connection
+REC-00369,subscription_record,planted,true,"Wasim Waheed renewed the Basic (2 x 19L per week) on 8 Apr 2026 for account UBW-27428. Invoices go to w.waheed@example.com. Bottles are delivered to House No. 655, Ferozepur Road, Shadman, Karachi, postal code 46406."
+REC-00370,delivery_note,planted,true,"DN-789247 | drv: Zahida Bukhari | to: Uzma Sheikh | +92 321 096 0720 | Flat 12B, Askari Tower 2, Askari 11, Karachi | 13 x 19L"
+REC-00371,customer_service_message,planted,true,"Customer: salam, I want to move my delivery day from Wednesday to Friday. call me on +92-312-5440230 and email y.hashmi@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Yusra Hashmi, UBW-45231"
+REC-00372,internal_operational_note,planted,true,Spoke with Junaid Malik today about account UBW-33083. Verified CNIC 61101-2981886-7. Will call back on +92 310 4731917. - Noreen Hussain
+REC-00373,delivery_order,planted,true,"DELIVERY ORDER - Urban Bottled Water Co.
+Order Ref: ORD-2026-800530
+Phone : 0334 2303365
+Delivery Address: Plot 618, Sector G-9/2, Islamabad, 59528
+Customer ID: ubw-60330
+
+Customer Name - Kinza Raza
+
+Quantity: 4 x 19L
+Instructions: leave bottles at the gate."
+REC-00374,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Submitted: 12 Feb 2026
+Email address : TARIQ_USMANI146+WATER@EXAMPLE.COM
+Full Name - Tariq Usmani
+Message: Kindly send a new dispenser."
+REC-00375,subscription_record,planted,true,"SUB | UBW-29482 | Hamza Waheed | Standard (4 x 19L per week) | hamza.waheed278@example.net | House No. 818, Canal Road, Garden Town, Bahawalpur-10285 | last invoice 72709"
+REC-00376,delivery_note,planted,true,"Driver Iqra Iqbal delivered 23 x 19L to Zara Khan at House No. 493, Mall Road, Cantt, Peshawar. Customer mobile: 0323-5915793. Batch BATCH-9144-E, van LEB-5028."
+REC-00377,customer_service_message,planted,true,"From: Tariq Malik <tariq_malik86@example.org>
+Subject: Delivery issue
+Account: UBW-40827
+Phone: +92-312-1463815
+
+Hello support team,
+
+I am writing to report that two bottles in my last order were leaking. Please look into this.
+
+Thanks,
+Tariq Malik"
+REC-00378,internal_operational_note,planted,true,Visited Jawad Raza today about account UBW-28061. Checked national ID 1710162358261. Will call back on +923066332741. - Mahnoor Khan
+REC-00379,delivery_order,planted,true,"order pls - name Zahida Hassan Lodhi | mob 03009549308 | addr h no 154, st 12, gulshan-e-iqbal, peshawar | 28 x 19L | card on delivery"
+REC-00380,contact_form,planted,true,"Hi, this is AYESHA USMANI. You can write to ayesha.usmani619@example.net and my number is 0330 7621830. Please verify me with 33101-9597660-9. Please call back."
+REC-00381,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Plan: Standard (4 x 19L per week)
+Account: UBW-63097
+
+email: saaddogar@example.net  
+SERVICE ADDRESS: House #480, Street 31, Block F, Wapda Town, Bahawalpur - 94133
+
+Subscriber: Saad Dogar
+Start date : 9 Feb 2026
+Status: Pending renewal"
+REC-00382,delivery_note,planted,true,"DN-628040 | drv: Naveed Ali Chaudhry | to: Ayesha Ansari | +92 321 6553873 | Plot 720, Sector E-11/3, Islamabad | 8 x 19L"
+REC-00383,customer_service_message,planted,true,"From: Kiran Osmani <kiran_osmani489@example.com>
+Subject: Billing question
+Account: UBW-92044
+
+Hello support team,
+
+I am writing to report that I want to move my delivery day from Wednesday to Friday. Please look into this.
+
+Sincerely,
+Kiran Osmani"
+REC-00384,internal_operational_note,planted,true,Call from Nadia Zuberi today about account ubw-66479. Verified CNIC 52101-1258262-3. Will call back on +923456503423. - Saima Rajput
+REC-00385,delivery_order,planted,true,"order pls - name Omar Waheed | mob +92-303-8370358 | addr House #174, Street 19, Block C, Johar Town, Multan | 13 x 19L | paid online"
+REC-00386,contact_form,planted,true,form_id=web-contact; name=Luqman Javed; email=luqman_javed41@example.org; phone=0092-345-2163996; topic=new connection
+REC-00387,subscription_record,planted,true,"SUB | UBW-71063 | Fatima Durrani | Family plan | fatima.durrani159@example.org | Flat 13D, Askari Tower 2, DHA Phase 6, Lahore - 55735 | last invoice 24201"
+REC-00388,delivery_note,planted,true,"DN-132844 | drv: Imran Hussain | to: Dania Zuberi | +923331918079 | House No. 559, Ferozepur Road, Gulshan-e-Iqbal, Karachi | 11 x 19L"
+REC-00389,customer_service_message,planted,true,"Customer: salam, two bottles in my last order were leaking. پانی کی بوتلیں reach me at +923134229054, email: zahida_cheema219@example.com
+Agent: Thanks, may I have your name and account?
+Customer: Zahida Hassan Cheema, UBW-93320"
+REC-00390,internal_operational_note,planted,true,Spoke with Qasim Durrani today about account UBW-54829. Customer read out 5520279775569 for verification. Will call back on 03115859883. - Jawad Rajput
+REC-00391,delivery_order,planted,true,"Order 254650 placed by Kinza Ansari (ubw-51486) for 33 x 19L bottles. Deliver to House #593, Street 40, Block C, Clifton, Gujranwala. Please call +92-335-3331283 on arrival. Amount due PKR 47,003."
+REC-00392,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received : 27 Feb 2026
+Ph: +92 310 6334348
+
+Mail : luqman.javed38@example.com
+Customer ID - UBW-58530
+Name - Luqman Javed  
+Message: Please update my contact details."
+REC-00393,subscription_record,planted,true,Kiran Ghani renewed the Office bulk plan on 2026-02-13 for account UBW-65134. Billing contact: kiran_ghani107@example.net. 
+REC-00394,delivery_note,planted,true,"DELIVERY NOTE
+Deliver to:House No. 690, Tariq Road, Gulberg III, Peshawar
+Driver:Farhat Kayani
+Recipient:Shahid Hassan Dogar
+Phone : +92 313 4437558
+Units - 28 x 19L
+Vehicle: LEA-1254
+Signature required: No"
+REC-00395,customer_service_message,planted,true,"From: Saima Lodhi <saimalodhi@example.net>
+Subject: Complaint
+Account : UBW-82470
+Mobile: +92-341-4365936
+
+Hello support team,
+
+I am writing to report that my subscription plan was changed without notice. Please look into this.
+
+Sincerely,
+Saima Lodhi"
+REC-00396,internal_operational_note,planted,true,"Shift report 21 Jan 2026: 39 x 19L dispatched, batch BATCH-2694-A passed QC, van ISB-3010 serviced. Pallet barcode 8960459890737, courier tracking 80775790050. Petty cash PKR 5,506."
+REC-00397,delivery_order,planted,true,"Delivery Order - Urban Bottled Water Co.
+Order Ref: 947825  
+Drop-off: near the main roundabout, behind Anarkali Bazaar, Lahore 59185
+
+MOBILE : 0303-8162405
+Customer No.: UBW-51102
+Customer Name: Ghulam Pervez
+Quantity: 12 x 19L
+Total: PKR 45,962
+Instructions: ring the bell twice, do not call before 9 am."
+REC-00398,contact_form,planted,true,form_id=web-contact; name=Naveed Niazi; email=n.niazi@example.org; phone=0092 311 4195866; topic=new connection
+REC-00399,subscription_record,planted,true,"Palwasha Hussain renewed the Basic (2 x 19L per week) on 09/10/2026 for account UBW-18423. Billing contact: p.hussain@example.com. Bottles are delivered to H. No. 362, Jail Road, Sialkot."
+REC-00400,delivery_note,planted,true,"Driver Saima Ansari delivered 2 x 19L to Dania Hussain at House No. 126, Main Boulevard, Clifton, Multan. Contact 0345-6235425. Batch BATCH-6268-B, van KHI-4502."
+REC-00401,customer_service_message,planted,true,"Chat transcript - customer: salam, I have not received this month's invoice. call me on 0092-345-1255341 and email uzmafarooqi@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Uzma Farooqi, UBW-85228"
+REC-00402,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Customer National ID: 52101-0077963-8
+customer account:UBW-88830
+Handled by: Rabia Durrani
+Action: Verified customer identity before changing the plan
+
+Reference: BATCH-9090-E
+Confidential - not for external distribution."
+REC-00403,delivery_order,planted,true,"DELIVERY ORDER - Urban Bottled Water Co.
+Order Ref: 820999
+Customer ID: UBW-28184
+Postal Code: 11362
+Phone: +92-305-6273103  
+Delivery Address:near the old water tank, behind Liberty Market, Lahore
+Customer Name : Imran Waheed
+
+Quantity: 29 x 19L  
+Total: PKR 32,999
+Note: collect empty bottles."
+REC-00404,contact_form,planted,true,"Hello, my name is Naveed Qureshi. My email is naveed.qureshi362@example.com, phone +923111308903. National ID: 55202-1011111-4. Thanks."
+REC-00405,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Service Address:H. No. 526, Tariq Road, Sialkot - 62455
+PLAN - Office bulk plan
+
+Subscriber: Shahid Kayani
+Billing Email: shahid.kayani937@example.org
+Customer No.: UBW-34635
+Start date: 17 Jul 2026
+Status: Paused"
+REC-00406,delivery_note,planted,true,"DELIVERY NOTE
+Contact - 0313-8884588
+Address: Flat 4A, Askari Tower 2, Bahria Town Phase 4, Hyderabad
+Vehicle - LEB-2887
+Units: 9 x 19L
+Driver: Zara Bukhari  
+Recipient: Noreen Hussain
+Signature required: Yes"
+REC-00407,customer_service_message,planted,true,"From: Rizwan Leghari <rizwanleghari@example.com>
+Subject: Delivery issue
+Call-back:03312379573
+
+Hello support team,
+
+I am writing to report that I have not received this month's invoice. Please look into this.
+
+Sincerely,
+Rizwan Leghari"
+REC-00408,internal_operational_note,planted,true,Visited Fatima Baig today about account UBW-39922. Checked national ID 21304-7593642-8. Will call back on 0306-1575550. - Ayesha Malik
+REC-00409,delivery_order,planted,true,"NEW ORDER - Urban Bottled Water Co.
+Order Ref: ORD-2026-155084
+Service Address - Shop 15, Saddar Bazaar, Sialkot-99887
+
+Customer Name - Wasim Bukhari
+Account ID:UBW-78066  
+Cell #: 03218687763
+Quantity: 28 x 19L
+Total : PKR 45,351
+Instructions: ring the bell twice, do not call before 9 am."
+REC-00410,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Submitted:02/04/2026  
+Email - m.abbasi@example.org
+Full Name - Mahnoor Abbasi
+CNIC: 33101-9364049-3
+Account:UBW-49799
+Phone - 0345-2520403
+Message:I want to pause deliveries for two weeks."
+REC-00411,subscription_record,planted,true,"Kiran Sheikh renewed the Premium (6 x 19L per week) on 21 Aug 2026 for account UBW-49460. Invoices go to kiransheikh@example.org. Bottles are delivered to House #257, Street 9, Block G, Satellite Town, Rawalpindi."
+REC-00412,delivery_note,planted,true,"DELIVERY NOTE
+ADDRESS:H. No. 473, Main Boulevard, Peshawar
+Vehicle: LEA-7896
+Driver : Kinza Hashmi
+Contact: +92 330 7827453
+Units - 37 x 19L
+Recipient: Dania Osmani
+Signature required: No"
+REC-00413,customer_service_message,planted,true,"Customer: salam, two bottles in my last order were leaking. call me on 0306.3750438 or mail mehwish.zuberi719@example.com
+Agent: Thanks, may I have your name and account?
+Customer: Mehwish Zuberi, UBW-98562"
+REC-00414,internal_operational_note,planted,true,Spoke with Zahida Iqbal today about account UBW-23579. NIC on file 35202-5031885-7. Will call back on +92-331-6555091. - mehwish niazi
+REC-00415,delivery_order,planted,true,"order pls - name Wasim Janjua | mob 0341 0363358 | addr House #674, Street 16, Block C, Satellite Town, Bahawalpur | 8 x 19L | paid online"
+REC-00416,contact_form,planted,true,"Assalam o Alaikum, I am Hira Hashmi. You can write to hirahashmi@example.com, phone 0315-0571826. For verification, CNIC 5210174571261. Thanks."
+REC-00417,subscription_record,planted,true,"SUB | UBW-61633 | SHAHID RAJPUT | Office bulk plan | shahidrajput@example.net | Plot 286, Sector E-11/3, Islamabad | last invoice 89408"
+REC-00418,delivery_note,planted,true,"Driver Sana Mirza delivered 16 x 19L to Sana Rajput at Flat 2A, Askari Tower 2, Bahria Town Phase 4, Peshawar. Contact +92 336 584 0068. Batch BATCH-8805-C, van LEA-2740."
+REC-00419,customer_service_message,planted,true,"From: Tahira Raza <tahira_raza774@example.com>
+Subject: Complaint
+Account:UBW-67872
+Mobile: 03011222751
+
+Hello support team,
+
+I am writing to report that the rider came after the scheduled window. Please look into this.
+
+Regards,
+Tahira Raza"
+REC-00420,internal_operational_note,planted,true,Visited Rabia Lodhi today about account UBW-35204. Verified CNIC 61101-0087850-6. Will call back on 0345-1614070. - Wasim Malik
+REC-00421,delivery_order,planted,true,"Order ORD-2026-840534 placed by Ehsan Mirza (UBW-91065) for 6 x 19L bottles. Deliver to House #585, Street 31, Block J, Clifton, Rawalpindi 56725. Rider should phone +923348324443 on arrival. Amount due PKR 34,305."
+REC-00422,contact_form,planted,true,form_id=web-contact; name=KIRAN IQBAL; email=k.iqbal@example.org; topic=delivery
+REC-00423,subscription_record,planted,true,Alia Durrani renewed the Premium (6 x 19L per week) on 02/04/2026 for account UBW-28256. Invoices go to alia_durrani960@example.org. 
+REC-00424,delivery_note,planted,true,"DELIVERY NOTE
+VEHICLE:LEB-1351
+Recipient:Jawad Ghani
+
+Recipient Phone:0301-1745857
+Driver: WAQAR CHAUDHRY
+Deliver to:House #231, Street 23, Block G, Gulshan-e-Iqbal, Hyderabad
+Units: 21 x 19L  
+Signature required: Yes"
+REC-00425,customer_service_message,planted,true,Ticket #787036 opened by Tahira Gillani. Contact: tahira.gillani822+water@example.net. Issue: the last delivery was short by two bottles.
+REC-00426,internal_operational_note,planted,true,Call from Layla Noor Farooqi today about account UBW-56787. NIC on file 4130249104124. Will call back on 0092-331-5078780. - Asif Javed
+REC-00427,delivery_order,planted,true,"order pls - name Rizwan Bano Hashmi | no. +92 313 131 6106 | addr House #862, Street 34, Block D, Bahria Town, Islamabad | 17 x 19L | cash on delivery"
+REC-00428,contact_form,planted,true,"Hi, this is Bilal Malik. Email me at bilal_malik308@example.com, phone 0092-323-8310719. My CNIC is 17101-6453578-8. Please call back."
+REC-00429,subscription_record,planted,true,"Farhat Baig renewed the Premium (6 x 19L per week) on 15 Jul 2026 for account UBW-82521. Send receipts to f.baig@example.org. Bottles are delivered to Flat 20D, Crescent Apartments, DHA Phase 6, Karachi."
+REC-00430,delivery_note,planted,true,"Driver Parveen Cheema delivered 27 x 19L to Usman Javed at near Green Valley school, behind Hyderi Market, Hyderabad. Customer mobile: +923131435070. Batch BATCH-5104-F, van LEA-5493."
+REC-00431,customer_service_message,planted,true,Ticket #328424 opened by Zahida Ahmed. Contact: z.ahmed@example.com / 0300-7825556. Issue: I have not received this month's invoice.
+REC-00432,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+HANDLED BY - Yusra Ghani
+customer account - UBW-46194
+Customer National ID: 52101-0831808-4
+Action: Renewed the subscription at customer request
+Reference: 40762
+Confidential - not for external distribution."
+REC-00433,delivery_order,planted,true,"order pls - name Kiran Farooqi | mob 0311-5465833 | addr Flat 3D, Gulshan Residency, Bahria Town Phase 4, Gujranwala | 28 x 19L | paid online"
+REC-00434,contact_form,planted,true,form_id=web-contact; name=alia baig; email=aliabaig@example.com; phone=+92-334-8525883; topic=new connection
+REC-00435,subscription_record,planted,true,"SUB | UBW-85398 | Junaid Farooqi | Standard (4 x 19L per week) | junaid_farooqi552@example.net | Flat 17D, Gulshan Residency, Askari 11, Gujranwala, 35562 | last invoice 40263"
+REC-00436,delivery_note,planted,true,"Driver Mahnoor Yaqoob delivered 40 x 19L to Usman Janjua at H. No. 670, Murree Road, Multan. Recipient phone 0322 9402910. Batch BATCH-3052-E, van LEB-8355."
+REC-00437,customer_service_message,planted,true,"From: Usman Gillani <u.gillani@example.org>
+Subject: Delivery issue
+Account: UBW-85499
+Mobile - 0334 2489714
+
+Hello support team,
+
+I am writing to report that the dispenser deposit was charged twice. Please look into this.
+
+Regards,
+Usman Gillani"
+REC-00438,internal_operational_note,planted,true,"Shift report 11 Oct 2026: 8 x 19L dispatched, batch BATCH-1741-A passed QC, van KHI-8354 serviced. Pallet barcode 8968206283313, courier tracking 97880426060. Petty cash PKR 19,775."
+REC-00439,delivery_order,planted,true,"Order via WhatsApp: name Naveed Javed | mob +92 334 140 5754 | addr House #608, Street 38, Block F, Wapda Town, Karachi | 34 x 19L | cash on delivery"
+REC-00440,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received: 2026-08-16
+Name: tahira waheed
+
+Email address: tahira_waheed293@example.org
+Message : Please update my contact details."
+REC-00441,subscription_record,planted,true,"SUB | UBW-24367 | tariq siddiqui | Basic (2 x 19L per week) | tariq.siddiqui379@example.net | H. No. 851, Murree Road, Islamabad | last invoice 74651"
+REC-00442,delivery_note,planted,true,"DELIVERY NOTE
+Deliver to - House No. 344, University Road, Gulshan-e-Iqbal, Hyderabad
+Driver : Wasim Ghani
+Vehicle: LEA-6157
+Recipient: Noreen Iqbal
+Recipient Phone - +923121247391
+Units: 34 x 19L
+Signature required: Yes"
+REC-00443,customer_service_message,planted,true,"From: Ayesha Noor Hussain <ayeshahussain@example.org>
+Subject: Delivery issue
+Account - UBW-73469
+Phone: +92 312 585 0278
+
+Hello support team,
+
+I am writing to report that two bottles in my last order were leaking. Please look into this.
+
+Regards,
+Ayesha Noor Hussain"
+REC-00444,internal_operational_note,planted,true,Call from Asif Gillani today about account UBW-96824. NIC on file 17101-2148454-8. Will call back on 0321-1904822. - Tahira Iqbal
+REC-00445,delivery_order,planted,true,"new order!! name Usman Baig | mob 0092-330-1020109 | addr Flat 11D, Crescent Apartments, Clifton Block 5, Multan | 33 x 19L | cash on delivery"
+REC-00446,contact_form,planted,true,form_id=web-contact; name=Bina Janjua; email=binajanjua@example.net; phone=0340.5531182; cnic=41302-0334200-1; topic=new connection
+REC-00447,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Plan: Standard (4 x 19L per week)
+Subscriber - Iqra Durrani
+CUSTOMER NO. - UBW-38261
+Billing Email:iqradurrani@example.org
+Service Address - House No. 933, Jail Road, Clifton, Islamabad, 64184
+Start date - 3 Feb 2026
+Status: Active"
+REC-00448,delivery_note,planted,true,"Driver Ayesha Siddiqui delivered 31 x 19L to Adeel Dogar at H. No. 310, University Road, Karachi. Contact 03217132878. Batch BATCH-8723-D, van LEB-2633."
+REC-00449,customer_service_message,planted,true,"From: Asif Hussain <a.hussain@example.net>
+Subject: Delivery issue
+Account:UBW-61595
+Phone : 03008338861
+
+Hello support team,
+
+I am writing to report that the dispenser deposit was charged twice. Please look into this.
+
+Regards,
+Asif Hussain"
+REC-00450,internal_operational_note,planted,true,Call from Junaid Hashmi today about account UBW-74200. NIC on file 52101-3899524-1. Will call back on 0323-7944257. - Faizan Waheed
+REC-00451,delivery_order,planted,true,"order pls - name Ehsan Javed Khan | no. 0300 4498724 | addr Plot 814, Sector G-11/1, Islamabad | 31 x 19L | card on delivery"
+REC-00452,contact_form,planted,true,form_id=web-contact; name=Noreen Ghani; email=noreen.ghani385@example.com; phone=+923103311279; topic=new connection
+REC-00453,subscription_record,planted,true,"Jawad Ali Dogar renewed the Standard (4 x 19L per week) on 23 Jun 2026 for account UBW-48036. Send receipts to j.dogar@example.net. Bottles are delivered to House No. 578, Allama Iqbal Road, Model Town, Multan, postal code 28548."
+REC-00454,delivery_note,planted,true,"DELIVERY NOTE
+Contact: +92 300 5231815
+Address:Plot 711, Sector G-9/2, Islamabad  
+Vehicle: ISB-6423  
+Driver: Ehsan Javed
+
+Recipient - Naveed Ahmed
+units: 36 x 19L
+Signature required: Yes"
+REC-00455,customer_service_message,planted,true,"From: Zara Mirza <zara_mirza339@example.net>
+Subject: Complaint
+Call-back: 0340.7942448
+
+Hello support team,
+
+I am writing to report that the dispenser deposit was charged twice. Please look into this.
+
+Thanks,
+Zara Mirza"
+REC-00456,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.  
+Handled by:Iqra Durrani
+
+Customer Account - UBW-25374
+Action: Scheduled a replacement dispenser
+Reference: 67070
+Confidential - not for external distribution."
+REC-00457,delivery_order,planted,true,"NEW ORDER - Urban Bottled Water Co.
+Order Ref: 651553
+Full Name - Qasim Baig
+Contact no.: +92-322-7114847  
+Account ID - UBW-11398
+Delivery Address - House #898, Street 13, Block G, Clifton, Hyderabad-33462
+Quantity: 14 x 19L
+Note: collect empty bottles."
+REC-00458,contact_form,planted,true,"CONTACT FORM SUBMISSION  
+Submitted: 27/11/2026
+name:Tariq Ali Hashmi
+Customer No.: UBW-81314
+
+CNIC - 42101-5272014-2
+Email : tariqhashmi@example.com
+Message: I want to pause deliveries for two weeks."
+REC-00459,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Service Address: House #606, Street 2, Block C, Garden Town, Multan  
+Account: UBW-38511
+Postal Code: 11368
+Billing Email: mahnoor_abbasi91@example.com
+Subscriber:MAHNOOR ABBASI
+Plan: Office bulk plan
+
+Start date: 15 Nov 2026
+Status: Pending renewal"
+REC-00460,delivery_note,planted,true,"DELIVERY NOTE
+Recipient:Mehwish Hussain  
+Address : Plot 565, Sector E-11/3, Islamabad
+Vehicle: LEA-9409
+Units - 19 x 19L
+Driver: Hira Khan
+Recipient Phone: +92-311-5740847
+Signature required: Yes"
+REC-00461,customer_service_message,planted,true,Ticket #454291 opened by Qasim Ansari. Contact: qasimansari+water@example.net / +92 330 669 9704. Issue: my subscription plan was changed without notice.
+REC-00462,internal_operational_note,planted,true,"Shift report 2026-03-19: 23 x 19L dispatched, batch BATCH-1881-A passed QC, van KHI-3317 serviced. Pallet barcode 8967737339019, courier tracking 81700780709. Petty cash PKR 30,000."
+REC-00463,delivery_order,planted,true,"Delivery Order - Urban Bottled Water Co.
+Order Ref:105184
+
+Service Address: h no 93, st 16, model town, peshawar-99746
+Account - UBW-82790
+Cell # : 03103962502
+Customer - Sana Khan  
+Quantity: 32 x 19L
+Instructions: leave bottles at the gate."
+REC-00464,contact_form,planted,true,form_id=web-contact; name=Usman Bukhari; email=usman.bukhari626@example.org; phone=+92 306 838 7763; cnic=38401-5065677-7; topic=delivery
+REC-00465,subscription_record,planted,true,"Hira Bano Leghari renewed the Family plan on 13/11/2026 for account UBW-31087. Invoices go to hira_leghari699@example.com. Bottles are delivered to House #751, Street 7, Block G, Garden Town, Gujranwala."
+REC-00466,delivery_note,planted,true,"DN-896509 | drv: Imran Hussain | to: Wasim Iqbal | +92 322 7944805 | Plot 996, Sector I-8/4, Islamabad | 9 x 19L"
+REC-00467,customer_service_message,planted,true,"Customer: salam, the dispenser deposit was charged twice. reach me at +92 301 7797432 or mail h.ghani@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Hira Ghani, ubw-46924"
+REC-00468,internal_operational_note,planted,true,Spoke with Bilal Siddiqui today about account ubw-64664. NIC on file 21304-0614253-9. Will call back on 03410597521. - Ghulam Sheikh
+REC-00469,delivery_order,planted,true,"DELIVERY ORDER - Urban Bottled Water Co.  
+Order Ref - ORD-2026-342452
+Delivery Address - near the old water tank, behind Moon Market, Bahawalpur, 78623
+Customer:Kiran Javed
+WhatsApp : 0313 5794620
+Customer ID : UBW-84588
+
+Quantity : 25 x 19L
+Instructions: leave bottles at the gate."
+REC-00470,contact_form,planted,true,"Assalam o Alaikum, I am Ghulam Abbasi. My email is ghulam_abbasi282@example.com, phone +923406688583. National ID: 3310145748011. I would like to upgrade my plan."
+REC-00471,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Subscriber: Tahira Hassan Qureshi  
+Billing Email - t.qureshi@example.org
+Plan: Office bulk plan
+Acct : UBW-54642
+Service Address: Flat 13D, Pearl Residencia, DHA Phase 6, Multan-54951
+Start date : 1 Mar 2026
+Status: Pending renewal"
+REC-00472,delivery_note,planted,true,"DELIVERY NOTE
+Vehicle: LEA-5740
+Recipient - Bilal Usmani
+Driver - Farhat Abbasi
+Contact : 03352209515
+Address:House No. 100, Mall Road, DHA Phase 5, Lahore
+Units: 15 x 19L
+Signature required: Yes"
+REC-00473,customer_service_message,planted,true,"From: Qasim Dogar <q.dogar@example.com>
+Subject: Complaint
+Account: UBW-64823
+Mobile: 0336-7014552
+
+Hello support team,
+
+I am writing to report that I want to move my delivery day from Wednesday to Friday. پانی کی بوتلیں. Please look into this.
+
+Sincerely,
+Qasim Dogar"
+REC-00474,internal_operational_note,planted,true,"Shift report 2026-06-07: 20 x 19L dispatched, batch BATCH-2061-A passed QC, van LEB-8555 serviced. Pallet barcode 8961972218606, courier tracking 96885901965. Petty cash PKR 16,815."
+REC-00475,delivery_order,planted,true,"Order 504032 placed by Qasim Kayani for 6 x 19L bottles. Deliver to House No. 986, Canal Road, Gulberg III, Bahawalpur. Rider should phone +92 321 267 2049 on arrival. Amount due PKR 39,662."
+REC-00476,contact_form,planted,true,form_id=web-contact; name=Tariq Baig; email=tariq.baig300@example.net; phone=0334 7382743; cnic=35202-1738505-3; topic=billing
+REC-00477,subscription_record,planted,true,"Ghulam Gillani renewed the Office bulk plan on 09/10/2026 for account UBW-68284. Send receipts to ghulamgillani@example.org. Bottles are delivered to Flat 16B, Gulshan Residency, Askari 11, Lahore, postal code 48704."
+REC-00478,delivery_note,planted,true,"Driver Saima Hassan Usmani delivered 10 x 19L to Shahid Usmani at Plot 302, Sector F-7/3, Islamabad. Customer mobile: +92 315 7973956. Batch BATCH-4734-A, van LEB-5789."
+REC-00479,customer_service_message,planted,true,Ticket #492547 opened by saad waheed. Contact: s.waheed@example.net / +92 310 577 4944. Issue: the dispenser deposit was charged twice.
+REC-00480,internal_operational_note,planted,true,Visited Naveed Ali Cheema today about account UBW-50541. Customer read out 2130483683118 for verification. Will call back on 0340-2006411. - Palwasha Lodhi
+REC-00481,delivery_order,planted,true,"new order!! name Adeel Rajput | ph 0301 6685573 | addr Flat 3C, Pearl Residencia, Gulistan-e-Jauhar Block 15, Multan - 80481 | 38 x 19L | card on delivery"
+REC-00482,contact_form,planted,true,"CONTACT FORM SUBMISSION  
+Received:2026-09-04
+Tel: 0311-1068187
+Full Name: Faizan Raza  
+Customer No. : UBW-17977
+NIC: 6110187670635
+E-mail:faizanraza@example.org
+Message: Kindly send a new dispenser."
+REC-00483,subscription_record,planted,true,"SUB | UBW-51839 | Naveed Osmani | Family plan | n.osmani@example.org | Flat 15A, Sky Towers, Clifton Block 5, Faisalabad - 10854 | last invoice 18593"
+REC-00484,delivery_note,planted,true,"DN-804524 | drv: Kinza Waheed | to: Ehsan Siddiqui | 0312-3577178 | House No. 328, Shahrah-e-Faisal, Gulshan-e-Iqbal, Faisalabad | 8 x 19L"
+REC-00485,customer_service_message,planted,true,"Chat transcript - customer: salam, my subscription plan was changed without notice. call me on 0333.9986296, email: omaryaqoob@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Omar Yaqoob, UBW-64645"
+REC-00486,internal_operational_note,planted,true,Spoke with Adeel Yaqoob today about account UBW-61582. Verified CNIC 21304 2347640 8. Will call back on 0323-0927904. - Omar Waheed
+REC-00487,delivery_order,planted,true,"Order 856300 placed by Saad Sheikh for 39 x 19L bottles. Deliver to Flat 7D, Gulshan Residency, DHA Phase 6, Bahawalpur. Rider should phone 03235464089 on arrival. Amount due PKR 46,498."
+REC-00488,contact_form,planted,true,form_id=web-contact; name=Usman Toor; email=usman.toor104@example.org; phone=0315 1862787; cnic=35202-5444970-7; topic=billing
+REC-00489,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Account:UBW-38155
+Postal Code: 68437
+
+email : l.raza@example.org
+SUBSCRIBER:Luqman Raza
+Service Address: House #892, Street 21, Block F, Shadman, Lahore
+
+Plan : Office bulk plan
+Start date: 21 Feb 2026  
+Status: Active"
+REC-00490,delivery_note,planted,true,"DN-703165 | drv: Uzma Iqbal | to: Junaid Abbasi | 0303 723 0086 | Shop 20, Moon Market, Quetta | 23 x 19L"
+REC-00491,customer_service_message,planted,true,"From: Ehsan Kayani <ehsan_kayani911+water@example.net>
+Subject: Billing question
+Account:UBW-11119
+Call-back : +92 323 031 6613
+
+Hello support team,
+
+I am writing to report that I have not received this month's invoice. Please look into this.
+
+Thanks,
+Ehsan Kayani"
+REC-00492,internal_operational_note,planted,true,"Shift report 2026-04-22: 21 x 19L dispatched, batch BATCH-3675-D passed QC, van KHI-4817 serviced. Pallet barcode 8961526194146, courier tracking 78351077012. Petty cash PKR 8,854."
+REC-00493,delivery_order,planted,true,"Order via WhatsApp: name Hira Baig | no. +923230825678 | addr H. No. 204, Tariq Road, Peshawar - 59873 | 34 x 19L | cash on delivery"
+REC-00494,contact_form,planted,true,"Hi, this is Palwasha Ansari. You can write to palwashaansari@example.net or call 03057666411. Please verify me with 17101-7046664-7. Please call back."
+REC-00495,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Service Address : h no 579, st 1, model town, islamabad - 77976
+Account: UBW-30415
+SUBSCRIBER: faizan cheema
+Email: f.cheema@example.org
+Plan: Office bulk plan
+Start date: 11/01/2026
+Status: Paused"
+REC-00496,delivery_note,planted,true,"DELIVERY NOTE  
+Vehicle : RIM-8215
+Driver - Fatima Siddiqui
+Recipient - saima lodhi  
+Units: 28 x 19L
+
+Drop-off: near the PSO petrol pump, behind Anarkali Bazaar, Lahore
+Contact - 0092-303-7044465
+Signature required: No"
+REC-00497,customer_service_message,planted,true,Ticket #872182 opened by Asif Hashmi. Contact: a.hashmi@example.org. Issue: my subscription plan was changed without notice.
+REC-00498,internal_operational_note,planted,true,Spoke with qasim ahmed today about account UBW-41172. Checked national ID 21304-3149893-7. Will call back on 03368066089. - Fatima Cheema
+REC-00499,delivery_order,planted,true,"Order 900345 placed by Tariq Janjua (UBW-69810) for 35 x 19L bottles. Deliver to near Green Valley school, behind Anarkali Bazaar, Islamabad 81945. Rider should phone +923215658193 on arrival. Amount due PKR 15,998."
+REC-00500,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received : 20 Mar 2026
+
+CNIC No. : 41302-3269510-3
+Full Name: Mahnoor Iqbal
+WhatsApp:0303 846 7858
+Email address : mahnooriqbal@example.org
+Account:UBW-99204
+Message: Kindly send a new dispenser."
+REC-00501,subscription_record,planted,true,"Bina Javed Ahmed renewed the Standard (4 x 19L per week) on 14 Jul 2026 for account UBW-41780. Invoices go to b.ahmed@example.net. Bottles are delivered to House #144, Street 10, Block H, Faisal Town, Peshawar, postal code 31004."
+REC-00502,delivery_note,planted,true,"Driver Tahira Toor delivered 32 x 19L to Noreen Khan at Flat 17A, Askari Tower 2, Gulistan-e-Jauhar Block 15, Hyderabad. Recipient phone 03210180674. Batch BATCH-9867-F, van LEB-8180."
+REC-00503,customer_service_message,planted,true,"Chat transcript - customer: salam, I want to move my delivery day from Wednesday to Friday. my number is 0092-305-7827002 or mail a.kayani@example.com
+Agent: Thanks, may I have your name and account?
+Customer: Alia Kayani, UBW-65824"
+REC-00504,internal_operational_note,planted,true,Call from Zahida Bukhari today about account UBW-74819. Checked national ID 3310146282575. Will call back on 0330.0950471. - Kiran Ghani
+REC-00505,delivery_order,planted,true,"NEW ORDER - Urban Bottled Water Co.
+Order Ref : 144146
+Account ID - UBW-59259
+Customer Name: Farhat Javed Ghani
+Cell #: 03333714276
+postal code:84136
+Deliver to: Flat 4D, Pearl Residencia, Gulistan-e-Jauhar Block 15, Gujranwala
+Quantity - 40 x 19L
+Total:PKR 16,283
+Instructions: ring the bell twice, do not call before 9 am."
+REC-00506,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received: 20 Aug 2026
+TEL: 0333-1490982  
+NADRA ID : 52101-9030080-4
+
+Name : Mahnoor Sheikh
+
+E-mail : m.sheikh@example.org
+Message: Please update my contact details."
+REC-00507,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Service Address: House #835, Street 19, Block K, Cantt, Bahawalpur-20775
+Subscriber: Junaid Dogar
+Plan : Office bulk plan
+Customer ID:UBW-52445
+
+Billing Email : j.dogar@example.com
+Start date : 14 Mar 2026
+Status: Pending renewal"
+REC-00508,delivery_note,planted,true,"DELIVERY NOTE
+
+Recipient - Ghulam Sheikh
+
+Address: Flat 5C, Askari Tower 2, Bahria Town Phase 4, Lahore
+Vehicle: RIM-3109
+Driver:Waqar Cheema  
+Contact: 0092 312 5371304
+Units : 36 x 19L
+Signature required: No"
+REC-00509,customer_service_message,planted,true,Ticket #807440 opened by NAVEED HASSAN KHAN. Contact: N.KHAN@EXAMPLE.NET / +92 330 223 7355. Issue: I have not received this month's invoice.
+REC-00510,internal_operational_note,planted,true,Spoke with Jawad Khan today about account UBW-86922. NIC on file 2130498557362. Will call back on 0340-0888704. - Tahira Abbasi
+REC-00511,delivery_order,planted,true,"Order 944013 placed by Jawad Lodhi (UBW-62894) for 28 x 19L bottles. Deliver to House #747, Street 8, Block F, Johar Town, Quetta, 22341. Call +92 310 304 0670 on arrival. Amount due PKR 23,181."
+REC-00512,contact_form,planted,true,"CONTACT FORM SUBMISSION
+
+Submitted - 2026-02-12
+Contact no.: +92 303 569 9558
+national identity card - 35202-8789034-5
+Full Name : Shahid Hussain
+Email - shahidhussain@example.com
+Message : Please update my contact details."
+REC-00513,subscription_record,planted,true,Luqman Baig renewed the Standard (4 x 19L per week) on 11 Aug 2026 for account UBW-75228. Send receipts to luqman.baig827@example.org. 
+REC-00514,delivery_note,planted,true,"DELIVERY NOTE
+Recipient: Usman Bukhari
+Driver: LUQMAN IQBAL
+Contact:+92 323 0697770
+Deliver to:House No. 831, Allama Iqbal Road, Saddar, Quetta
+Vehicle:LEA-9517  
+Units:39 x 19L
+Signature required: Yes"
+REC-00515,customer_service_message,planted,true,Ticket #554876 opened by SAIMA CHAUDHRY. Contact: saimachaudhry@example.com. Issue: the rider came after the scheduled window. براہ کرم جلدی کریں
+REC-00516,internal_operational_note,planted,true,"Shift report 2026-12-07: 20 x 19L dispatched, batch BATCH-1077-B passed QC, van KHI-3900 serviced. Pallet barcode 8968534467201, courier tracking 77893236404. Petty cash PKR 3,159."
+REC-00517,delivery_order,planted,true,"Order ORD-2026-436089 placed by Omar Raza (UBW-45732) for 28 x 19L bottles. Deliver to Plot 318, Sector F-7/3, Islamabad. Please call 0092 345 9572068 on arrival. Amount due PKR 1,641."
+REC-00518,contact_form,planted,true,"Assalam o Alaikum, I am Mehwish Bano Dogar. You can write to mehwishdogar@example.com and my number is +92-303-3076246. For verification, CNIC 61101-4303341-7. I would like to upgrade my plan."
+REC-00519,subscription_record,planted,true,"SUB | UBW-90651 | Uzma Malik | Standard (4 x 19L per week) | uzma.malik481@example.com | h no 86, st 5, dha phase 5, islamabad 67140 | last invoice 96884"
+REC-00520,delivery_note,planted,true,"DN-166741 | drv: Rizwan Niazi | to: Fatima Ahmed Abbasi | 0310.5873992 | H. No. 58, Mall Road, Gujranwala | 26 x 19L"
+REC-00521,customer_service_message,planted,true,Ticket #168295 opened by Tahira Mirza. Contact: tahira_mirza26@example.com / +92 315 934 2445. Issue: my subscription plan was changed without notice. شکریہ
+REC-00522,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Handled by - Alia Lodhi
+Customer callback : +92 323 9511922
+Customer Account - UBW-10773
+Action: Processed a refund for damaged bottles
+Reference: BATCH-9789-C
+Confidential - not for external distribution."
+REC-00523,delivery_order,planted,true,"order pls - name Omar Usmani | ph 0313.2689667 | addr House No. 443, University Road, Model Town, Karachi | 10 x 19L | paid online"
+REC-00524,contact_form,planted,true,"Hello, my name is Jawad Kayani. Email me at jawad_kayani475@example.org, phone 0334-3454681. my identity card number is 38401-9535944-4. I would like to upgrade my plan."
+REC-00525,subscription_record,planted,true,"Naveed Hashmi renewed the Office bulk plan on 22/03/2026 for account UBW-13124. Send receipts to naveed_hashmi53@example.org. Bottles are delivered to House #960, Street 34, Block G, Model Town, Peshawar."
+REC-00526,delivery_note,planted,true,"Driver Faizan Dogar delivered 3 x 19L to Omar Gillani at Flat 2A, Al-Noor Heights, DHA Phase 6, Sialkot. Recipient phone +923335305200. Batch BATCH-6133-C, van LEA-1864."
+REC-00527,customer_service_message,planted,true,"From: Rabia Khan <rabia.khan372@example.org>
+Subject: Complaint
+account : UBW-32966
+Mobile:+92-333-5681113
+
+Hello support team,
+
+I am writing to report that the last delivery was short by two bottles. Please look into this.
+
+Sincerely,
+Rabia Khan"
+REC-00528,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Handled by: Zara Raza
+customer account: UBW-59931  
+Action: Updated the delivery address in the CRM
+Reference: ORD-2026-116362
+Confidential - not for external distribution."
+REC-00529,delivery_order,planted,true,"DELIVERY ORDER - Urban Bottled Water Co.
+Order Ref - ORD-2026-513392
+Drop-off : House #428, Street 11, Block F, Faisal Town, Sialkot 43123  
+ACCT:UBW-35168
+Tel:+92-322-8300525
+FULL NAME - Burhan Yaqoob
+Quantity - 22 x 19L
+Total:PKR 33,874
+Note: collect empty bottles."
+REC-00530,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Submitted: 2026-04-19
+Ph: 0092 303 5345454
+Email: ehsanjaved@example.com
+Full Name - Ehsan Javed
+Message: Please update my contact details."
+REC-00531,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Service Address - House #726, Street 32, Block K, Saddar, Rawalpindi
+Billing Email: shahid.ghani735@example.org
+Subscriber - Shahid Javed Ghani  
+Plan:Family plan
+
+Postal Code: 34387
+Account ID: UBW-71500
+Start date - 17 Jan 2026
+Status: Paused"
+REC-00532,delivery_note,planted,true,"DN-375185 | drv: Parveen Bano Farooqi | to: Noreen Durrani | 0331-0201308 | near Green Valley school, behind Hyderi Market, Gujranwala | 25 x 19L"
+REC-00533,customer_service_message,planted,true,"Chat transcript - customer: salam, I want to move my delivery day from Wednesday to Friday. call me on 0311 382 7078, email: noreen_yaqoob380@example.org
+Agent: Thanks, may I have your name and account?
+Customer: Noreen Yaqoob, UBW-86969"
+REC-00534,internal_operational_note,planted,true,Spoke with Hira Gillani today about account UBW-51513. Verified CNIC 17101-2898766-3. Will call back on 0092-306-6701126. - Mahnoor Kayani
+REC-00535,delivery_order,planted,true,"Order 556243 placed by Imran Leghari for 12 x 19L bottles. Deliver to House No. 285, Tariq Road, DHA Phase 5, Hyderabad 73771. Call 0323-2656107 on arrival."
+REC-00536,contact_form,planted,true,"Hello, my name is Shahid Leghari. Email me at SHAHID_LEGHARI823@EXAMPLE.ORG, phone 03105680438. I would like to upgrade my plan."
+REC-00537,subscription_record,planted,true,"GHULAM ABBASI renewed the Premium (6 x 19L per week) on 07/03/2026 for account UBW-82744. Send receipts to ghulam_abbasi379@example.com. Bottles are delivered to Plot 650, Sector G-11/1, Islamabad."
+REC-00538,delivery_note,planted,true,"DELIVERY NOTE
+Recipient: Waqar Leghari
+Vehicle:ISB-7382
+
+Units: 6 x 19L
+Drop-off: Flat 16D, Pearl Residencia, Askari 11, Lahore  
+Driver: Shahid Raza
+Contact : 0092-323-2488991  
+Signature required: Yes"
+REC-00539,customer_service_message,planted,true,Ticket #899406 opened by Asif Durrani. Contact: a.durrani@example.org / 0092-315-4378650. Issue: the last delivery was short by two bottles. پانی کی بوتلیں
+REC-00540,internal_operational_note,planted,true,"Shift report 04/01/2026: 37 x 19L dispatched, batch BATCH-8816-C passed QC, van LEB-6165 serviced. Pallet barcode 8968699307064, courier tracking 87070926279. Petty cash PKR 26,182."
+REC-00541,delivery_order,planted,true,"Delivery Order - Urban Bottled Water Co.
+Order Ref: ORD-2026-985790
+Customer : Dania Chaudhry
+Ph:+923018585041
+service address: House #731, Street 9, Block H, Johar Town, Bahawalpur - 18899
+ACCOUNT ID - UBW-28338
+
+Quantity: 17 x 19L
+Note: collect empty bottles."
+REC-00542,contact_form,planted,true,"Assalam o Alaikum, I am Tahira Ahmed Leghari. My email is tahiraleghari@example.net and my number is 0341 6640569. For verification, CNIC 33101-8258203-1. Please call back."
+REC-00543,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.  
+Service Address:House #938, Street 40, Block E, Bahria Town, Karachi  
+Account - UBW-59060
+
+Postal Code: 82910
+subscriber:PALWASHA AHMED
+Email: p.ahmed@example.com
+Plan - Standard (4 x 19L per week)
+Start date: 27 Dec 2026  
+Status: Paused"
+REC-00544,delivery_note,planted,true,"Driver Ghulam Javed Kayani delivered 40 x 19L to Wasim Pervez at House #398, Street 21, Block H, North Nazimabad, Bahawalpur. Contact 03105602449. Batch BATCH-5675-F, van LEB-9055."
+REC-00545,customer_service_message,planted,true,"Customer: salam, two bottles in my last order were leaking. براہ کرم جلدی کریں call me on 0092 315 7466878 or mail usman.farooqi635@example.com
+Agent: Thanks, may I have your name and account?
+Customer: Usman Farooqi, UBW-59993"
+REC-00546,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Handled by - Ghulam Farooqi  
+Customer Account - UBW-44435
+Customer NIC:4210179944243
+Action: Verified customer identity before changing the plan
+Reference: BATCH-8085-D
+Confidential - not for external distribution."
+REC-00547,delivery_order,planted,true,"NEW ORDER - Urban Bottled Water Co.
+Order Ref : ORD-2026-246225
+Customer: qasim ahmed
+Account ID : UBW-97981
+Cell # - 0313-4723937
+Delivery Address : Plot 822, Sector I-8/4, Islamabad-13199
+Quantity:30 x 19L
+Instructions: leave bottles at the gate."
+REC-00548,contact_form,planted,true,form_id=web-contact; name=Hamza Malik; email=hamza_malik89@example.com; phone=0331 7562644; cnic=6110107173226; topic=new connection
+REC-00549,subscription_record,planted,true,Adeel Lodhi renewed the Family plan on 2026-12-06 for account ubw-85427. Send receipts to adeellodhi@example.com. 
+REC-00550,delivery_note,planted,true,"DN-100625 | drv: Ehsan Malik | to: Ghulam Tarar | +92-312-9680779 | House No. 705, Canal Road, DHA Phase 5, Peshawar | 31 x 19L"
+REC-00551,customer_service_message,planted,true,"From: Rizwan Hashmi <r.hashmi@example.org>
+Subject: Billing question
+Account: ubw-13080
+Phone: +92 305 3204558
+
+Hello support team,
+
+I am writing to report that my subscription plan was changed without notice. Please look into this.
+
+Sincerely,
+Rizwan Hashmi"
+REC-00552,internal_operational_note,planted,true,Call from Bina Hussain today about account UBW-93259. Verified CNIC 21304-0520770-5. Will call back on 0333-0528784. - Zahida Waheed
+REC-00553,delivery_order,planted,true,"order pls - name Kinza Ansari | ph 0323 064 8801 | addr near Green Valley school, behind Hyderi Market, Lahore | 26 x 19L | paid online"
+REC-00554,contact_form,planted,true,form_id=web-contact; name=Fatima Yaqoob; email=FATIMA_YAQOOB222@EXAMPLE.COM; phone=0345-0473717; topic=new connection
+REC-00555,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Service Address : House #340, Street 28, Block B, Wapda Town, Sialkot
+Email:faizan_durrani179@example.org
+postal code: 30289
+Account : UBW-20069  
+PLAN:Office bulk plan
+Subscriber:Faizan Durrani
+Start date: 23 Sep 2026
+
+Status: Active"
+REC-00556,delivery_note,planted,true,"DELIVERY NOTE  
+Driver - Jawad Bano Leghari
+Vehicle: LEA-3654
+
+UNITS: 9 x 19L
+Recipient Phone - +923336733149
+DELIVER TO: H. No. 929, Ferozepur Road, Rawalpindi
+
+Recipient: Kinza Hassan Farooqi
+
+Signature required: No"
+REC-00557,customer_service_message,planted,true,Ticket #942918 opened by Yusra Ahmed Rajput. Contact: yusrarajput@example.com / +92 333 3592379. Issue: the rider came after the scheduled window.
+REC-00558,internal_operational_note,planted,true,Spoke with Iqra Leghari today about account UBW-84207. Customer read out 3310168181171 for verification. Will call back on +92 330 606 8696. - Sana Javed
+REC-00559,delivery_order,planted,true,"order pls - name Imran Baig | mob 0331 3770193 | addr Plot 491, Sector F-10/2, Islamabad | 40 x 19L | paid online"
+REC-00560,contact_form,planted,true,"Assalam o Alaikum, I am Zahida Baig. Email me at zahidabaig@example.org or call 03415729127. For verification, CNIC 41302-5487622-5. Thanks."
+REC-00561,subscription_record,planted,true,"Ehsan Ghani renewed the Premium (6 x 19L per week) on 22/07/2026 for account UBW-50153. Billing contact: ehsan.ghani258@example.org. Bottles are delivered to Flat 11B, Pearl Residencia, Bahria Town Phase 4, Rawalpindi."
+REC-00562,delivery_note,planted,true,"Driver Rabia Javed delivered 23 x 19L to Rabia Bukhari at Flat 10B, Sky Towers, Gulistan-e-Jauhar Block 15, Lahore. Recipient phone 03319760129. Batch BATCH-7416-D, van LEB-9142."
+REC-00563,customer_service_message,planted,true,"Chat transcript - customer: salam, the dispenser deposit was charged twice. reach me at 0335.6594804 or mail s.toor@example.com
+Agent: Thanks, may I have your name and account?
+Customer: Shahid Toor, UBW-10428"
+REC-00564,internal_operational_note,planted,true,Call from Hassan Hussain today about account UBW-24166. NIC on file 21304-0914394-1. Will call back on 0305 2344236. - Zara Osmani
+REC-00565,delivery_order,planted,true,"DELIVERY ORDER - Urban Bottled Water Co.  
+Order Ref : 550680  
+Customer No. : UBW-91836
+Postcode: 54250  
+Full Name: Zara Javed
+WhatsApp: +923110670038
+Address:h no 62, st 1, johar town, sialkot  
+Quantity: 17 x 19L
+Instructions: ring the bell twice, do not call before 9 am."
+REC-00566,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received : 2026-06-11
+Ph: 0331 7424380
+Mail: kiran_ahmed457@example.com
+Name:Kiran Ahmed  
+CNIC #: 17101-6378070-1  
+Message: Kindly send a new dispenser."
+REC-00567,subscription_record,planted,true,"SUB | UBW-67325 | Mehwish Farooqi | Standard (4 x 19L per week) | MEHWISH_FAROOQI586@EXAMPLE.ORG | H. No. 932, Mall Road, Quetta, 21725 | last invoice 72721"
+REC-00568,delivery_note,planted,true,"DELIVERY NOTE
+
+Driver: Parveen Lodhi
+Units: 37 x 19L
+
+address: Shop 21, Liberty Market, Lahore  
+VEHICLE - LEA-5102
+Phone:0322.0804946
+Recipient: Saima Rajput
+Signature required: Yes"
+REC-00569,customer_service_message,planted,true,"Customer: salam, two bottles in my last order were leaking. call me on 0310 2562193 or mail zahidafarooqi@example.org
+Agent: Thanks, may I have your name and account?
+Customer: Zahida Ali Farooqi, UBW-79947"
+REC-00570,internal_operational_note,planted,true,Spoke with Nadia Ahmed Lodhi today about account UBW-41709. Verified CNIC 55202-2938445-2. Will call back on +92-336-4685491. - BILAL OSMANI
+REC-00571,delivery_order,planted,true,"order pls - name Iqra Cheema | ph +92 333 6627284 | addr Flat 17D, Askari Tower 2, Gulistan-e-Jauhar Block 15, Bahawalpur | 18 x 19L | paid online"
+REC-00572,contact_form,planted,true,form_id=web-contact; name=Nadia Chaudhry; email=n.chaudhry@example.net; phone=0315 6268360; cnic=55202-3333680-1; topic=new connection
+REC-00573,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Email - adeeljaved+water@example.com
+service address: House No. 478, Murree Road, Clifton, Peshawar, 36829
+
+Account ID: UBW-70725
+subscriber: Adeel Javed
+Plan : Basic (2 x 19L per week)
+Start date - 2026-02-01
+
+Status: Paused"
+REC-00574,delivery_note,planted,true,"Driver Hassan Baig delivered 9 x 19L to Ghulam Baig at House No. 821, Shahrah-e-Faisal, Cantt, Karachi. Contact +92 322 547 8510. Batch BATCH-1592-F, van ISB-8987."
+REC-00575,customer_service_message,planted,true,"Chat transcript - customer: salam, two bottles in my last order were leaking. مہربانی my number is 0341 4481292 and email uzmaabbasi@example.org
+Agent: Thanks, may I have your name and account?
+Customer: Uzma Abbasi, UBW-28868"
+REC-00576,internal_operational_note,planted,true,Spoke with Waqar Niazi today about account UBW-29876. Verified CNIC 61101 0628491 5. Will call back on +92 311 0009512. - Fatima Ahmed Waheed
+REC-00577,delivery_order,planted,true,"Order via WhatsApp: name Hamza Malik | mob +92-321-6243076 | addr h no 591, st 36, satellite town, faisalabad | 39 x 19L | cash on delivery"
+REC-00578,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received:24/07/2026  
+CNIC #: 4130237518084
+Contact: +92 313 178 6719
+Email address: t.baig@example.org
+Name:Tahira Baig
+Message : Please update my contact details."
+REC-00579,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Plan: Office bulk plan
+Service Address: h no 85, st 6, garden town, lahore 11112
+Email: imranhussain@example.org
+SUBSCRIBER : Imran Hussain
+Account ID : UBW-29666
+Start date:2026-04-27
+Status: Active"
+REC-00580,delivery_note,planted,true,"Driver Zara Usmani delivered 23 x 19L to Alia Usmani at House #230, Street 19, Block A, North Nazimabad, Sialkot. Customer mobile: 0092-310-8638445. Batch BATCH-9337-C, van LEB-8744."
+REC-00581,customer_service_message,planted,true,"Customer: salam, the last delivery was short by two bottles. my number is +923011333002 or mail a.dogar@example.com
+Agent: Thanks, may I have your name and account?
+Customer: Asif Dogar, UBW-17700"
+REC-00582,internal_operational_note,planted,true,Call from Yusra Raza today about account UBW-26071. Verified CNIC 3310135193888. Will call back on +923459263040. - Iqra Usmani
+REC-00583,delivery_order,planted,true,"Order ORD-2026-007800 placed by Farhat Hassan Farooqi (UBW-96298) for 12 x 19L bottles. Deliver to Shop 18, Saddar Bazaar, Multan, 65358. Call +92-331-6668769 on arrival. Amount due PKR 9,245."
+REC-00584,contact_form,planted,true,"Assalam o Alaikum, I am Rizwan Malik. Email me at rizwanmalik+water@example.com or call +923406258302. my identity card number is 35202-8100012-9. Please call back."
+REC-00585,subscription_record,planted,true,"SUB | UBW-92187 | Yusra Niazi | Basic (2 x 19L per week) | yusra.niazi466@example.net | Flat 10C, Al-Noor Heights, Clifton Block 5, Quetta | last invoice 64689"
+REC-00586,delivery_note,planted,true,"DELIVERY NOTE
+Recipient Phone: +923013849916
+
+Units : 18 x 19L
+VEHICLE - LEA-9695
+Driver - Mahnoor Abbasi
+Address : Plot 261, Sector G-11/1, Islamabad
+Recipient : Yusra Qureshi
+Signature required: Yes"
+REC-00587,customer_service_message,planted,true,"From: Usman Cheema <usmancheema@example.com>
+Subject: Billing question
+Account: UBW-23036
+
+Hello support team,
+
+I am writing to report that I want to move my delivery day from Wednesday to Friday. Please look into this.
+
+Regards,
+Usman Cheema"
+REC-00588,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Customer Account : UBW-93757
+Handled by: Noreen Lodhi
+Customer National ID:35202 4530705 3
+Customer callback: 0305 005 5838
+Action: Renewed the subscription at customer request
+Reference: ORD-2026-170175
+Confidential - not for external distribution."
+REC-00589,delivery_order,planted,true,"Order via WhatsApp: name Ehsan Lodhi | no. 0341-5895221 | addr House #812, Street 28, Block B, Garden Town, Peshawar - 77163 | 32 x 19L | card on delivery"
+REC-00590,contact_form,planted,true,"Hi, this is Palwasha Tarar. My email is p.tarar@example.com and my number is 0322-0287248. My CNIC is 21304 5682872 7. Please call back."
+REC-00591,subscription_record,planted,true,"Nadia Leghari renewed the Standard (4 x 19L per week) on 2026-07-09 for account UBW-17197. Billing contact: n.leghari@example.com. Bottles are delivered to Flat 18D, Gulshan Residency, DHA Phase 6, Rawalpindi, postal code 23968."
+REC-00592,delivery_note,planted,true,"DELIVERY NOTE
+Address: h no 618, st 39, faisal town, hyderabad
+Vehicle : KHI-2857
+
+Phone: 03101561560
+
+Units - 8 x 19L
+
+Recipient : adeel waheed
+driver:Iqra Rajput
+Signature required: No"
+REC-00593,customer_service_message,planted,true,Ticket #688450 opened by Jawad Ghani. Contact: JAWAD.GHANI141@EXAMPLE.NET. Issue: the last delivery was short by two bottles.
+REC-00594,internal_operational_note,planted,true,"Shift report 2026-12-19: 33 x 19L dispatched, batch BATCH-9971-B passed QC, van LEA-8040 serviced. Pallet barcode 8969496204982, courier tracking 91668342007. Petty cash PKR 34,299."
+REC-00595,delivery_order,planted,true,"NEW ORDER - Urban Bottled Water Co.
+Order Ref - ORD-2026-425244
+Account ID - UBW-89332
+Address: House No. 724, Mall Road, Bahria Town, Lahore, 94978
+Name - Farhat Javed
+Mobile - 0092 315 4519114
+Quantity:39 x 19L
+Total: PKR 29,147
+Instructions: ring the bell twice, do not call before 9 am."
+REC-00596,contact_form,planted,true,"Hi, this is Dania Gillani. My email is d.gillani@example.net and my number is 0311 4072979. For verification, CNIC 33101-7339206-1. Thanks."
+REC-00597,subscription_record,planted,true,"SUB | UBW-36335 | Layla Usmani | Premium (6 x 19L per week) | layla_usmani788+water@example.net | H. No. 660, Tariq Road, Faisalabad | last invoice 45342"
+REC-00598,delivery_note,planted,true,"Driver Parveen Leghari delivered 8 x 19L to Bilal Raza at Flat 9C, Pearl Residencia, Askari 11, Islamabad. Contact 0335 855 1308. Batch BATCH-7614-A, van KHI-9462."
+REC-00599,customer_service_message,planted,true,"From: Iqra Abbasi <i.abbasi@example.net>
+Subject: Delivery issue
+Account:UBW-33979
+Call-back: 0092-336-8890570
+
+Hello support team,
+
+I am writing to report that the rider came after the scheduled window. شکریہ. Please look into this.
+
+Sincerely,
+Iqra Abbasi"
+REC-00600,internal_operational_note,planted,true,"Shift report 2026-08-12: 36 x 19L dispatched, batch BATCH-6462-D passed QC, van LEB-8058 serviced. Pallet barcode 8968660506808, courier tracking 79033142633. Petty cash PKR 9,236."
+REC-00601,delivery_order,planted,true,"Delivery Order - Urban Bottled Water Co.
+Order Ref : ORD-2026-388892
+Service Address : Plot 452, Sector E-11/3, Islamabad 27789
+Contact no. : 0303 172 1596
+
+Customer Name: Jawad Chaudhry
+Quantity:8 x 19L
+Total - PKR 43,775
+Instructions: ring the bell twice, do not call before 9 am."
+REC-00602,contact_form,planted,true,form_id=web-contact; name=Saad Gillani; email=saadgillani@example.com; phone=03227589271; cnic=61101-0451296-2; topic=billing
+REC-00603,subscription_record,planted,true,Tahira Chaudhry renewed the Premium (6 x 19L per week) on 14 Mar 2026 for account UBW-36760. Invoices go to tahirachaudhry@example.org. 
+REC-00604,delivery_note,planted,true,"DN-681956 | drv: Parveen Leghari | to: Fatima Siddiqui | 0303 2642987 | House #426, Street 7, Block G, DHA Phase 5, Islamabad | 12 x 19L"
+REC-00605,customer_service_message,planted,true,"Chat transcript - customer: salam, the dispenser deposit was charged twice. reach me at +92 331 7128409 and email h.rajput@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Hamza Rajput, UBW-32562"
+REC-00606,internal_operational_note,planted,true,Visited Tariq Kayani today about account UBW-25118. NIC on file 4130218985919. Will call back on 0301-3854361. - Noreen Baig
+REC-00607,delivery_order,planted,true,"new order!! name Nadia Durrani | mob 03064034633 | addr near City Hospital gate, behind Hyderi Market, Hyderabad - 19721 | 35 x 19L | cash on delivery"
+REC-00608,contact_form,planted,true,"Hello, my name is Fatima Hussain. My email is fatimahussain@example.net and my number is +92 340 7421362. My CNIC is 41302-1344809-6. Please call back."
+REC-00609,subscription_record,planted,true,"SUB | ubw-89281 | Bilal Ghani | Standard (4 x 19L per week) | bilal.ghani85@example.org | House #664, Street 24, Block A, Garden Town, Hyderabad 92686 | last invoice 76062"
+REC-00610,delivery_note,planted,true,"Driver Faizan Usmani delivered 20 x 19L to Junaid Siddiqui at H. No. 155, Ferozepur Road, Lahore. Customer mobile: +92 333 481 8144. Batch BATCH-8682-A, van RIM-1695."
+REC-00611,customer_service_message,planted,true,Ticket #228914 opened by rizwan hussain. Contact: rizwan.hussain3@example.com / +92 303 606 4405. Issue: two bottles in my last order were leaking.
+REC-00612,internal_operational_note,planted,true,Visited Ghulam Durrani today about account UBW-85605. NIC on file 38401-4033072-7. Will call back on 0301-7881419. - Omar Toor
+REC-00613,delivery_order,planted,true,"Order via WhatsApp: name Farhat Baig | ph 0334.3099866 | addr House #275, Street 4, Block B, Faisal Town, Karachi, 61337 | 37 x 19L | card on delivery"
+REC-00614,contact_form,planted,true,"Assalam o Alaikum, I am Qasim Tarar. My email is qasimtarar@example.net or call +92 303 6705999. National ID: 61101-1099420-3. Thanks."
+REC-00615,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Plan: Office bulk plan
+Service Address: House #85, Street 30, Block A, Faisal Town, Faisalabad, 61142
+Email - binalodhi@example.net
+Customer ID:UBW-48223
+Subscriber: Bina Bano Lodhi
+Start date : 17 Oct 2026
+Status: Active"
+REC-00616,delivery_note,planted,true,"DELIVERY NOTE
+Recipient: Rizwan Rajput
+Driver: Noreen Hashmi
+Drop-off:Flat 11A, Gulshan Residency, DHA Phase 6, Bahawalpur
+
+Vehicle: LEB-4352
+
+PHONE: 03067812859
+Units - 20 x 19L
+Signature required: No"
+REC-00617,customer_service_message,planted,true,"From: Saad Javed <saadjaved@example.com>
+Subject: Delivery issue
+
+Hello support team,
+
+I am writing to report that my subscription plan was changed without notice. Please look into this.
+
+Sincerely,
+Saad Javed"
+REC-00618,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Handled by : noreen rajput
+Customer Account:UBW-13853
+Customer callback - 03301879293
+Customer National ID : 52101-8789075-1
+Action: Escalated the billing dispute to accounts
+Reference: ORD-2026-326346  
+Confidential - not for external distribution."
+REC-00619,delivery_order,planted,true,"new order!! name Iqra Iqbal | ph +92 305 904 6766 | addr House No. 407, Shahrah-e-Faisal, Gulshan-e-Iqbal, Rawalpindi | 12 x 19L | card on delivery"
+REC-00620,contact_form,planted,true,"Hi, this is Omar Farooqi. You can write to o.farooqi@example.org, phone +923152181918. Please verify me with 17101-0718961-6. Please call back."
+REC-00621,subscription_record,planted,true,"SUB | UBW-21584 | Mehwish Hashmi | Basic (2 x 19L per week) | mehwish.hashmi962+water@example.com | House #370, Street 25, Block G, Shadman, Rawalpindi-89616 | last invoice 19526"
+REC-00622,delivery_note,planted,true,"DN-971777 | drv: Dania Pervez | to: Saad Sheikh | +92-334-9232357 | House #112, Street 32, Block H, North Nazimabad, Sialkot | 37 x 19L"
+REC-00623,customer_service_message,planted,true,Ticket #872442 opened by wasim usmani. Contact: wasimusmani@example.com. Issue: the dispenser deposit was charged twice.
+REC-00624,internal_operational_note,planted,true,Spoke with Alia Javed Iqbal today about account UBW-12366. Checked national ID 35202-4854480-5. Will call back on 0322-9470097. - Nadia Ahmed Gillani
+REC-00625,delivery_order,planted,true,"Order 194009 placed by Wasim Lodhi (UBW-82443) for 35 x 19L bottles. Deliver to Shop 49, Moon Market, Sialkot. Rider should phone +92 341 705 8810 on arrival. Amount due PKR 37,254."
+REC-00626,contact_form,planted,true,form_id=web-contact; name=Omar Zuberi; email=o.zuberi@example.com; cnic=3840149397433; topic=new connection
+REC-00627,subscription_record,planted,true,"Mehwish Baig renewed the Premium (6 x 19L per week) on 22/10/2026 for account UBW-78156. Send receipts to mehwish_baig656@example.org. Bottles are delivered to House #179, Street 14, Block E, Satellite Town, Quetta."
+REC-00628,delivery_note,planted,true,"Driver Nadia Tarar delivered 3 x 19L to Asif Ahmed at near the PSO petrol pump, behind Saddar Bazaar, Sialkot. Contact 0092-305-2390019. Batch BATCH-6877-E, van RIM-3412."
+REC-00629,customer_service_message,planted,true,Ticket #252795 opened by Hamza Khan. Contact: hamza_khan587@example.org. Issue: I have not received this month's invoice. پانی کی بوتلیں
+REC-00630,internal_operational_note,planted,true,Spoke with Wasim Niazi today about account UBW-29523. NIC on file 42101-0494157-3. Will call back on +92-315-8540127. - Waqar Zuberi
+REC-00631,delivery_order,planted,true,"DELIVERY ORDER - Urban Bottled Water Co.
+Order Ref : 963565
+Postal Code: 20644
+
+Mobile : 0301 1959309
+Full Name - Rizwan Hussain
+DELIVER TO: h no 516, st 13, johar town, peshawar
+Quantity - 3 x 19L
+Total:PKR 32,451  
+Instructions: ring the bell twice, do not call before 9 am."
+REC-00632,contact_form,planted,true,form_id=web-contact; name=Imran Bano Lodhi; email=imran_lodhi782@example.net; phone=0300-9319147; topic=delivery
+REC-00633,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+email: b.dogar@example.com
+Plan: Office bulk plan
+Service Address : House No. 978, Jail Road, Clifton, Islamabad, 32445
+Account ID : UBW-36557  
+Subscriber:Bilal Dogar
+Start date: 07/04/2026
+
+Status: Paused"
+REC-00634,delivery_note,planted,true,"Driver Bina Sheikh delivered 18 x 19L to Parveen Bano Yaqoob at House No. 243, Murree Road, DHA Phase 5, Karachi. Contact 0305-7233660. Batch BATCH-2774-B, van LEA-7526."
+REC-00635,customer_service_message,planted,true,"Customer: salam, two bottles in my last order were leaking. reach me at 0092-336-8996681 or mail mahnoormalik+water@example.com
+Agent: Thanks, may I have your name and account?
+Customer: Mahnoor Malik, UBW-33906"
+REC-00636,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.  
+Customer National ID - 21304-6852237-1
+Handled by:Ehsan Malik
+Customer Account : UBW-40360
+Customer callback: +92 305 8645304
+Action: Verified customer identity before changing the plan
+Reference: 28825
+Confidential - not for external distribution."
+REC-00637,delivery_order,planted,true,"Order 209996 placed by Sana Lodhi (UBW-53915) for 18 x 19L bottles. Deliver to near the main roundabout, behind Saddar Bazaar, Gujranwala. Rider should phone 03101446013 on arrival."
+REC-00638,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Submitted: 26 Jan 2026
+Email address: qasim_farooqi993@example.net
+Name : Qasim Farooqi
+
+National ID: 52101-9090862-5
+contact no.: +92 335 4504975
+Message : I want to pause deliveries for two weeks."
+REC-00639,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.  
+Plan - Family plan
+Subscriber : Luqman Cheema
+Email: luqmancheema@example.org
+Service Address - Shop 60, Anarkali Bazaar, Sialkot - 90010
+ACCT: UBW-79756
+Start date:22/06/2026  
+Status: Paused"
+REC-00640,delivery_note,planted,true,"DELIVERY NOTE
+Deliver to - House No. 957, Shahrah-e-Faisal, North Nazimabad, Islamabad  
+Driver:hamza kayani
+Vehicle: RIM-7456
+
+Units : 31 x 19L
+Recipient: Layla Lodhi
+phone - +92-321-6283559
+Signature required: Yes"
+REC-00641,customer_service_message,planted,true,Ticket #919653 opened by Tariq Zuberi. Contact: tariqzuberi@example.org / +92 323 988 3864. Issue: two bottles in my last order were leaking.
+REC-00642,internal_operational_note,planted,true,Call from Kiran Tarar today about account UBW-13363. Checked national ID 4130254421321. Will call back on +92 313 6480687. - Kiran Qureshi
+REC-00643,delivery_order,planted,true,"new order!! name Wasim Hassan Qureshi | mob 0345-8595138 | addr Shop 15, Anarkali Bazaar, Lahore | 23 x 19L | cash on delivery"
+REC-00644,contact_form,planted,true,"Hello, my name is GHULAM PERVEZ. You can write to g.pervez@example.org and my number is 03106142308. For verification, CNIC 38401-7037768-8. Please call back."
+REC-00645,subscription_record,planted,true,"SUB | UBW-27253 | Faizan Hashmi | Basic (2 x 19L per week) | faizan.hashmi37@example.com | Flat 19D, Pearl Residencia, DHA Phase 6, Lahore - 89307 | last invoice 77404"
+REC-00646,delivery_note,planted,true,"Driver Saima Tarar delivered 30 x 19L to Parveen Javed at House #885, Street 38, Block J, North Nazimabad, Multan. Customer mobile: 0092 330 6980716. Batch BATCH-3745-B, van RIM-8245."
+REC-00647,customer_service_message,planted,true,"From: Palwasha Zuberi <p.zuberi@example.net>
+Subject: Complaint
+PHONE: 0321.4832385
+
+Hello support team,
+
+I am writing to report that my subscription plan was changed without notice. Please look into this.
+
+Regards,
+Palwasha Zuberi"
+REC-00648,internal_operational_note,planted,true,Visited Tahira Ahmed Qureshi today about account UBW-25169. NIC on file 21304-8061942-1. Will call back on 0092-303-3495431. - Fatima Khan
+REC-00649,delivery_order,planted,true,"order pls - name Adeel Mirza | ph 03348804546 | addr Flat 20D, Sky Towers, Clifton Block 5, Peshawar | 20 x 19L | cash on delivery"
+REC-00650,contact_form,planted,true,form_id=web-contact; name=Ghulam Osmani; email=g.osmani@example.com; phone=+92-310-9116147; topic=billing
+REC-00651,subscription_record,planted,true,"SUB | ubw-55220 | BURHAN WAHEED | Standard (4 x 19L per week) | burhan.waheed907@example.com | H. No. 735, Shahrah-e-Faisal, Rawalpindi 70710 | last invoice 97183"
+REC-00652,delivery_note,planted,true,"DN-194617 | drv: Mahnoor Mirza | to: Naveed Kayani | 0341 4456537 | H. No. 159, MM Alam Road, Peshawar | 4 x 19L"
+REC-00653,customer_service_message,planted,true,"From: Rizwan Kayani <rizwankayani@example.com>
+Subject: Complaint
+Account: UBW-94596
+
+Hello support team,
+
+I am writing to report that the last delivery was short by two bottles. Please look into this.
+
+Sincerely,
+Rizwan Kayani"
+REC-00654,internal_operational_note,planted,true,Spoke with Dania Mirza today about account UBW-84301. Verified CNIC 17101 5485389 2. Will call back on 03302872134. - Yusra Mirza
+REC-00655,delivery_order,planted,true,"DELIVERY ORDER - Urban Bottled Water Co.
+Order Ref: 872921
+CUSTOMER NAME : Usman Lodhi
+Account ID: UBW-74107
+Drop-off - House #963, Street 20, Block E, North Nazimabad, Hyderabad  
+Postal code : 26011
+Ph: 0336.9062440
+Quantity - 33 x 19L
+Total : PKR 36,968
+Instructions: leave bottles at the gate."
+REC-00656,contact_form,planted,true,form_id=web-contact; name=Omar Baig; email=omar.baig138@example.org; topic=new connection
+REC-00657,subscription_record,planted,true,"Waqar Janjua renewed the Basic (2 x 19L per week) on 28/10/2026 for account UBW-40970. Invoices go to w.janjua@example.com. Bottles are delivered to Flat 2B, Al-Noor Heights, Askari 11, Karachi, postal code 49597."
+REC-00658,delivery_note,planted,true,"DELIVERY NOTE
+Contact : 0336-5842624
+vehicle: KHI-9378
+Recipient - Junaid Baig
+Drop-off: Plot 311, Sector F-7/3, Islamabad
+Units - 32 x 19L
+Driver - Parveen Pervez
+Signature required: Yes"
+REC-00659,customer_service_message,planted,true,"From: Layla Ghani <layla.ghani133@example.com>
+Subject: Complaint
+CALL-BACK : +923312281479
+
+Hello support team,
+
+I am writing to report that the rider came after the scheduled window. Please look into this.
+
+Regards,
+Layla Ghani"
+REC-00660,internal_operational_note,planted,true,Visited Sana Mirza today about account UBW-49513. Checked national ID 33101-0381001-9. Will call back on 0315-2955091. - Kinza Cheema
+REC-00661,delivery_order,planted,true,"Order via WhatsApp: name Ayesha Abbasi | no. 0315-6301135 | addr House #199, Street 24, Block F, Saddar, Sialkot | 15 x 19L | cash on delivery"
+REC-00662,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Submitted - 2026-03-25
+Email - mehwishmalik@example.com
+Acct : UBW-27083
+NADRA ID: 21304-6498969-5
+Name : Mehwish Malik
+Ph: 0322 9222351
+Message - Kindly send a new dispenser."
+REC-00663,subscription_record,planted,true,"Faizan Ahmed renewed the Premium (6 x 19L per week) on 03/06/2026 for account UBW-69175. Send receipts to F.AHMED@EXAMPLE.COM. Bottles are delivered to House No. 980, Murree Road, Cantt, Peshawar."
+REC-00664,delivery_note,planted,true,"DELIVERY NOTE
+Recipient Phone: +92-313-7746810
+Units : 5 x 19L
+Driver : Ghulam Usmani
+Recipient - Usman Sheikh
+Drop-off: H. No. 46, Shahrah-e-Faisal, Lahore  
+VEHICLE - LEA-9424
+Signature required: No"
+REC-00665,customer_service_message,planted,true,Ticket #388932 opened by Shahid Durrani. Contact: shahid.durrani419@example.com / +923211337271. Issue: my subscription plan was changed without notice.
+REC-00666,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Handled by:Rabia Dogar
+Customer callback:+923317145557
+Customer NIC: 5210142573978
+Customer Account : UBW-79689
+Action: Escalated the billing dispute to accounts
+Reference: ORD-2026-033643
+Confidential - not for external distribution."
+REC-00667,delivery_order,planted,true,"DELIVERY ORDER - Urban Bottled Water Co.
+Order Ref : ORD-2026-958324
+Contact no. : 0341.9887051
+
+ACCOUNT ID : UBW-73655
+Customer Name : Zara Dogar
+Drop-off:House #815, Street 8, Block A, Gulshan-e-Iqbal, Lahore-87137
+Quantity - 18 x 19L
+Total - PKR 38,449
+Instructions: ring the bell twice, do not call before 9 am."
+REC-00668,contact_form,planted,true,"CONTACT FORM SUBMISSION
+
+Received : 19 Feb 2026
+Identity No. : 38401-3914105-3
+Contact no. : 0333.8051249
+full name:Hira Tarar
+Email - hira_tarar979@example.com
+Message - Kindly send a new dispenser."
+REC-00669,subscription_record,planted,true,"Burhan Sheikh renewed the Family plan on 21/10/2026 for account UBW-68255. Send receipts to burhan.sheikh241@example.net. Bottles are delivered to Flat 19D, Sky Towers, DHA Phase 6, Sialkot."
+REC-00670,delivery_note,planted,true,"DELIVERY NOTE
+
+Drop-off - H. No. 585, Murree Road, Rawalpindi
+Units: 34 x 19L
+Recipient: Bina Siddiqui
+Vehicle: KHI-8170
+Recipient Phone : +92 322 8756805
+Driver : Iqra Siddiqui
+Signature required: Yes"
+REC-00671,customer_service_message,planted,true,"From: Zahida Hussain <zahida_hussain744@example.net>
+Subject: Delivery issue
+Mobile: +923330839286
+
+Hello support team,
+
+I am writing to report that my subscription plan was changed without notice. Please look into this.
+
+Thanks,
+Zahida Hussain"
+REC-00672,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Handled by:Fatima Malik
+Customer Account - UBW-82510
+Action: Renewed the subscription at customer request
+Reference: ORD-2026-278548
+Confidential - not for external distribution."
+REC-00673,delivery_order,planted,true,"new order!! name Rizwan Waheed | mob 0321-1714793 | addr House No. 956, Jail Road, Cantt, Islamabad | 34 x 19L | card on delivery"
+REC-00674,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Submitted: 27 Feb 2026
+E-mail:mehwish_osmani141@example.org
+Name: mehwish osmani
+Message: Please update my contact details."
+REC-00675,subscription_record,planted,true,"SUB | UBW-44364 | Wasim Yaqoob | Basic (2 x 19L per week) | w.yaqoob@example.com | House No. 769, University Road, Gulshan-e-Iqbal, Faisalabad 28958 | last invoice 35329"
+REC-00676,delivery_note,planted,true,"DN-864921 | drv: Mehwish Usmani | to: Jawad Dogar | +923038653473 | House #609, Street 35, Block K, Garden Town, Faisalabad | 36 x 19L"
+REC-00677,customer_service_message,planted,true,"Chat transcript - customer: salam, I have not received this month's invoice. reach me at +92-305-3799605 or mail ayesha.dogar279@example.org
+Agent: Thanks, may I have your name and account?
+Customer: Ayesha Dogar, UBW-52788"
+REC-00678,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.  
+Customer callback: +923035491629
+Customer Account: UBW-59959
+customer national id:33101-5260591-1
+Handled by - Tariq Raza
+Action: Escalated the billing dispute to accounts  
+Reference: 82776
+Confidential - not for external distribution."
+REC-00679,delivery_order,planted,true,"Order via WhatsApp: name Saad Gillani | no. +923061677861 | addr H. No. 336, Jail Road, Faisalabad | 3 x 19L | cash on delivery"
+REC-00680,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received:28/06/2026
+Email: bina.rajput301@example.org
+Contact no.:03357296545
+Name - Bina Rajput
+Message:I want to pause deliveries for two weeks."
+REC-00681,subscription_record,planted,true,"SUB | UBW-32925 | Mehwish Bano Usmani | Standard (4 x 19L per week) | m.usmani@example.com | Plot 877, Sector F-7/3, Islamabad-25520 | last invoice 96067"
+REC-00682,delivery_note,planted,true,"DELIVERY NOTE
+
+Driver: Naveed Waheed
+Recipient Phone: 0305-1548539  
+Recipient: Alia Farooqi
+Vehicle: ISB-1982
+Units - 35 x 19L
+Drop-off: House No. 835, University Road, Satellite Town, Hyderabad
+Signature required: Yes"
+REC-00683,customer_service_message,planted,true,Ticket #277003 opened by OMAR IQBAL. Contact: o.iqbal@example.org / 0336 6473815. Issue: the rider came after the scheduled window.
+REC-00684,internal_operational_note,planted,true,Call from Sana Tarar today about account UBW-52506. Checked national ID 17101-4269208-5. Will call back on 0313 0791030. - Wasim Osmani
+REC-00685,delivery_order,planted,true,"Order ORD-2026-472645 placed by Adeel Khan (UBW-99413) for 30 x 19L bottles. Deliver to House #459, Street 19, Block J, Cantt, Bahawalpur, 74389. Rider should phone 0306-3247214 on arrival."
+REC-00686,contact_form,planted,true,form_id=web-contact; name=adeel lodhi; email=adeel_lodhi702@example.com; phone=0300 9108383; cnic=35202-6493199-4; topic=new connection
+REC-00687,subscription_record,planted,true,"SUB | UBW-23610 | Tahira Yaqoob | Office bulk plan | tahirayaqoob@example.com | House No. 13, Main Boulevard, Faisal Town, Faisalabad, 93148 | last invoice 77395"
+REC-00688,delivery_note,planted,true,"Driver Iqra Hussain delivered 6 x 19L to Wasim Sheikh at Shop 69, Saddar Bazaar, Rawalpindi. Contact 03300897366. Batch BATCH-2755-A, van ISB-4562."
+REC-00689,customer_service_message,planted,true,Ticket #639484 opened by Faizan Yaqoob. Contact: faizanyaqoob@example.net. Issue: I have not received this month's invoice.
+REC-00690,internal_operational_note,planted,true,Spoke with Naveed Javed today about account UBW-68905. Verified CNIC 5210190671967. Will call back on 03120611180. - Mehwish Durrani
+REC-00691,delivery_order,planted,true,"new order!! name Uzma Qureshi | no. 03361731464 | addr House #662, Street 36, Block H, Gulberg III, Lahore | 35 x 19L | cash on delivery"
+REC-00692,contact_form,planted,true,form_id=web-contact; name=Parveen Khan; email=PARVEEN.KHAN190@EXAMPLE.COM; phone=+923237739482; topic=new connection
+REC-00693,subscription_record,planted,true,"Naveed Cheema renewed the Basic (2 x 19L per week) on 17/01/2026 for account UBW-95180. Billing contact: n.cheema@example.com. Bottles are delivered to near City Hospital gate, behind Saddar Bazaar, Rawalpindi."
+REC-00694,delivery_note,planted,true,"Driver Uzma Javed delivered 2 x 19L to Yusra Yaqoob at H. No. 938, Ferozepur Road, Peshawar. Contact 0311-0283563. Batch BATCH-7212-D, van KHI-5570."
+REC-00695,customer_service_message,planted,true,Ticket #981562 opened by iqra javed zuberi. Contact: iqra_zuberi996@example.org. Issue: the last delivery was short by two bottles.
+REC-00696,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+
+Customer National ID: 21304-9423725-4
+
+Customer Account:UBW-87526
+
+Handled by - Tahira Bano Usmani  
+customer callback : +92 301 877 1006
+Action: Renewed the subscription at customer request
+Reference: BATCH-1501-C  
+Confidential - not for external distribution."
+REC-00697,delivery_order,planted,true,"Order via WhatsApp: name Kinza Mirza | ph +92 323 0392144 | addr Plot 130, Sector G-9/2, Islamabad, 21400 | 35 x 19L | cash on delivery"
+REC-00698,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received: 2026-10-13
+Mob : 0334 5273994
+Account - UBW-69889
+Full Name: Uzma Ahmed
+E-mail: u.ahmed@example.com
+
+Message: Kindly send a new dispenser."
+REC-00699,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Subscriber : Asif Bukhari
+Plan : Office bulk plan
+Email: A.BUKHARI@EXAMPLE.COM
+SERVICE ADDRESS:Flat 12D, Al-Noor Heights, Gulistan-e-Jauhar Block 15, Islamabad
+
+Postal Code : 12367
+Account ID: UBW-16524
+Start date:2026-02-08
+Status: Paused"
+REC-00700,delivery_note,planted,true,"Driver TARIQ ALI BUKHARI delivered 31 x 19L to Farhat Tarar at House No. 626, Ferozepur Road, Faisal Town, Karachi. Recipient phone 0305-9636177. Batch BATCH-8002-A, van LEA-2411."
+REC-00701,customer_service_message,planted,true,"Chat transcript - customer: salam, the last delivery was short by two bottles. شکریہ reach me at 0303-7217356 or mail adeel_chaudhry55@example.com
+Agent: Thanks, may I have your name and account?
+Customer: Adeel Chaudhry, UBW-87810"
+REC-00702,internal_operational_note,planted,true,Call from Tahira Khan today about account UBW-64159. Verified CNIC 33101-4681322-8. Will call back on +92 330 578 1659. - Bina Tarar
+REC-00703,delivery_order,planted,true,"Delivery Order - Urban Bottled Water Co.
+Order Ref: 332552
+Contact no.: 03159033185
+
+Customer - Alia Osmani
+Address : House #793, Street 5, Block A, Bahria Town, Bahawalpur - 53553
+Account : UBW-15951
+
+Quantity: 13 x 19L
+
+Total: PKR 12,325
+Note: collect empty bottles."
+REC-00704,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Submitted - 27 Jan 2026
+Email address: b.dogar@example.org
+Tel:+923236041577
+National ID - 21304-5912948-2
+Name: Bina Dogar
+Message - I want to pause deliveries for two weeks."
+REC-00705,subscription_record,planted,true,"SUB | UBW-51123 | hassan mirza | Family plan | h.mirza@example.org | House #1, Street 6, Block C, Model Town, Islamabad | last invoice 17801"
+REC-00706,delivery_note,planted,true,"DELIVERY NOTE
+Recipient:Mehwish Ali Durrani  
+Units: 18 x 19L  
+Phone - 0092-310-5822105
+Vehicle - ISB-6567
+DRIVER:Ayesha Lodhi
+Drop-off : near the main roundabout, behind Hyderi Market, Gujranwala
+Signature required: No"
+REC-00707,customer_service_message,planted,true,"From: Noreen Ahmed <noreen.ahmed4@example.com>
+Subject: Billing question
+Account: UBW-76385
+
+Hello support team,
+
+I am writing to report that the dispenser deposit was charged twice. Please look into this.
+
+Sincerely,
+Noreen Ahmed"
+REC-00708,internal_operational_note,planted,true,Call from Usman Bukhari today about account UBW-15990. NIC on file 52101 9690671 1. Will call back on 0301-6837673. - Ehsan Mirza
+REC-00709,delivery_order,planted,true,"order pls - name Hassan Farooqi | ph +92 301 4053977 | addr near the main roundabout, behind Moon Market, Hyderabad-26424 | 39 x 19L | paid online"
+REC-00710,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Submitted:2026-05-18  
+E-mail - m.cheema+water@example.com
+NIC: 17101-5253006-5
+Contact - +92-303-8275030
+
+Account ID:UBW-27040
+
+Full Name: Mahnoor Cheema
+Message: Please update my contact details."
+REC-00711,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Service Address: near City Hospital gate, behind Hyderi Market, Quetta
+Postal Code: 81176
+Subscriber: Hira Dogar
+Email : hira.dogar289@example.org
+customer no.:UBW-69132
+Plan - Family plan  
+Start date: 05/01/2026
+Status: Paused"
+REC-00712,delivery_note,planted,true,"DN-199051 | drv: Parveen Qureshi | to: Qasim Niazi | 0340-2867507 | House #805, Street 8, Block J, Cantt, Hyderabad | 33 x 19L"
+REC-00713,customer_service_message,planted,true,Ticket #198772 opened by Kinza Hashmi. Contact: kinzahashmi@example.net / +923219545817. Issue: I have not received this month's invoice.
+REC-00714,internal_operational_note,planted,true,Call from Ehsan Raza today about account UBW-89150. Checked national ID 52101-8046216-3. Will call back on 0323-2593308. - Saima Chaudhry
+REC-00715,delivery_order,planted,true,"Delivery Order - Urban Bottled Water Co.
+Order Ref: ORD-2026-141841
+contact no.: +923332726525  
+Customer: Hassan Hashmi
+Address - House #565, Street 14, Block K, Bahria Town, Islamabad 80340
+Quantity: 11 x 19L
+Instructions: ring the bell twice, do not call before 9 am."
+REC-00716,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received:7 Jan 2026
+E-mail: shahid_khan510@example.com
+Customer No. : UBW-64778
+NADRA ID - 61101-8444612-2
+Name:Shahid Khan  
+Message: Please update my contact details."
+REC-00717,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Subscriber: Yusra Rajput
+Service Address:House No. 397, Mall Road, Model Town, Sialkot
+customer no. : UBW-84381
+Postal Code: 29770
+Billing Email: yusra.rajput270@example.net
+Plan:Standard (4 x 19L per week)
+Start date: 13 Apr 2026  
+Status: Active"
+REC-00718,delivery_note,planted,true,"Driver Shahid Qureshi delivered 11 x 19L to Bina Cheema at H. No. 91, University Road, Lahore. Contact +92-323-2259717. Batch BATCH-3251-F, van KHI-4546."
+REC-00719,customer_service_message,planted,true,Ticket #527361 opened by Ehsan Tarar. Contact: ehsantarar@example.net / 0335.8271038. Issue: the rider came after the scheduled window. براہ کرم جلدی کریں
+REC-00720,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+customer account - UBW-36347
+Customer NIC : 6110161343081
+Handled by: Noreen Waheed
+Action: Updated the delivery address in the CRM
+Reference: 61171  
+Confidential - not for external distribution."
+REC-00721,delivery_order,planted,true,"Order via WhatsApp: name Hamza Toor | no. 0313 5628815 | addr near the old water tank, behind Anarkali Bazaar, Multan 58590 | 26 x 19L | paid online"
+REC-00722,contact_form,planted,true,"Assalam o Alaikum, I am Saad Toor. You can write to s.toor+water@example.net, phone +92 340 513 9691. My CNIC is 21304-3109904-7. I would like to upgrade my plan."
+REC-00723,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Service Address: House No. 126, University Road, Gulberg III, Peshawar-97516  
+Email - ayeshakayani@example.net
+Account - UBW-44704
+PLAN - Family plan
+Subscriber : Ayesha Kayani
+Start date: 2026-03-06
+Status: Pending renewal"
+REC-00724,delivery_note,planted,true,"DELIVERY NOTE
+Drop-off - H. No. 817, Murree Road, Hyderabad
+Units:18 x 19L
+Phone : 0313.2956450
+Driver: Uzma Janjua
+Recipient:Zara Yaqoob
+vehicle: KHI-9160
+Signature required: No"
+REC-00725,customer_service_message,planted,true,"From: OMAR JANJUA <o.janjua@example.net>
+Subject: Delivery issue
+Account: UBW-99445
+Call-back: 0306-8117570
+
+Hello support team,
+
+I am writing to report that two bottles in my last order were leaking. شکریہ. Please look into this.
+
+Regards,
+OMAR JANJUA"
+REC-00726,internal_operational_note,planted,true,Visited Palwasha Lodhi today about account UBW-35967. Customer read out 6110104494443 for verification. Will call back on 03068692233. - Imran Rajput
+REC-00727,delivery_order,planted,true,"Order via WhatsApp: name Usman Ansari | ph +92 345 357 7047 | addr near the old water tank, behind Moon Market, Islamabad, 68024 | 35 x 19L | paid online"
+REC-00728,contact_form,planted,true,form_id=web-contact; name=Mehwish Qureshi; email=mehwishqureshi@example.net; phone=0323-1537431; topic=new connection
+REC-00729,subscription_record,planted,true,"SUB | UBW-92853 | Parveen Niazi | Basic (2 x 19L per week) | parveen_niazi128@example.com | h no 228, st 36, wapda town, hyderabad | last invoice 92610"
+REC-00730,delivery_note,planted,true,"DN-211285 | drv: Kinza Sheikh | to: Imran Leghari | 03063520198 | near the old water tank, behind Jinnah Super Market, Rawalpindi | 12 x 19L"
+REC-00731,customer_service_message,planted,true,"Customer: salam, the dispenser deposit was charged twice. call me on 0322-6795231 or mail zahidausmani@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Zahida Usmani, UBW-17492"
+REC-00732,internal_operational_note,planted,true,Spoke with Noreen Leghari today about account UBW-94902. Customer read out 38401-0105913-8 for verification. Will call back on 0323-8250637. - Hassan Cheema
+REC-00733,delivery_order,planted,true,"Order 788758 placed by Bina Iqbal (UBW-97027) for 25 x 19L bottles. Deliver to House #179, Street 26, Block A, Satellite Town, Peshawar. Please call 0345-1203548 on arrival. Amount due PKR 21,257."
+REC-00734,contact_form,planted,true,form_id=web-contact; name=Waqar Farooqi; email=waqar.farooqi378@example.net; topic=delivery
+REC-00735,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Subscriber : Uzma Malik
+
+Plan: Basic (2 x 19L per week)
+Account:UBW-75028
+service address : House #683, Street 1, Block B, Cantt, Islamabad
+Billing Email - UZMA_MALIK823+WATER@EXAMPLE.COM
+Postal Code: 95462
+Start date : 11 Dec 2026
+
+Status: Pending renewal"
+REC-00736,delivery_note,planted,true,"DN-860302 | drv: Naveed Siddiqui | to: Burhan Pervez | 0092-315-3406031 | House #646, Street 25, Block F, Bahria Town, Lahore | 14 x 19L"
+REC-00737,customer_service_message,planted,true,"Chat transcript - customer: salam, my subscription plan was changed without notice. call me on 0322-8158591 and email yusra.zuberi163@example.com
+Agent: Thanks, may I have your name and account?
+Customer: Yusra Zuberi, UBW-59563"
+REC-00738,internal_operational_note,planted,true,Call from Mahnoor Dogar today about account UBW-67050. Customer read out 33101-1493623-7 for verification. Will call back on 03319950329. - Shahid Bano Durrani
+REC-00739,delivery_order,planted,true,"Order 746403 placed by Kinza Chaudhry (UBW-60609) for 13 x 19L bottles. Deliver to House No. 482, Tariq Road, Gulberg III, Rawalpindi, 87183. Call 0312-5922413 on arrival."
+REC-00740,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received : 20 Sep 2026
+Customer ID: UBW-49283
+Name: hira qureshi  
+Email address : h.qureshi@example.com  
+Identity No. : 17101-3462315-7
+Message - I want to pause deliveries for two weeks."
+REC-00741,subscription_record,planted,true,"SUB | UBW-29150 | Zara Janjua | Family plan | z.janjua@example.com | Plot 717, Sector F-10/2, Islamabad - 32457 | last invoice 89356"
+REC-00742,delivery_note,planted,true,"DELIVERY NOTE
+Vehicle - ISB-3114
+Units:38 x 19L  
+Recipient: Waqar Siddiqui
+Recipient Phone: +92 313 167 3677
+Address:House No. 991, Main Boulevard, Shadman, Lahore
+Driver: Noreen Leghari
+Signature required: Yes"
+REC-00743,customer_service_message,planted,true,"Chat transcript - customer: salam, the rider came after the scheduled window. reach me at 0092-321-6601537 or mail w.durrani@example.com
+Agent: Thanks, may I have your name and account?
+Customer: Waqar Durrani, UBW-56692"
+REC-00744,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Customer Account: UBW-44221
+Customer callback: +92 311 4351588
+HANDLED BY: Naveed Ahmed
+Action: Updated the delivery address in the CRM
+Reference: BATCH-4000-C
+Confidential - not for external distribution."
+REC-00745,delivery_order,planted,true,"Order via WhatsApp: name Saad Ahmed Hashmi | ph +923308463009 | addr Plot 821, Sector E-11/3, Islamabad | 22 x 19L | paid online"
+REC-00746,contact_form,planted,true,"CONTACT FORM SUBMISSION
+
+Received: 6 Mar 2026  
+National Identity Card: 42101-5068364-4  
+Contact: 03314420728
+NAME: Hira Durrani
+Mail: hira.durrani663@example.org
+Message: Please update my contact details."
+REC-00747,subscription_record,planted,true,"Tahira Baig renewed the Family plan on 2026-06-12 for account UBW-28611. Send receipts to tahira_baig452@example.net. Bottles are delivered to near Jamia Masjid, behind Anarkali Bazaar, Quetta, postal code 65950."
+REC-00748,delivery_note,planted,true,"DN-948821 | drv: Ghulam Ahmed Pervez | to: Adeel Tarar | 0300-3637045 | House No. 48, Ferozepur Road, Satellite Town, Islamabad | 20 x 19L"
+REC-00749,customer_service_message,planted,true,"From: Adeel Baig <adeelbaig@example.org>
+Subject: Delivery issue
+Account: UBW-43940
+
+Hello support team,
+
+I am writing to report that the rider came after the scheduled window. Please look into this.
+
+Thanks,
+Adeel Baig"
+REC-00750,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Handled by : KIRAN MIRZA
+Customer Account : UBW-67764
+Customer callback:+923412488697
+Action: Scheduled a replacement dispenser
+Reference: BATCH-2250-B
+Confidential - not for external distribution."
+REC-00751,delivery_order,planted,true,"Order ORD-2026-476488 placed by nadia ghani (UBW-16553) for 5 x 19L bottles. Deliver to House No. 705, Shahrah-e-Faisal, North Nazimabad, Multan - 90503. Rider should phone +92 334 0704032 on arrival. Amount due PKR 7,601."
+REC-00752,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received: 2026-03-05
+Identity No.: 3310141905014
+Contact no.: 0306-8258248
+Full Name: Alia Sheikh
+Mail : a.sheikh@example.com
+Message : Kindly send a new dispenser."
+REC-00753,subscription_record,planted,true,"SUB | UBW-34833 | yusra bano zuberi | Office bulk plan | yusrazuberi@example.net | Shop 10, Hyderi Market, Gujranwala - 51054 | last invoice 62069"
+REC-00754,delivery_note,planted,true,"DELIVERY NOTE
+Phone: +92 333 7955173
+Deliver to: House No. 164, Jail Road, Cantt, Islamabad
+Vehicle:LEA-7854
+UNITS : 11 x 19L
+Recipient - Adeel Yaqoob  
+Driver:Kinza Pervez
+Signature required: No"
+REC-00755,customer_service_message,planted,true,"Customer: salam, I want to move my delivery day from Wednesday to Friday. my number is 0321 4348804 and email s.khan@example.com
+Agent: Thanks, may I have your name and account?
+Customer: Sana Khan, UBW-91723"
+REC-00756,internal_operational_note,planted,true,Call from Fatima Chaudhry today about account UBW-39419. NIC on file 61101-1583118-3. Will call back on 0341-1404386. - Noreen Hashmi
+REC-00757,delivery_order,planted,true,"Order ORD-2026-408381 placed by Sana Iqbal (UBW-52823) for 21 x 19L bottles. Deliver to Flat 1A, Pearl Residencia, DHA Phase 6, Peshawar. Rider should phone 0092-335-6998722 on arrival. Amount due PKR 25,181."
+REC-00758,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received - 6 Feb 2026
+Cell # : +923236739854
+National ID: 17101-5214228-2
+E-mail : waqar_osmani251@example.net  
+Name - Waqar Osmani
+Message: I want to pause deliveries for two weeks."
+REC-00759,subscription_record,planted,true,"SUB | UBW-17472 | Alia Janjua | Office bulk plan | a.janjua@example.com | H. No. 114, Shahrah-e-Faisal, Rawalpindi - 12608 | last invoice 10279"
+REC-00760,delivery_note,planted,true,"DN-844262 | drv: Hassan Ahmed | to: Parveen Siddiqui | 0305-0064572 | House No. 335, Ferozepur Road, Bahria Town, Karachi | 17 x 19L"
+REC-00761,customer_service_message,planted,true,"From: Ayesha Ansari <ayesha_ansari863@example.com>
+Subject: Delivery issue
+Account: UBW-17817
+Mobile: +92 340 1047699
+
+Hello support team,
+
+I am writing to report that the rider came after the scheduled window. Please look into this.
+
+Sincerely,
+Ayesha Ansari"
+REC-00762,internal_operational_note,planted,true,Spoke with Saad Pervez today about account UBW-20918. Checked national ID 1710129701237. Will call back on +92 341 909 8804. - Alia Cheema
+REC-00763,delivery_order,planted,true,"Order ORD-2026-366296 placed by Kiran Ahmed (UBW-80852) for 13 x 19L bottles. Deliver to near the old water tank, behind Liberty Market, Bahawalpur. Call +923103374318 on arrival."
+REC-00764,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Submitted:20/08/2026
+Email - dania_baig395@example.com
+Customer ID:UBW-95745
+Name:Dania Baig
+
+NIC: 41302-8768556-2  
+Mob : +92 322 976 4359
+Message: I want to pause deliveries for two weeks."
+REC-00765,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+subscriber:Luqman Pervez  
+Acct:UBW-27891
+Plan : Family plan  
+Postal Code - 49041
+Billing Email: luqmanpervez@example.net  
+Service Address: H. No. 10, Murree Road, Gujranwala
+Start date: 9 Feb 2026  
+Status: Pending renewal"
+REC-00766,delivery_note,planted,true,"Driver Bina Iqbal delivered 36 x 19L to Mahnoor Rajput at Shop 38, Hyderi Market, Lahore. Customer mobile: 0336 8999882. Batch BATCH-1161-E, van LEA-5345."
+REC-00767,customer_service_message,planted,true,"From: Parveen Osmani <p.osmani@example.com>
+Subject: Complaint
+Mobile: 0331-0655729
+
+Hello support team,
+
+I am writing to report that the rider came after the scheduled window. Please look into this.
+
+Sincerely,
+Parveen Osmani"
+REC-00768,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Customer Account - UBW-80891
+Customer NIC - 3520292833746
+customer callback : +92 333 439 4145
+Handled by: Kiran Noor Qureshi
+Action: Processed a refund for damaged bottles
+Reference: ORD-2026-585061
+Confidential - not for external distribution."
+REC-00769,delivery_order,planted,true,"new order!! name Waqar Niazi | ph +923157247643 | addr H. No. 515, Murree Road, Karachi - 12556 | 28 x 19L | paid online"
+REC-00770,contact_form,planted,true,"Hi, this is Ghulam Hassan Iqbal. You can write to g.iqbal@example.com and my number is 0092 323 8119299. For verification, CNIC 21304-7078969-9. I would like to upgrade my plan."
+REC-00771,subscription_record,planted,true,"SUB | UBW-38240 | Dania Ansari | Premium (6 x 19L per week) | dania_ansari141@example.org | House #128, Street 39, Block A, Clifton, Islamabad | last invoice 43897"
+REC-00772,delivery_note,planted,true,"Driver Palwasha Waheed delivered 16 x 19L to Tariq Usmani at House No. 869, Tariq Road, Satellite Town, Lahore. Recipient phone +92 340 733 2874. Batch BATCH-3247-C, van KHI-1100."
+REC-00773,customer_service_message,planted,true,Ticket #585820 opened by Ehsan Ansari. Contact: ehsan.ansari4@example.org / 0303-1140673. Issue: the dispenser deposit was charged twice.
+REC-00774,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Customer callback: 0336-5121645
+Handled by : Kinza Toor
+Customer Account : UBW-52104
+Action: Updated the delivery address in the CRM
+Reference: BATCH-6034-C
+Confidential - not for external distribution."
+REC-00775,delivery_order,planted,true,"Order 836444 placed by Tahira Bukhari (UBW-25608) for 38 x 19L bottles. Deliver to Plot 303, Sector G-9/2, Islamabad - 70456. Call 0331-8873878 on arrival. Amount due PKR 32,522."
+REC-00776,contact_form,planted,true,form_id=web-contact; name=Tariq Baig; email=tariqbaig@example.com; topic=new connection
+REC-00777,subscription_record,planted,true,"SUB | UBW-50072 | Iqra Ansari | Standard (4 x 19L per week) | iqra_ansari202+water@example.net | House No. 321, Ferozepur Road, Johar Town, Lahore | last invoice 73259"
+REC-00778,delivery_note,planted,true,"Driver Rizwan Durrani delivered 27 x 19L to Kiran Ansari at House #454, Street 25, Block C, Cantt, Quetta. Recipient phone 03238330961. Batch BATCH-4439-D, van RIM-2069."
+REC-00779,customer_service_message,planted,true,"Chat transcript - customer: salam, the rider came after the scheduled window. my number is +92 336 048 6424 or mail nadia_abbasi269@example.org
+Agent: Thanks, may I have your name and account?
+Customer: Nadia Abbasi, UBW-14840"
+REC-00780,internal_operational_note,planted,true,Visited Hamza Zuberi today about account UBW-80818. Checked national ID 33101-6540806-5. Will call back on +923154823279. - Bilal Siddiqui
+REC-00781,delivery_order,planted,true,"DELIVERY ORDER - Urban Bottled Water Co.
+Order Ref: ORD-2026-883516
+Customer:Alia Kayani
+Customer ID : UBW-26569
+
+Delivery Address: House No. 585, Jail Road, Garden Town, Bahawalpur, 78144
+WhatsApp: +92 322 8225504
+Quantity:39 x 19L
+Total: PKR 26,535
+Instructions: leave bottles at the gate."
+REC-00782,contact_form,planted,true,"CONTACT FORM SUBMISSION  
+Submitted: 15 Aug 2026
+Account : ubw-85554
+Email address:n.pervez@example.net
+Name - Noreen Pervez
+Mob - 0312-8249090
+Message: Kindly send a new dispenser."
+REC-00783,subscription_record,planted,true,Adeel Iqbal renewed the Basic (2 x 19L per week) on 17 Jun 2026 for account ubw-65914. Invoices go to adeel.iqbal11@example.net. 
+REC-00784,delivery_note,planted,true,"DELIVERY NOTE
+Contact : 0321 8907521
+Vehicle - ISB-2292
+Driver:SHAHID HASSAN IQBAL
+Recipient: Nadia Waheed
+Deliver to: H. No. 776, Mall Road, Peshawar
+Units:10 x 19L
+Signature required: No"
+REC-00785,customer_service_message,planted,true,"Customer: salam, I have not received this month's invoice. my number is +923012248548 or mail waqar.mirza104@example.com
+Agent: Thanks, may I have your name and account?
+Customer: Waqar Mirza, UBW-76592"
+REC-00786,internal_operational_note,planted,true,"Shift report 20/12/2026: 22 x 19L dispatched, batch BATCH-4354-C passed QC, van RIM-5908 serviced. Pallet barcode 8961140747529, courier tracking 84137490437. Petty cash PKR 3,193."
+REC-00787,delivery_order,planted,true,"Order 809290 placed by Sana Tarar (UBW-23428) for 19 x 19L bottles. Deliver to House #214, Street 28, Block C, Shadman, Peshawar. Call 0300 443 0170 on arrival."
+REC-00788,contact_form,planted,true,form_id=web-contact; name=Saad Baig; email=saad.baig429@example.org; phone=0092-345-0060293; cnic=61101-8483505-9; topic=delivery
+REC-00789,subscription_record,planted,true,Farhat Iqbal renewed the Family plan on 04/02/2026 for account UBW-94122. Billing contact: f.iqbal@example.org. 
+REC-00790,delivery_note,planted,true,"Driver Fatima Niazi delivered 15 x 19L to Rizwan Rajput at Flat 17B, Askari Tower 2, Bahria Town Phase 4, Multan. Customer mobile: 03337435451. Batch BATCH-1228-C, van ISB-5652."
+REC-00791,customer_service_message,planted,true,"Customer: salam, I have not received this month's invoice. my number is +92 330 038 9098, email: kiran.qureshi965@example.com
+Agent: Thanks, may I have your name and account?
+Customer: Kiran Qureshi, UBW-34417"
+REC-00792,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+CUSTOMER ACCOUNT:UBW-70532  
+Customer NIC - 55202-9924816-5
+Handled by: Iqra Lodhi
+
+Action: Processed a refund for damaged bottles
+Reference: 83140
+Confidential - not for external distribution."
+REC-00793,delivery_order,planted,true,"DELIVERY ORDER - Urban Bottled Water Co.
+
+Order Ref : ORD-2026-180765
+Deliver to:House #508, Street 20, Block C, Model Town, Lahore
+Postal code: 47960
+Acct: UBW-11833
+CUSTOMER NAME: Omar Cheema
+Cell #:+92 311 307 5804
+Quantity: 28 x 19L  
+Total : PKR 27,981  
+Instructions: leave bottles at the gate."
+REC-00794,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Submitted: 2026-02-03
+
+Tel: 0336.0206766
+Name - Ayesha Zuberi
+Email: ayesha.zuberi62@example.com
+Message: Kindly send a new dispenser."
+REC-00795,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Service Address: H. No. 845, Tariq Road, Islamabad
+Billing Email: parveen_tarar855+water@example.org
+Subscriber:Parveen Tarar
+Postal Code: 49522
+Plan:Standard (4 x 19L per week)
+Acct: UBW-48421
+Start date - 2026-07-16
+Status: Pending renewal"
+REC-00796,delivery_note,planted,true,"DN-524257 | drv: Bina Javed Tarar | to: Farhat Ansari | 0306 1774504 | House #114, Street 21, Block J, Cantt, Gujranwala | 7 x 19L"
+REC-00797,customer_service_message,planted,true,"From: Mehwish Usmani <mehwish_usmani262@example.org>
+Subject: Billing question
+Account: UBW-26633
+Mobile - 0092-334-7068258
+
+Hello support team,
+
+I am writing to report that I have not received this month's invoice. Please look into this.
+
+Sincerely,
+Mehwish Usmani"
+REC-00798,internal_operational_note,planted,true,"Shift report 09/09/2026: 34 x 19L dispatched, batch BATCH-8160-C passed QC, van ISB-1640 serviced. Pallet barcode 8962165392293, courier tracking 79552013467. Petty cash PKR 34,420."
+REC-00799,delivery_order,planted,true,"DELIVERY ORDER - Urban Bottled Water Co.
+Order Ref: 444827
+WhatsApp: 0092-310-1105921
+
+Address : near the main roundabout, behind Anarkali Bazaar, Rawalpindi 99957
+Customer Name:Dania Toor
+ACCT: UBW-29449
+Quantity : 2 x 19L
+Instructions: leave bottles at the gate."
+REC-00800,contact_form,planted,true,"Hi, this is Hamza Malik. My email is hamza_malik758@example.com and my number is +92 321 5036546. National ID: 35202-9187424-7. Please call back."
+REC-00801,subscription_record,planted,true,"Tahira Raza renewed the Standard (4 x 19L per week) on 2026-05-26 for account UBW-43965. Invoices go to tahiraraza@example.com. Bottles are delivered to House #679, Street 39, Block J, Wapda Town, Lahore, postal code 58415."
+REC-00802,delivery_note,planted,true,"DELIVERY NOTE
+Drop-off: House No. 280, Mall Road, North Nazimabad, Bahawalpur
+Units : 30 x 19L
+Vehicle: LEB-1879
+Recipient:usman toor
+DRIVER: Sana Ahmed Ahmed
+
+Contact:03364200727
+Signature required: No"
+REC-00803,customer_service_message,planted,true,Ticket #246265 opened by Nadia Kayani. Contact: nadiakayani@example.com / +92 300 4943561. Issue: the last delivery was short by two bottles.
+REC-00804,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Customer callback:03231919686
+HANDLED BY - Ehsan Hashmi
+Customer CNIC: 4210177955043  
+Customer Account - UBW-55344
+Action: Verified customer identity before changing the plan
+Reference: ORD-2026-131169
+Confidential - not for external distribution."
+REC-00805,delivery_order,planted,true,"new order!! name Faizan Sheikh | ph 0330-7301883 | addr Plot 979, Sector E-11/3, Islamabad | 21 x 19L | paid online"
+REC-00806,contact_form,planted,true,form_id=web-contact; name=Tahira Waheed; email=TAHIRA.WAHEED637@EXAMPLE.COM; cnic=33101 8251338 3; topic=delivery
+REC-00807,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Subscriber: Tariq Lodhi
+Account ID: UBW-60780
+Plan - Office bulk plan
+Postal Code: 64828
+Service Address: House #4, Street 33, Block G, Faisal Town, Quetta
+
+Email : tariq.lodhi768@example.org
+Start date: 2026-03-10
+Status: Paused"
+REC-00808,delivery_note,planted,true,"DELIVERY NOTE
+Recipient : Adeel Cheema
+Units : 24 x 19L
+
+deliver to: h no 756, st 23, model town, sialkot
+Driver - Saad Javed Waheed
+Vehicle: KHI-3819
+Contact: 0321-7261575
+
+Signature required: Yes"
+REC-00809,customer_service_message,planted,true,"From: Noreen Farooqi <noreen_farooqi550+water@example.org>
+Subject: Delivery issue
+Account: UBW-22889
+Mobile: 0092-300-5827007
+
+Hello support team,
+
+I am writing to report that the last delivery was short by two bottles. Please look into this.
+
+Regards,
+Noreen Farooqi"
+REC-00810,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Customer Account: UBW-23170
+Customer NIC:42101-3399663-3
+Customer callback - +92 334 646 0076
+Handled by : Shahid Noor Dogar
+Action: Scheduled a replacement dispenser
+
+Reference: BATCH-1746-F
+Confidential - not for external distribution."
+REC-00811,delivery_order,planted,true,"Order 961379 placed by Burhan Cheema for 35 x 19L bottles. Deliver to Plot 101, Sector F-10/2, Islamabad. Rider should phone 0322 085 4439 on arrival. Amount due PKR 14,981."
+REC-00812,contact_form,planted,true,form_id=web-contact; name=Luqman Zuberi; email=luqman.zuberi24@example.com; phone=+923318767542; cnic=5520223085758; topic=delivery
+REC-00813,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Account : UBW-74279
+Plan - Family plan
+
+Service Address: h no 649, st 25, bahria town, sialkot
+Subscriber : Kiran Javed Hussain
+POSTAL CODE - 73061
+Billing Email: kiran_hussain855@example.com
+Start date:2026-03-26
+Status: Active"
+REC-00814,delivery_note,planted,true,"DN-884930 | drv: Layla Dogar | to: Hira Cheema | 03457921527 | House #699, Street 23, Block B, North Nazimabad, Quetta | 9 x 19L"
+REC-00815,customer_service_message,planted,true,"Customer: salam, the dispenser deposit was charged twice. call me on 0300-3650480 and email omar_ghani917@example.com
+Agent: Thanks, may I have your name and account?
+Customer: Omar Ghani, UBW-35903"
+REC-00816,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Customer callback - 0315-1797459
+
+Customer CNIC - 5210112514831
+Customer Account: UBW-75980
+Handled by : Mehwish Iqbal
+Action: Escalated the billing dispute to accounts
+Reference: 21890
+Confidential - not for external distribution."
+REC-00817,delivery_order,planted,true,"NEW ORDER - Urban Bottled Water Co.
+Order Ref: ORD-2026-335604
+Service Address : House No. 503, Shahrah-e-Faisal, Faisal Town, Islamabad, 86704  
+Name: Ayesha Ali Yaqoob
+WhatsApp: 03337056683
+Quantity - 32 x 19L
+Note: collect empty bottles."
+REC-00818,contact_form,planted,true,"Hi, this is Mahnoor Lodhi. My email is mahnoorlodhi@example.org, phone +92-322-4700700. my identity card number is 55202-7861196-3. I would like to upgrade my plan."
+REC-00819,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Subscriber:Ghulam Cheema
+Customer ID: UBW-50225
+Billing Email:ghulam_cheema545@example.com
+
+Service Address: Plot 101, Sector G-11/1, Islamabad-51687
+Plan: Family plan
+Start date: 15/07/2026
+Status: Active"
+REC-00820,delivery_note,planted,true,"Driver Luqman Cheema delivered 10 x 19L to Iqra Pervez at H. No. 367, MM Alam Road, Islamabad. Contact +92 323 7984075. Batch BATCH-9256-D, van LEB-9667."
+REC-00821,customer_service_message,planted,true,"From: Zahida Durrani <zahida.durrani817@example.net>
+Subject: Delivery issue
+Account - UBW-17541
+Mobile:+92 312 295 8912
+
+Hello support team,
+
+I am writing to report that the dispenser deposit was charged twice. Please look into this.
+
+Regards,
+Zahida Durrani"
+REC-00822,internal_operational_note,planted,true,Call from Dania Janjua today about account UBW-11157. Verified CNIC 55202-8391822-8. Will call back on +923216903721. - Waqar Gillani
+REC-00823,delivery_order,planted,true,"NEW ORDER - Urban Bottled Water Co.
+Order Ref:ORD-2026-062533
+Mobile: 03344356572
+Customer Name: Kinza Farooqi
+Drop-off : House #489, Street 14, Block G, Saddar, Islamabad, 27070
+Acct : UBW-69695
+Quantity : 13 x 19L
+
+Total: PKR 24,179
+Note: collect empty bottles."
+REC-00824,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received : 01/02/2026
+Account ID: UBW-45210
+E-mail:ayeshapervez@example.net
+NIC: 33101-3093462-7
+Full Name: Ayesha Pervez
+Mobile: 0336.9220641
+Message:Please update my contact details."
+REC-00825,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Postal Code: 24250
+Plan: Family plan  
+Email: uzma.ahmed760@example.org
+Subscriber - Uzma Ahmed
+Service Address - House #631, Street 40, Block J, Clifton, Multan
+Account:UBW-89118
+Start date: 18/11/2026
+Status: Pending renewal"
+REC-00826,delivery_note,planted,true,"DELIVERY NOTE
+
+Deliver to: Shop 64, Saddar Bazaar, Peshawar
+Units: 28 x 19L
+Recipient Phone: 0092-330-5055858
+Recipient: ghulam baig  
+Driver: Palwasha Sheikh
+Vehicle: LEA-3779
+Signature required: Yes"
+REC-00827,customer_service_message,planted,true,"Chat transcript - customer: salam, two bottles in my last order were leaking. reach me at 03011904584 or mail ayeshalodhi@example.net
+Agent: Thanks, may I have your name and account?
+Customer: AYESHA LODHI, UBW-91027"
+REC-00828,internal_operational_note,planted,true,Spoke with Uzma Tarar today about account UBW-91760. NIC on file 38401-6612139-3. Will call back on +92-311-2721284. - Fatima Qureshi
+REC-00829,delivery_order,planted,true,"Order 887854 placed by Bilal Ansari (UBW-17540) for 40 x 19L bottles. Deliver to House #771, Street 18, Block B, Model Town, Faisalabad. Rider should phone 0312 205 4350 on arrival."
+REC-00830,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received : 26 Feb 2026
+Full Name - Hassan Iqbal
+
+Cell #:0310 1100023
+Acct: UBW-94006
+National Identity Card:1710130576865
+Mail: hassan_iqbal203@example.org
+Message: Kindly send a new dispenser."
+REC-00831,subscription_record,planted,true,"SUB | ubw-56481 | Yusra Lodhi | Basic (2 x 19L per week) | y.lodhi@example.org | House #65, Street 23, Block D, Faisal Town, Lahore - 53498 | last invoice 23155"
+REC-00832,delivery_note,planted,true,"DELIVERY NOTE
+
+Recipient - Hassan Rajput
+Driver : Yusra Hashmi
+Drop-off:House No. 998, Ferozepur Road, Clifton, Sialkot
+Units : 18 x 19L
+Contact: +92 341 234 3065
+Vehicle : LEB-3512
+Signature required: No"
+REC-00833,customer_service_message,planted,true,"Customer: salam, the rider came after the scheduled window. reach me at 0313.0961838 or mail kiranansari@example.net
+Agent: Thanks, may I have your name and account?
+Customer: Kiran Ansari, UBW-78126"
+REC-00834,internal_operational_note,planted,true,"Shift report 21 Jun 2026: 25 x 19L dispatched, batch BATCH-2313-E passed QC, van ISB-3765 serviced. Pallet barcode 8962385635909, courier tracking 71504797898. Petty cash PKR 49,108."
+REC-00835,delivery_order,planted,true,"DELIVERY ORDER - Urban Bottled Water Co.
+Order Ref: 289037
+Address:Plot 458, Sector F-7/3, Islamabad 82413
+Customer Name: Tariq Mirza
+Contact no.: 0092 323 2818616
+Account ID: UBW-63895
+Quantity: 2 x 19L
+Total: PKR 19,662
+Note: collect empty bottles."
+REC-00836,contact_form,planted,true,"Hi, this is Tahira Ali Farooqi. Email me at tahirafarooqi@example.net and my number is 0315-7779265. National ID: 52101-3727776-7. Thanks."
+REC-00837,subscription_record,planted,true,"SUB | ubw-56397 | Zara Dogar | Family plan | zara_dogar851@example.org | h no 289, st 14, saddar, peshawar - 78907 | last invoice 36199"
+REC-00838,delivery_note,planted,true,"DELIVERY NOTE
+Vehicle: ISB-5909
+Driver:Zara Hussain
+Recipient:Sana Khan
+Units: 7 x 19L
+Contact: 03116884809
+Drop-off: House #960, Street 40, Block E, Bahria Town, Gujranwala  
+Signature required: Yes"
+REC-00839,customer_service_message,planted,true,"From: Zara Hussain <Z.HUSSAIN@EXAMPLE.ORG>
+Subject: Delivery issue
+Account: UBW-34744
+Call-back: 0333-9472951
+
+Hello support team,
+
+I am writing to report that I want to move my delivery day from Wednesday to Friday. Please look into this.
+
+Regards,
+Zara Hussain"
+REC-00840,internal_operational_note,planted,true,"INTERNAL OPERATIONAL NOTE - Urban Bottled Water Co.
+Customer Account - UBW-68803
+customer national id: 4130262029244
+Handled by: Zara Ansari
+
+Customer callback - 0310 602 1936
+Action: Processed a refund for damaged bottles
+Reference: ORD-2026-095808
+Confidential - not for external distribution."
+REC-00841,delivery_order,planted,true,"new order!! name Noreen Toor | mob +92 301 975 6807 | addr Shop 10, Saddar Bazaar, Quetta, 98075 | 28 x 19L | paid online"
+REC-00842,contact_form,planted,true,"CONTACT FORM SUBMISSION
+Received - 03/09/2026
+
+Account ID - UBW-82542
+Email : saad_kayani864@example.org
+TEL: 03307840896
+Full Name:Saad Javed Kayani
+Message: Please update my contact details."
+REC-00843,subscription_record,planted,true,"SUBSCRIPTION RECORD - Urban Bottled Water Co.
+Email : tahiraraza+water@example.org
+Acct : UBW-25760
+Plan: Standard (4 x 19L per week)
+Postal Code: 71735  
+Service Address: Plot 838, Sector G-11/1, Islamabad
+Subscriber - Tahira Raza  
+Start date:28/09/2026
+Status: Pending renewal"
+REC-00844,delivery_note,planted,true,"Driver Dania Yaqoob delivered 27 x 19L to Burhan Waheed at House No. 433, Canal Road, Satellite Town, Hyderabad. Customer mobile: 0331-0984532. Batch BATCH-4374-B, van ISB-1487."
+REC-00845,customer_service_message,planted,true,"From: Hassan Farooqi <hassan.farooqi486@example.net>
+Subject: Delivery issue
+Account - UBW-98198
+Call-back: +923341343722
+
+Hello support team,
+
+I am writing to report that the dispenser deposit was charged twice. Please look into this.
+
+Thanks,
+Hassan Farooqi"
+REC-00846,internal_operational_note,planted,true,"Shift report 2026-11-03: 22 x 19L dispatched, batch BATCH-5955-F passed QC, van RIM-1315 serviced. Pallet barcode 8964780104156, courier tracking 86092612073. Petty cash PKR 2,389."
+REC-00847,delivery_order,planted,true,"NEW ORDER - Urban Bottled Water Co.
+Order Ref - 790685
+Postal Code - 40408
+
+Customer: Zahida Hassan Mirza
+Acct: UBW-83585  
+WhatsApp - 0300 6171740
+Service Address - House No. 544, Ferozepur Road, Bahria Town, Sialkot
+
+Quantity: 17 x 19L
+Total: PKR 29,793
+Instructions: ring the bell twice, do not call before 9 am."
+REC-00848,contact_form,planted,true,"Assalam o Alaikum, I am Hassan Khan. My email is hassan_khan901+water@example.com or call +92 334 1100417. Thanks."
+REC-00849,subscription_record,planted,true,"SUB | UBW-92751 | Bina Rajput | Basic (2 x 19L per week) | bina.rajput469@example.net | near the main roundabout, behind Moon Market, Sialkot-71201 | last invoice 87638"
+REC-00850,delivery_note,planted,true,"DN-894201 | drv: Hamza Iqbal | to: Hira Iqbal | 0300 9352783 | House #861, Street 2, Block D, Cantt, Islamabad | 9 x 19L"
+CHAL-001,customer_service_message,challenge,true,"Kindly note that I will be travelling for most of next week and the gate will be locked, so the rider should not leave the bottles outside but instead reach out to me on 0310-7067892 between 10 am and 5 pm on any weekday so that my neighbour can receive the order."
+CHAL-002,contact_form,challenge,true,Please find the verification attached. My identity number is 3840144386235 as per NADRA records.
+CHAL-003,delivery_note,challenge,true,Zara's delivery was moved to Friday. Mr.Saad Yaqoob approved the change.
+CHAL-004,customer_service_message,challenge,true,Send the invoice copy to (zahidacheema@example.net) and cc <palwasha.ahmed183+water@example.net>.
+CHAL-005,internal_operational_note,challenge,true,"Record for Sana Khan: CNIC 21304-3606256-7, mobile +923400311508."
+CHAL-006,delivery_order,challenge,true,Product barcode scanned: 8962514990608. No personal data in this record.
+CHAL-007,contact_form,challenge,true,Alternative contact provided by the customer: 0092-306-3738448.
+CHAL-008,subscription_record,challenge,true,"Subscriber Mahnoor Bukhari at Flat 7B, Clifton Block 5, Karachi - 10100.
+Contact email: m.bukhari@example.net."
+CHAL-009,contact_form,challenge,true,EMAIL ON RECORD: NADIAUSMANI@EXAMPLE.NET. PLEASE VERIFY.
+CHAL-010,internal_operational_note,challenge,true,"System health report. Order ORD-2026-369025 synced. Invoice 56512 total PKR 15,715. Tracking 89688768416. Next maintenance 25 Feb 2026. No customer data processed."
+CHAL-011,customer_service_message,challenge,true,"Primary contact 03357375522. If unreachable, try 03357375522 again after 6 pm."
+CHAL-012,customer_service_message,challenge,true,+92 322 4670464 called about a missing delivery; reply by email to hamzabaig@example.net
+CHAL-013,internal_operational_note,challenge,true,Customer read out 4130291735193 twice on the call.
+CHAL-014,delivery_note,challenge,true,Rider said the gate guard can be reached at (0305) 5910246 after dark.
+CHAL-015,internal_operational_note,challenge,true,"spoke to shahid abbasi about the leaking dispenser, will revisit."
+CHAL-016,delivery_order,challenge,true,"Please drop the bottles near the old water tank, behind Hyderi Market, Quetta - the house with the green gate."
+CHAL-017,contact_form,challenge,true,CNIC: 21304 4637981 7 (customer typed it with spaces).
+CHAL-018,customer_service_message,challenge,true,براہ کرم 0330-2554669 پر کال کریں۔ شکریہ
+CHAL-019,delivery_note,challenge,true,Contact:Rabia Javed(0312-7178761)
+CHAL-020,delivery_order,challenge,true,"Customer Name: Zoë Ahmed, café order, email fatima_cheema827@example.net."

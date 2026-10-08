@@ -1,0 +1,16 @@
+INFO pii_pipeline.ground_truth: Saved 3412 ground-truth annotations
+INFO pii_pipeline.pipeline: Dataset written: 870 records, 3412 annotations, 1038 traps
+Generated 870 records (850 planted + 20 challenge), seed=42
+Annotations: 3412 across 7 entity types; FP traps: 1038; records without PII: 23
+  ADDRESS           416
+  CNIC              203
+  CUSTOMER_ID       445
+  EMAIL_ADDRESS     431
+  PERSON           1100
+  PHONE_NUMBER      640
+  POSTAL_CODE       177
+All offsets valid: True
+  documents          data/generated/synthetic_documents.csv  sha256=c9fa2c291344...
+  ground_truth_json  data/generated/ground_truth.json  sha256=40a2b4a9d9ae...
+  ground_truth_csv   data/generated/ground_truth.csv  sha256=394e19247a0e...
+  fp_traps           data/generated/fp_traps.json  sha256=6ca1e85dee1c...

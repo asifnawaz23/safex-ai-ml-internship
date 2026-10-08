@@ -1,0 +1,178 @@
+{
+  "dataset": {
+    "generator_version": "2.0.0",
+    "seed": 42,
+    "requested_count": 850,
+    "total_records": 870,
+    "planted_records": 850,
+    "challenge_records": 20,
+    "records_without_pii": 23,
+    "annotations": 3412,
+    "traps": 1038,
+    "entity_type_counts": {
+      "ADDRESS": 416,
+      "CNIC": 203,
+      "CUSTOMER_ID": 445,
+      "EMAIL_ADDRESS": 431,
+      "PERSON": 1100,
+      "PHONE_NUMBER": 640,
+      "POSTAL_CODE": 177
+    },
+    "doc_type_counts": {
+      "contact_form": 146,
+      "customer_service_message": 146,
+      "delivery_note": 145,
+      "delivery_order": 145,
+      "internal_operational_note": 145,
+      "subscription_record": 143
+    },
+    "trap_kind_counts": {
+      "barcode": 22,
+      "batch_code": 89,
+      "bottle_count": 305,
+      "date": 159,
+      "invoice_number": 67,
+      "invoice_total": 72,
+      "order_digits": 120,
+      "order_number": 58,
+      "tracking_number": 22,
+      "vehicle_plate": 124
+    },
+    "all_offsets_valid": true,
+    "offset_convention": "0-based, end-exclusive",
+    "synthetic_only": true,
+    "files": {
+      "documents": {
+        "path": "data/generated/synthetic_documents.csv",
+        "sha256": "c9fa2c291344af6e6156220debee97b597800975e62fcb707d5cd5f73e584ac6"
+      },
+      "ground_truth_json": {
+        "path": "data/generated/ground_truth.json",
+        "sha256": "40a2b4a9d9aed52cce4d955a1bef1e660545a812e732dc3ca7f39130a0ddd6a5"
+      },
+      "ground_truth_csv": {
+        "path": "data/generated/ground_truth.csv",
+        "sha256": "394e19247a0e556df849c5e3d9798148c859e856f4fc75ff5986c5d491f2ad9e"
+      },
+      "fp_traps": {
+        "path": "data/generated/fp_traps.json",
+        "sha256": "6ca1e85dee1cfc774f9aad4bc4a8d1d13a99297458a38cf58a6af7d9881206ba"
+      }
+    }
+  },
+  "modes": {
+    "baseline": {
+      "records": 870,
+      "characters": 157997,
+      "runtime_seconds": 15.249,
+      "ms_per_record": 17.53,
+      "engine_build_seconds": 0.625,
+      "overall_recall": 0.4678,
+      "overall_precision": 0.5758,
+      "overall_f1": 0.5162,
+      "overall_redaction_coverage": 0.5188,
+      "gt_occurrences": 3412,
+      "predictions": 2772,
+      "tp": 1596,
+      "fn": 1816,
+      "fp": 1176,
+      "fp_traps": 1038,
+      "fp_trap_hits": 199,
+      "fp_trap_hit_rate": 0.1917,
+      "residual_values": 1238,
+      "residual_direct_identifier_rate": 0.1954,
+      "nlp_model": "en_core_web_sm",
+      "presidio_analyzer_version": "2.2.364",
+      "recognizers": [
+        "CreditCardRecognizer",
+        "CryptoRecognizer",
+        "DateRecognizer",
+        "EmailRecognizer",
+        "IbanRecognizer",
+        "IpRecognizer",
+        "MacAddressRecognizer",
+        "MedicalLicenseRecognizer",
+        "NhsRecognizer",
+        "PhoneRecognizer",
+        "SpacyRecognizer",
+        "UrlRecognizer",
+        "UsBankRecognizer",
+        "UsItinRecognizer",
+        "UsLicenseRecognizer",
+        "UsPassportRecognizer",
+        "UsSsnRecognizer"
+      ]
+    },
+    "improved": {
+      "records": 870,
+      "characters": 157997,
+      "runtime_seconds": 19.2,
+      "ms_per_record": 22.07,
+      "engine_build_seconds": 0.066,
+      "overall_recall": 0.8664,
+      "overall_precision": 0.7624,
+      "overall_f1": 0.8111,
+      "overall_redaction_coverage": 0.905,
+      "gt_occurrences": 3412,
+      "predictions": 3877,
+      "tp": 2956,
+      "fn": 456,
+      "fp": 921,
+      "fp_traps": 1038,
+      "fp_trap_hits": 199,
+      "fp_trap_hit_rate": 0.1917,
+      "residual_values": 250,
+      "residual_direct_identifier_rate": 0.0204,
+      "nlp_model": "en_core_web_sm",
+      "presidio_analyzer_version": "2.2.364",
+      "recognizers": [
+        "CreditCardRecognizer",
+        "CryptoRecognizer",
+        "DateRecognizer",
+        "EmailRecognizer",
+        "IbanRecognizer",
+        "IpRecognizer",
+        "LabelledPersonRecognizer",
+        "MacAddressRecognizer",
+        "MedicalLicenseRecognizer",
+        "NhsRecognizer",
+        "PakistaniAddressRecognizer",
+        "PakistaniCNICRecognizer",
+        "PakistaniPhoneRecognizer",
+        "PakistaniPostalCodeRecognizer",
+        "PhoneRecognizer",
+        "SpacyRecognizer",
+        "UBWCustomerIDRecognizer",
+        "UrlRecognizer",
+        "UsBankRecognizer",
+        "UsItinRecognizer",
+        "UsLicenseRecognizer",
+        "UsPassportRecognizer",
+        "UsSsnRecognizer"
+      ]
+    }
+  },
+  "targets": {
+    "recall": {
+      "PHONE_NUMBER": 0.85,
+      "CNIC": 0.8,
+      "EMAIL_ADDRESS": 0.9,
+      "CUSTOMER_ID": 0.95,
+      "PERSON": 0.5,
+      "ADDRESS": 0.4,
+      "POSTAL_CODE": 0.6
+    },
+    "precision": {
+      "PHONE_NUMBER": 0.9,
+      "CNIC": 0.9,
+      "EMAIL_ADDRESS": 0.95,
+      "CUSTOMER_ID": 0.95,
+      "PERSON": 0.6,
+      "ADDRESS": 0.5,
+      "POSTAL_CODE": 0.8
+    },
+    "overall_recall": 0.75,
+    "fp_trap_rate_max": 0.1,
+    "residual_direct_rate_max": 0.05
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "project": {
+    "name": "PII Detection & Redaction Pipeline",
+    "organization": "Urban Bottled Water Company (Fictional)",
+    "version": "1.0.0"
+  },
+  "dataset": {
+    "random_seed": 42,
+    "record_count": 850,
+    "output_dir": "data/generated",
+    "documents_file": "synthetic_documents.csv",
+    "ground_truth_file": "ground_truth.json",
+    "annotations_csv": "ground_truth.csv",
+    "traps_file": "fp_traps.json",
+    "manifest_file": "dataset_manifest.json"
+  },
+  "presidio": {
+    "language": "en",
+    "nlp_engine": "spacy",
+    "nlp_model": "en_core_web_sm",
+    "ner_config_source": "presidio_analyzer/conf/default.yaml (model name overridden)",
+    "score_threshold": 0.35
+  },
+  "entities": {
+    "in_scope": [
+      "PERSON",
+      "PHONE_NUMBER",
+      "CNIC",
+      "EMAIL_ADDRESS",
+      "ADDRESS",
+      "POSTAL_CODE",
+      "CUSTOMER_ID"
+    ],
+    "baseline_entities": ["PERSON", "PHONE_NUMBER", "EMAIL_ADDRESS", "LOCATION"],
+    "improved_entities": [
+      "PERSON",
+      "PHONE_NUMBER",
+      "EMAIL_ADDRESS",
+      "LOCATION",
+      "CNIC",
+      "ADDRESS",
+      "POSTAL_CODE",
+      "CUSTOMER_ID"
+    ],
+    "label_mapping": {
+      "PERSON": "PERSON",
+      "PHONE_NUMBER": "PHONE_NUMBER",
+      "EMAIL_ADDRESS": "EMAIL_ADDRESS",
+      "CNIC": "CNIC",
+      "ADDRESS": "ADDRESS",
+      "LOCATION": "ADDRESS",
+      "POSTAL_CODE": "POSTAL_CODE",
+      "CUSTOMER_ID": "CUSTOMER_ID"
+    },
+    "redaction_map": {
+      "PERSON": "[PERSON]",
+      "PHONE_NUMBER": "[PHONE]",
+      "CNIC": "[CNIC]",
+      "EMAIL_ADDRESS": "[EMAIL]",
+      "ADDRESS": "[ADDRESS]",
+      "POSTAL_CODE": "[POSTAL_CODE]",
+      "CUSTOMER_ID": "[CUSTOMER_ID]"
+    },
+    "fallback_placeholder": "[REDACTED]"
+  },
+  "redaction": {
+    "conflict_resolution": "remove_intersections"
+  },
+  "targets": {
+    "recall": {
+      "PHONE_NUMBER": 0.85,
+      "CNIC": 0.80,
+      "EMAIL_ADDRESS": 0.90,
+      "CUSTOMER_ID": 0.95,
+      "PERSON": 0.50,
+      "ADDRESS": 0.40,
+      "POSTAL_CODE": 0.60
+    },
+    "precision": {
+      "PHONE_NUMBER": 0.90,
+      "CNIC": 0.90,
+      "EMAIL_ADDRESS": 0.95,
+      "CUSTOMER_ID": 0.95,
+      "PERSON": 0.60,
+      "ADDRESS": 0.50,
+      "POSTAL_CODE": 0.80
+    },
+    "overall_recall": 0.75,
+    "fp_trap_rate_max": 0.10,
+    "residual_direct_rate_max": 0.05
+  },
+  "output": {
+    "redacted_dir": "output/redacted",
+    "metrics_dir": "output/metrics",
+    "charts_dir": "output/charts",
+    "predictions_dir": "output/predictions"
+  },
+  "privacy": {
+    "allowed_email_domains": ["example.com", "example.org", "example.net"],
+    "hmac_key_env": "PII_PIPELINE_HMAC_KEY",
+    "max_document_chars": 50000,
+    "allowed_input_dirs": ["data"]
+  },
+  "logging": {
+    "level": "INFO",
+    "log_raw_text": false,
+    "log_file": "output/pipeline.log"
+  }
+}

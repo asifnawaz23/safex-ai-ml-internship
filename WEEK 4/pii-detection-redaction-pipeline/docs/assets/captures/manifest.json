@@ -1,0 +1,104 @@
+{
+  "captured_at": "2026-10-07T20:09:47+05:00",
+  "python": "3.13.5",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "note": "Raw merged stdout/stderr of each command, CRLF normalised, trailing spaces stripped, absolute project-root prefixes replaced by repo-relative paths.",
+  "hash_guard": {
+    "dirs": [
+      "data/generated",
+      "output/metrics",
+      "output/charts",
+      "output/predictions"
+    ],
+    "files": 32,
+    "unchanged": true
+  },
+  "captures": [
+    {
+      "file": "generate.txt",
+      "display_command": "& $py -m pii_pipeline.cli generate",
+      "argv": [
+        "-m",
+        "pii_pipeline.cli",
+        "generate"
+      ],
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "seconds": 0.46,
+      "path_prefixes_stripped": 0
+    },
+    {
+      "file": "redact_rec00008_baseline.txt",
+      "display_command": "& $py -m pii_pipeline.cli redact --record-id REC-00008 --mode baseline",
+      "argv": [
+        "-m",
+        "pii_pipeline.cli",
+        "redact",
+        "--record-id",
+        "REC-00008",
+        "--mode",
+        "baseline"
+      ],
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "seconds": 4.14,
+      "path_prefixes_stripped": 0
+    },
+    {
+      "file": "redact_rec00008_improved.txt",
+      "display_command": "& $py -m pii_pipeline.cli redact --record-id REC-00008",
+      "argv": [
+        "-m",
+        "pii_pipeline.cli",
+        "redact",
+        "--record-id",
+        "REC-00008"
+      ],
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "seconds": 3.19,
+      "path_prefixes_stripped": 0
+    },
+    {
+      "file": "redact_refused_domain.txt",
+      "display_command": "& $py -m pii_pipeline.cli redact --text \"mail someone@gmail.com\"",
+      "argv": [
+        "-m",
+        "pii_pipeline.cli",
+        "redact",
+        "--text",
+        "mail someone@gmail.com"
+      ],
+      "exit_code": 2,
+      "expected_exit_code": 2,
+      "seconds": 2.26,
+      "path_prefixes_stripped": 0
+    },
+    {
+      "file": "evaluate.txt",
+      "display_command": "& $py -m pii_pipeline.cli evaluate",
+      "argv": [
+        "-m",
+        "pii_pipeline.cli",
+        "evaluate"
+      ],
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "seconds": 1.34,
+      "path_prefixes_stripped": 0
+    },
+    {
+      "file": "pytest_q.txt",
+      "display_command": "& $py -m pytest -q",
+      "argv": [
+        "-m",
+        "pytest",
+        "-q"
+      ],
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "seconds": 11.04,
+      "path_prefixes_stripped": 0
+    }
+  ]
+}

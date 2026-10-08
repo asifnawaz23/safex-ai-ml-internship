@@ -1,0 +1,9 @@
+entity_type,gt_count,baseline_tp,baseline_fn,baseline_fp,baseline_recall,baseline_precision,baseline_f1,baseline_overlap_recall,baseline_redaction_coverage,improved_tp,improved_fn,improved_fp,improved_recall,improved_precision,improved_f1,improved_overlap_recall,improved_redaction_coverage,delta_recall,delta_precision,delta_f1,target_recall,target_precision,improved_meets_recall_target,improved_meets_precision_target
+PERSON,1100,622,478,721,0.5655,0.4631,0.5092,0.6745,0.6409,765,335,707,0.6955,0.5197,0.5949,0.7882,0.7700,+0.1300,+0.0566,+0.0857,0.5,0.6,yes,no
+PHONE_NUMBER,640,591,49,70,0.9234,0.8941,0.9085,0.9250,0.9266,630,10,70,0.9844,0.9000,0.9403,0.9859,0.9875,+0.0609,+0.0059,+0.0318,0.85,0.9,yes,yes
+CNIC,203,0,203,0,0.0000,N/A,N/A,0.0000,0.0000,184,19,0,0.9064,1.0000,0.9509,0.9064,0.9064,+0.9064,N/A,N/A,0.8,0.9,yes,yes
+EMAIL_ADDRESS,431,383,48,48,0.8886,0.8886,0.8886,1.0000,1.0000,383,48,48,0.8886,0.8886,0.8886,1.0000,1.0000,+0.0000,+0.0000,+0.0000,0.9,0.95,no,no
+ADDRESS,416,0,416,337,0.0000,0.0000,0.0000,0.5072,0.0000,372,44,96,0.8942,0.7949,0.8416,0.9255,0.8942,+0.8942,+0.7949,+0.8416,0.4,0.5,yes,yes
+POSTAL_CODE,177,0,177,0,0.0000,N/A,N/A,0.0000,0.0169,177,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,+1.0000,N/A,N/A,0.6,0.8,yes,yes
+CUSTOMER_ID,445,0,445,0,0.0000,N/A,N/A,0.0000,0.0854,445,0,0,1.0000,1.0000,1.0000,1.0000,1.0000,+1.0000,N/A,N/A,0.95,0.95,yes,yes
+OVERALL,3412,1596,1816,1176,0.4678,0.5758,0.5162,0.5791,0.5188,2956,456,921,0.8664,0.7624,0.8111,0.9144,0.9050,+0.3986,+0.1867,+0.2949,0.75,,yes,
